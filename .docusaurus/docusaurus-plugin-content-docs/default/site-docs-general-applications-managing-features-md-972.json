@@ -1,0 +1,26 @@
+{
+  "unversionedId": "general-applications/managing-features",
+  "id": "general-applications/managing-features",
+  "isDocsHomePage": false,
+  "title": "Managing Features",
+  "description": "Feature Flags allow you to ship code and features before they are finished.",
+  "source": "@site/docs/general-applications/managing-features.md",
+  "sourceDirName": "general-applications",
+  "slug": "/general-applications/managing-features",
+  "permalink": "/general-applications/managing-features",
+  "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/general-applications/managing-features.md",
+  "version": "current",
+  "frontMatter": {
+    "title": "Managing Features",
+    "description": "Feature Flags allow you to ship code and features before they are finished."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/general-applications/overview"
+  },
+  "next": {
+    "title": "Managing Identities",
+    "permalink": "/general-applications/managing-identities"
+  }
+}

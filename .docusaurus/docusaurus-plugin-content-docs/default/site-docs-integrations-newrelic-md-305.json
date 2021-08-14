@@ -1,0 +1,28 @@
+{
+  "unversionedId": "integrations/newrelic",
+  "id": "integrations/newrelic",
+  "isDocsHomePage": false,
+  "title": "New Relic Analytics Integration",
+  "description": "Integrate Flagsmith with New Relic",
+  "source": "@site/docs/integrations/newrelic.md",
+  "sourceDirName": "integrations",
+  "slug": "/integrations/newrelic",
+  "permalink": "/integrations/newrelic",
+  "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/integrations/newrelic.md",
+  "version": "current",
+  "frontMatter": {
+    "title": "New Relic Analytics Integration",
+    "description": "Integrate Flagsmith with New Relic",
+    "sidebar_label": "New Relic",
+    "hide_title": true
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Mixpanel",
+    "permalink": "/integrations/mixpanel"
+  },
+  "next": {
+    "title": "Segment",
+    "permalink": "/integrations/segment"
+  }
+}

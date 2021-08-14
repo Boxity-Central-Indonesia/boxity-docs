@@ -1,0 +1,26 @@
+{
+  "unversionedId": "advanced-used/api",
+  "id": "advanced-used/api",
+  "isDocsHomePage": false,
+  "title": "The Flagsmith REST API",
+  "description": "Flagsmith is built around a client/server architecture. The REST API server is accessible from SDK clients as well as",
+  "source": "@site/docs/advanced-used/api.md",
+  "sourceDirName": "advanced-used",
+  "slug": "/advanced-used/api",
+  "permalink": "/advanced-used/api",
+  "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/advanced-used/api.md",
+  "version": "current",
+  "frontMatter": {
+    "title": "The Flagsmith REST API",
+    "sidebar_label": "REST API"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "A/B Testing",
+    "permalink": "/advanced-used/ab-testing"
+  },
+  "next": {
+    "title": "Audit Logs",
+    "permalink": "/advanced-used/audit-logs"
+  }
+}

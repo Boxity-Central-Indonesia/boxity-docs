@@ -1,0 +1,26 @@
+{
+  "unversionedId": "advanced-used/permissions",
+  "id": "advanced-used/permissions",
+  "isDocsHomePage": false,
+  "title": "Permissions",
+  "description": "Team member and group permissions.",
+  "source": "@site/docs/advanced-used/permissions.md",
+  "sourceDirName": "advanced-used",
+  "slug": "/advanced-used/permissions",
+  "permalink": "/advanced-used/permissions",
+  "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/advanced-used/permissions.md",
+  "version": "current",
+  "frontMatter": {
+    "title": "Permissions",
+    "description": "Team member and group permissions."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Integration Approaches",
+    "permalink": "/advanced-used/integration-approaches"
+  },
+  "next": {
+    "title": "Staged Feature Rollouts",
+    "permalink": "/advanced-used/staged-feature-rollouts"
+  }
+}

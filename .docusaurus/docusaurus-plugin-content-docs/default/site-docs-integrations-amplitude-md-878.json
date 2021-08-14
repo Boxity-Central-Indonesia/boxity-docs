@@ -1,0 +1,27 @@
+{
+  "unversionedId": "integrations/amplitude",
+  "id": "integrations/amplitude",
+  "isDocsHomePage": false,
+  "title": "Amplitude Integration",
+  "description": "Amplitude",
+  "source": "@site/docs/integrations/amplitude.md",
+  "sourceDirName": "integrations",
+  "slug": "/integrations/amplitude",
+  "permalink": "/integrations/amplitude",
+  "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/integrations/amplitude.md",
+  "version": "current",
+  "frontMatter": {
+    "title": "Amplitude Integration",
+    "sidebar_label": "Amplitude",
+    "hide_title": true
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/integrations/overview"
+  },
+  "next": {
+    "title": "AppDynamics",
+    "permalink": "/integrations/appdynamics"
+  }
+}

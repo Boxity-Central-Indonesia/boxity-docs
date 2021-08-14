@@ -1,0 +1,25 @@
+{
+  "unversionedId": "advanced-use/staged-feature-rollouts",
+  "id": "advanced-use/staged-feature-rollouts",
+  "isDocsHomePage": false,
+  "title": "Staged Feature Rollouts",
+  "description": "What are Staged Feature Rollouts",
+  "source": "@site/docs/advanced-use/staged-feature-rollouts.md",
+  "sourceDirName": "advanced-use",
+  "slug": "/advanced-use/staged-feature-rollouts",
+  "permalink": "/advanced-use/staged-feature-rollouts",
+  "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/advanced-use/staged-feature-rollouts.md",
+  "version": "current",
+  "frontMatter": {
+    "title": "Staged Feature Rollouts"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Permissions",
+    "permalink": "/advanced-use/permissions"
+  },
+  "next": {
+    "title": "System Administration",
+    "permalink": "/advanced-use/system-administration"
+  }
+}

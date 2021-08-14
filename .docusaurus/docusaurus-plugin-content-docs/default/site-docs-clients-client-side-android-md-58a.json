@@ -1,0 +1,28 @@
+{
+  "unversionedId": "clients/client-side/android",
+  "id": "clients/client-side/android",
+  "isDocsHomePage": false,
+  "title": "Flagsmith Android SDK",
+  "description": "Manage your Feature Flags and Remote Config in your Android applications.",
+  "source": "@site/docs/clients/client-side/android.md",
+  "sourceDirName": "clients/client-side",
+  "slug": "/clients/android",
+  "permalink": "/clients/android",
+  "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/clients/client-side/android.md",
+  "version": "current",
+  "frontMatter": {
+    "title": "Flagsmith Android SDK",
+    "sidebar_label": "Android",
+    "description": "Manage your Feature Flags and Remote Config in your Android applications.",
+    "slug": "/clients/android"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "3rd Party",
+    "permalink": "/clients/02-3rd-party"
+  },
+  "next": {
+    "title": "Flutter",
+    "permalink": "/clients/flutter"
+  }
+}

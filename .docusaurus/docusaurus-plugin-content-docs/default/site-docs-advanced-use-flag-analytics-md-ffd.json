@@ -1,0 +1,25 @@
+{
+  "unversionedId": "advanced-use/flag-analytics",
+  "id": "advanced-use/flag-analytics",
+  "isDocsHomePage": false,
+  "title": "Feature Flag Analytics",
+  "description": "This feature is currently in beta. Please contact us if you are interested in joining the beta!",
+  "source": "@site/docs/advanced-use/flag-analytics.md",
+  "sourceDirName": "advanced-use",
+  "slug": "/advanced-use/flag-analytics",
+  "permalink": "/advanced-use/flag-analytics",
+  "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/advanced-use/flag-analytics.md",
+  "version": "current",
+  "frontMatter": {
+    "title": "Feature Flag Analytics"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Audit Logs",
+    "permalink": "/advanced-use/audit-logs"
+  },
+  "next": {
+    "title": "Integration Approaches",
+    "permalink": "/advanced-use/integration-approaches"
+  }
+}

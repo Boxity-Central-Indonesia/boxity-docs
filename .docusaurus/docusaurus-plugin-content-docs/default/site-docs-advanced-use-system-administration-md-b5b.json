@@ -1,0 +1,25 @@
+{
+  "unversionedId": "advanced-use/system-administration",
+  "id": "advanced-use/system-administration",
+  "isDocsHomePage": false,
+  "title": "System Administration",
+  "description": "Web Hooks",
+  "source": "@site/docs/advanced-use/system-administration.md",
+  "sourceDirName": "advanced-use",
+  "slug": "/advanced-use/system-administration",
+  "permalink": "/advanced-use/system-administration",
+  "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/advanced-use/system-administration.md",
+  "version": "current",
+  "frontMatter": {
+    "title": "System Administration"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Staged Feature Rollouts",
+    "permalink": "/advanced-use/staged-feature-rollouts"
+  },
+  "next": {
+    "title": "REST",
+    "permalink": "/clients/rest"
+  }
+}

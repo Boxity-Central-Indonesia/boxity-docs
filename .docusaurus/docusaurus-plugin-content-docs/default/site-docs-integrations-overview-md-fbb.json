@@ -1,0 +1,30 @@
+{
+  "unversionedId": "integrations/overview",
+  "id": "integrations/overview",
+  "isDocsHomePage": false,
+  "title": "Flagsmith Integrations",
+  "description": "Flagsmith Integrations",
+  "source": "@site/docs/integrations/overview.md",
+  "sourceDirName": "integrations",
+  "slug": "/integrations/overview",
+  "permalink": "/integrations/overview",
+  "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/integrations/overview.md",
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Flagsmith Integrations",
+    "description": "Flagsmith Integrations",
+    "sidebar_label": "Overview",
+    "hide_title": true,
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rust",
+    "permalink": "/clients/rust"
+  },
+  "next": {
+    "title": "Amplitude",
+    "permalink": "/integrations/amplitude"
+  }
+}

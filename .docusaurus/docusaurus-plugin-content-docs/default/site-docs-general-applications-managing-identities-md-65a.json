@@ -1,0 +1,26 @@
+{
+  "unversionedId": "general-applications/managing-identities",
+  "id": "general-applications/managing-identities",
+  "isDocsHomePage": false,
+  "title": "Managing Identities",
+  "description": "Manage user traits and properties independently of your application.",
+  "source": "@site/docs/general-applications/managing-identities.md",
+  "sourceDirName": "general-applications",
+  "slug": "/general-applications/managing-identities",
+  "permalink": "/general-applications/managing-identities",
+  "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/general-applications/managing-identities.md",
+  "version": "current",
+  "frontMatter": {
+    "title": "Managing Identities",
+    "description": "Manage user traits and properties independently of your application."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Managing Features",
+    "permalink": "/general-applications/managing-features"
+  },
+  "next": {
+    "title": "Managing Segments",
+    "permalink": "/general-applications/managing-segments"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "unversionedId": "enterprise-edition copy",
+  "id": "enterprise-edition copy",
+  "isDocsHomePage": false,
+  "title": "Enterprise Edition",
+  "description": "Overview",
+  "source": "@site/docs/enterprise-edition copy.md",
+  "sourceDirName": ".",
+  "slug": "/enterprise-edition copy",
+  "permalink": "/enterprise-edition copy",
+  "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/enterprise-edition copy.md",
+  "version": "current",
+  "frontMatter": {
+    "title": "Enterprise Edition"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Releases",
+    "permalink": "/platform/releases"
+  },
+  "next": {
+    "title": "Enterprise Edition",
+    "permalink": "/enterprise-edition"
+  }
+}

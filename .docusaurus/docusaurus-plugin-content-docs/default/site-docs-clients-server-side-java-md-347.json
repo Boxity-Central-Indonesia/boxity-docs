@@ -1,0 +1,28 @@
+{
+  "unversionedId": "clients/server-side/java",
+  "id": "clients/server-side/java",
+  "isDocsHomePage": false,
+  "title": "Flagsmith Java SDK",
+  "description": "Manage your Feature Flags and Remote Config in your Java applications.",
+  "source": "@site/docs/clients/server-side/java.md",
+  "sourceDirName": "clients/server-side",
+  "slug": "/clients/java",
+  "permalink": "/clients/java",
+  "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/clients/server-side/java.md",
+  "version": "current",
+  "frontMatter": {
+    "title": "Flagsmith Java SDK",
+    "sidebar_label": "Java",
+    "description": "Manage your Feature Flags and Remote Config in your Java applications.",
+    "slug": "/clients/java"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Go",
+    "permalink": "/clients/go"
+  },
+  "next": {
+    "title": "NodeJS",
+    "permalink": "/clients/node"
+  }
+}

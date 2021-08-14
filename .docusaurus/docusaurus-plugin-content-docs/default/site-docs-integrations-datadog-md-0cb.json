@@ -1,0 +1,27 @@
+{
+  "unversionedId": "integrations/datadog",
+  "id": "integrations/datadog",
+  "isDocsHomePage": false,
+  "title": "Datadog Integration",
+  "description": "Datadog",
+  "source": "@site/docs/integrations/datadog.md",
+  "sourceDirName": "integrations",
+  "slug": "/integrations/datadog",
+  "permalink": "/integrations/datadog",
+  "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/integrations/datadog.md",
+  "version": "current",
+  "frontMatter": {
+    "title": "Datadog Integration",
+    "sidebar_label": "Datadog",
+    "hide_title": true
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AppDynamics",
+    "permalink": "/integrations/appdynamics"
+  },
+  "next": {
+    "title": "Heap Analytics",
+    "permalink": "/integrations/heap"
+  }
+}

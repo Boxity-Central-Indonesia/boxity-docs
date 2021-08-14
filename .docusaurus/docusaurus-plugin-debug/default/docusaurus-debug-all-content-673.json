@@ -1,0 +1,1576 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/",
+          "versionEditUrl": "https://github.com/bintangjtobing/boxity-docs/docs",
+          "versionEditUrlLocalized": "https://github.com/bintangjtobing/boxity-docs/i18n/en/docusaurus-plugin-content-docs/current",
+          "versionBanner": "none",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Volumes/StorageY/GitHub/boxity-docs/sidebars.js",
+          "contentPath": "/Volumes/StorageY/GitHub/boxity-docs/docs",
+          "contentPathLocalized": "/Volumes/StorageY/GitHub/boxity-docs/i18n/en/docusaurus-plugin-content-docs/current",
+          "mainDocId": "intro",
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro",
+                "label": "Overview"
+              },
+              {
+                "type": "category",
+                "label": "General Applications",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "general-applications/overview",
+                    "label": "Overview"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "general-applications/managing-features"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "general-applications/managing-identities"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "general-applications/managing-segments"
+                  }
+                ],
+                "collapsed": false,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Advanced Use",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "advanced-use/ab-testing"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "advanced-use/api",
+                    "label": "REST API"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "advanced-use/audit-logs"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "advanced-use/flag-analytics"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "advanced-use/integration-approaches"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "advanced-use/permissions"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "advanced-use/staged-feature-rollouts"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "advanced-use/system-administration"
+                  }
+                ],
+                "collapsed": false,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "SDKs",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "clients/rest",
+                    "label": "REST"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "clients/02-3rd-party",
+                    "label": "3rd Party"
+                  },
+                  {
+                    "type": "category",
+                    "label": "Client Side",
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "clients/client-side/android",
+                        "label": "Android"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "clients/client-side/flutter",
+                        "label": "Flutter"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "clients/client-side/ios",
+                        "label": "iOS"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "clients/client-side/javascript",
+                        "label": "Javascript"
+                      }
+                    ],
+                    "collapsed": false,
+                    "collapsible": true
+                  },
+                  {
+                    "type": "category",
+                    "label": "Server Side",
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "clients/server-side/dotnet",
+                        "label": ".Net"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "clients/server-side/go",
+                        "label": "Go"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "clients/server-side/java",
+                        "label": "Java"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "clients/server-side/node",
+                        "label": "NodeJS"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "clients/server-side/php",
+                        "label": "PHP"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "clients/server-side/python",
+                        "label": "Python"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "clients/server-side/ruby",
+                        "label": "Ruby"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "clients/server-side/rust",
+                        "label": "Rust"
+                      }
+                    ],
+                    "collapsed": false,
+                    "collapsible": true
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Integrations",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "integrations/overview",
+                    "label": "Overview"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "integrations/amplitude",
+                    "label": "Amplitude"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "integrations/appdynamics",
+                    "label": "AppDynamics"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "integrations/datadog",
+                    "label": "Datadog"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "integrations/heap",
+                    "label": "Heap Analytics"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "integrations/mixpanel",
+                    "label": "Mixpanel"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "integrations/newrelic",
+                    "label": "New Relic"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "integrations/segment",
+                    "label": "Segment"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "integrations/slack",
+                    "label": "Slack"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Deployment",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "deployment/overview",
+                    "label": "Overview"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "deployment/locally-api",
+                    "label": "Locally - API"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "deployment/locally-frontend",
+                    "label": "Locally - Frontend"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "deployment/docker"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "deployment/kubernetes"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "deployment/openshift",
+                    "label": "OpenShift"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "deployment/AWS",
+                    "label": "AWS"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "deployment/sizing-and-scaling"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Platform",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "platform/contributing"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "platform/releases"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              }
+            ]
+          },
+          "docs": [
+            {
+              "unversionedId": "advanced-use/ab-testing",
+              "id": "advanced-use/ab-testing",
+              "isDocsHomePage": false,
+              "title": "A/B Testing",
+              "description": "A/B testing enables you to experiment with design and functionality variants of your application. The data generated",
+              "source": "@site/docs/advanced-use/ab-testing.md",
+              "sourceDirName": "advanced-use",
+              "slug": "/advanced-use/ab-testing",
+              "permalink": "/advanced-use/ab-testing",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/advanced-use/ab-testing.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "A/B Testing"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Managing Segments",
+                "permalink": "/general-applications/managing-segments"
+              },
+              "next": {
+                "title": "REST API",
+                "permalink": "/advanced-use/api"
+              }
+            },
+            {
+              "unversionedId": "advanced-use/api",
+              "id": "advanced-use/api",
+              "isDocsHomePage": false,
+              "title": "The Flagsmith REST API",
+              "description": "Flagsmith is built around a client/server architecture. The REST API server is accessible from SDK clients as well as",
+              "source": "@site/docs/advanced-use/api.md",
+              "sourceDirName": "advanced-use",
+              "slug": "/advanced-use/api",
+              "permalink": "/advanced-use/api",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/advanced-use/api.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "The Flagsmith REST API",
+                "sidebar_label": "REST API"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "A/B Testing",
+                "permalink": "/advanced-use/ab-testing"
+              },
+              "next": {
+                "title": "Audit Logs",
+                "permalink": "/advanced-use/audit-logs"
+              }
+            },
+            {
+              "unversionedId": "advanced-use/audit-logs",
+              "id": "advanced-use/audit-logs",
+              "isDocsHomePage": false,
+              "title": "Audit Logs",
+              "description": "Every action taken within the Flagsmith administration application is tracked and logged.",
+              "source": "@site/docs/advanced-use/audit-logs.md",
+              "sourceDirName": "advanced-use",
+              "slug": "/advanced-use/audit-logs",
+              "permalink": "/advanced-use/audit-logs",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/advanced-use/audit-logs.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Audit Logs",
+                "description": "Every action taken within the Flagsmith administration application is tracked and logged."
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "REST API",
+                "permalink": "/advanced-use/api"
+              },
+              "next": {
+                "title": "Feature Flag Analytics",
+                "permalink": "/advanced-use/flag-analytics"
+              }
+            },
+            {
+              "unversionedId": "advanced-use/flag-analytics",
+              "id": "advanced-use/flag-analytics",
+              "isDocsHomePage": false,
+              "title": "Feature Flag Analytics",
+              "description": "This feature is currently in beta. Please contact us if you are interested in joining the beta!",
+              "source": "@site/docs/advanced-use/flag-analytics.md",
+              "sourceDirName": "advanced-use",
+              "slug": "/advanced-use/flag-analytics",
+              "permalink": "/advanced-use/flag-analytics",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/advanced-use/flag-analytics.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Feature Flag Analytics"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Audit Logs",
+                "permalink": "/advanced-use/audit-logs"
+              },
+              "next": {
+                "title": "Integration Approaches",
+                "permalink": "/advanced-use/integration-approaches"
+              }
+            },
+            {
+              "unversionedId": "advanced-use/integration-approaches",
+              "id": "advanced-use/integration-approaches",
+              "isDocsHomePage": false,
+              "title": "Integration Approaches",
+              "description": "We have put a lot of work into making the Flagsmith API fast, stable, reliable and fault tolerant. That being said,",
+              "source": "@site/docs/advanced-use/integration-approaches.md",
+              "sourceDirName": "advanced-use",
+              "slug": "/advanced-use/integration-approaches",
+              "permalink": "/advanced-use/integration-approaches",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/advanced-use/integration-approaches.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Integration Approaches"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Feature Flag Analytics",
+                "permalink": "/advanced-use/flag-analytics"
+              },
+              "next": {
+                "title": "Permissions",
+                "permalink": "/advanced-use/permissions"
+              }
+            },
+            {
+              "unversionedId": "advanced-use/permissions",
+              "id": "advanced-use/permissions",
+              "isDocsHomePage": false,
+              "title": "Permissions",
+              "description": "Team member and group permissions.",
+              "source": "@site/docs/advanced-use/permissions.md",
+              "sourceDirName": "advanced-use",
+              "slug": "/advanced-use/permissions",
+              "permalink": "/advanced-use/permissions",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/advanced-use/permissions.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Permissions",
+                "description": "Team member and group permissions."
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Integration Approaches",
+                "permalink": "/advanced-use/integration-approaches"
+              },
+              "next": {
+                "title": "Staged Feature Rollouts",
+                "permalink": "/advanced-use/staged-feature-rollouts"
+              }
+            },
+            {
+              "unversionedId": "advanced-use/staged-feature-rollouts",
+              "id": "advanced-use/staged-feature-rollouts",
+              "isDocsHomePage": false,
+              "title": "Staged Feature Rollouts",
+              "description": "What are Staged Feature Rollouts",
+              "source": "@site/docs/advanced-use/staged-feature-rollouts.md",
+              "sourceDirName": "advanced-use",
+              "slug": "/advanced-use/staged-feature-rollouts",
+              "permalink": "/advanced-use/staged-feature-rollouts",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/advanced-use/staged-feature-rollouts.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Staged Feature Rollouts"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Permissions",
+                "permalink": "/advanced-use/permissions"
+              },
+              "next": {
+                "title": "System Administration",
+                "permalink": "/advanced-use/system-administration"
+              }
+            },
+            {
+              "unversionedId": "advanced-use/system-administration",
+              "id": "advanced-use/system-administration",
+              "isDocsHomePage": false,
+              "title": "System Administration",
+              "description": "Web Hooks",
+              "source": "@site/docs/advanced-use/system-administration.md",
+              "sourceDirName": "advanced-use",
+              "slug": "/advanced-use/system-administration",
+              "permalink": "/advanced-use/system-administration",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/advanced-use/system-administration.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "System Administration"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Staged Feature Rollouts",
+                "permalink": "/advanced-use/staged-feature-rollouts"
+              },
+              "next": {
+                "title": "REST",
+                "permalink": "/clients/rest"
+              }
+            },
+            {
+              "unversionedId": "clients/02-3rd-party",
+              "id": "clients/02-3rd-party",
+              "isDocsHomePage": false,
+              "title": "3rd Party SDKs",
+              "description": "Flagsmith 3rd Party Client SDKs",
+              "source": "@site/docs/clients/02-3rd-party.md",
+              "sourceDirName": "clients",
+              "slug": "/clients/02-3rd-party",
+              "permalink": "/clients/02-3rd-party",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/clients/02-3rd-party.md",
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "description": "Flagsmith 3rd Party Client SDKs",
+                "sidebar_label": "3rd Party",
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "REST",
+                "permalink": "/clients/rest"
+              },
+              "next": {
+                "title": "Android",
+                "permalink": "/clients/android"
+              }
+            },
+            {
+              "unversionedId": "clients/client-side/android",
+              "id": "clients/client-side/android",
+              "isDocsHomePage": false,
+              "title": "Flagsmith Android SDK",
+              "description": "Manage your Feature Flags and Remote Config in your Android applications.",
+              "source": "@site/docs/clients/client-side/android.md",
+              "sourceDirName": "clients/client-side",
+              "slug": "/clients/android",
+              "permalink": "/clients/android",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/clients/client-side/android.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Flagsmith Android SDK",
+                "sidebar_label": "Android",
+                "description": "Manage your Feature Flags and Remote Config in your Android applications.",
+                "slug": "/clients/android"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "3rd Party",
+                "permalink": "/clients/02-3rd-party"
+              },
+              "next": {
+                "title": "Flutter",
+                "permalink": "/clients/flutter"
+              }
+            },
+            {
+              "unversionedId": "clients/client-side/flutter",
+              "id": "clients/client-side/flutter",
+              "isDocsHomePage": false,
+              "title": "Flagsmith Flutter SDK",
+              "description": "Manage your Feature Flags and Remote Config in your Flutter applications.",
+              "source": "@site/docs/clients/client-side/flutter.md",
+              "sourceDirName": "clients/client-side",
+              "slug": "/clients/flutter",
+              "permalink": "/clients/flutter",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/clients/client-side/flutter.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Flagsmith Flutter SDK",
+                "sidebar_label": "Flutter",
+                "description": "Manage your Feature Flags and Remote Config in your Flutter applications.",
+                "slug": "/clients/flutter"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Android",
+                "permalink": "/clients/android"
+              },
+              "next": {
+                "title": "iOS",
+                "permalink": "/clients/ios"
+              }
+            },
+            {
+              "unversionedId": "clients/client-side/ios",
+              "id": "clients/client-side/ios",
+              "isDocsHomePage": false,
+              "title": "Flagsmith iOS SDK",
+              "description": "Manage your Feature Flags and Remote Config in your iOS applications.",
+              "source": "@site/docs/clients/client-side/ios.md",
+              "sourceDirName": "clients/client-side",
+              "slug": "/clients/ios",
+              "permalink": "/clients/ios",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/clients/client-side/ios.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Flagsmith iOS SDK",
+                "sidebar_label": "iOS",
+                "description": "Manage your Feature Flags and Remote Config in your iOS applications.",
+                "slug": "/clients/ios"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Flutter",
+                "permalink": "/clients/flutter"
+              },
+              "next": {
+                "title": "Javascript",
+                "permalink": "/clients/javascript"
+              }
+            },
+            {
+              "unversionedId": "clients/client-side/javascript",
+              "id": "clients/client-side/javascript",
+              "isDocsHomePage": false,
+              "title": "Flagsmith Javascript SDK",
+              "description": "Manage your Feature Flags and Remote Config in your Javascript applications.",
+              "source": "@site/docs/clients/client-side/javascript.md",
+              "sourceDirName": "clients/client-side",
+              "slug": "/clients/javascript",
+              "permalink": "/clients/javascript",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/clients/client-side/javascript.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Flagsmith Javascript SDK",
+                "sidebar_label": "Javascript",
+                "description": "Manage your Feature Flags and Remote Config in your Javascript applications.",
+                "slug": "/clients/javascript"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "iOS",
+                "permalink": "/clients/ios"
+              },
+              "next": {
+                "title": ".Net",
+                "permalink": "/clients/dotnet"
+              }
+            },
+            {
+              "unversionedId": "clients/rest",
+              "id": "clients/rest",
+              "isDocsHomePage": false,
+              "title": "Direct API Access",
+              "description": "Manage your Feature Flags and Remote Config in your REST APIs.",
+              "source": "@site/docs/clients/01-rest.md",
+              "sourceDirName": "clients",
+              "slug": "/clients/rest",
+              "permalink": "/clients/rest",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/clients/01-rest.md",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "description": "Manage your Feature Flags and Remote Config in your REST APIs.",
+                "sidebar_label": "REST"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "System Administration",
+                "permalink": "/advanced-use/system-administration"
+              },
+              "next": {
+                "title": "3rd Party",
+                "permalink": "/clients/02-3rd-party"
+              }
+            },
+            {
+              "unversionedId": "clients/server-side/dotnet",
+              "id": "clients/server-side/dotnet",
+              "isDocsHomePage": false,
+              "title": "Flagsmith .Net SDK",
+              "description": "Manage your Feature Flags and Remote Config in your .Net applications.",
+              "source": "@site/docs/clients/server-side/dotnet.md",
+              "sourceDirName": "clients/server-side",
+              "slug": "/clients/dotnet",
+              "permalink": "/clients/dotnet",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/clients/server-side/dotnet.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Flagsmith .Net SDK",
+                "sidebar_label": ".Net",
+                "description": "Manage your Feature Flags and Remote Config in your .Net applications.",
+                "slug": "/clients/dotnet"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Javascript",
+                "permalink": "/clients/javascript"
+              },
+              "next": {
+                "title": "Go",
+                "permalink": "/clients/go"
+              }
+            },
+            {
+              "unversionedId": "clients/server-side/go",
+              "id": "clients/server-side/go",
+              "isDocsHomePage": false,
+              "title": "Flagsmith Go SDK",
+              "description": "Manage your Feature Flags and Remote Config in your Go applications.",
+              "source": "@site/docs/clients/server-side/go.md",
+              "sourceDirName": "clients/server-side",
+              "slug": "/clients/go",
+              "permalink": "/clients/go",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/clients/server-side/go.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Flagsmith Go SDK",
+                "sidebar_label": "Go",
+                "description": "Manage your Feature Flags and Remote Config in your Go applications.",
+                "slug": "/clients/go"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": ".Net",
+                "permalink": "/clients/dotnet"
+              },
+              "next": {
+                "title": "Java",
+                "permalink": "/clients/java"
+              }
+            },
+            {
+              "unversionedId": "clients/server-side/java",
+              "id": "clients/server-side/java",
+              "isDocsHomePage": false,
+              "title": "Flagsmith Java SDK",
+              "description": "Manage your Feature Flags and Remote Config in your Java applications.",
+              "source": "@site/docs/clients/server-side/java.md",
+              "sourceDirName": "clients/server-side",
+              "slug": "/clients/java",
+              "permalink": "/clients/java",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/clients/server-side/java.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Flagsmith Java SDK",
+                "sidebar_label": "Java",
+                "description": "Manage your Feature Flags and Remote Config in your Java applications.",
+                "slug": "/clients/java"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Go",
+                "permalink": "/clients/go"
+              },
+              "next": {
+                "title": "NodeJS",
+                "permalink": "/clients/node"
+              }
+            },
+            {
+              "unversionedId": "clients/server-side/node",
+              "id": "clients/server-side/node",
+              "isDocsHomePage": false,
+              "title": "Flagsmith NodeJS SDK",
+              "description": "Manage your Feature Flags and Remote Config in your NodeJS applications.",
+              "source": "@site/docs/clients/server-side/node.md",
+              "sourceDirName": "clients/server-side",
+              "slug": "/clients/node",
+              "permalink": "/clients/node",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/clients/server-side/node.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Flagsmith NodeJS SDK",
+                "sidebar_label": "NodeJS",
+                "description": "Manage your Feature Flags and Remote Config in your NodeJS applications.",
+                "slug": "/clients/node"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Java",
+                "permalink": "/clients/java"
+              },
+              "next": {
+                "title": "PHP",
+                "permalink": "/clients/php"
+              }
+            },
+            {
+              "unversionedId": "clients/server-side/php",
+              "id": "clients/server-side/php",
+              "isDocsHomePage": false,
+              "title": "Flagsmith PHP SDK",
+              "description": "Manage your Feature Flags and Remote Config in your PHP applications.",
+              "source": "@site/docs/clients/server-side/php.md",
+              "sourceDirName": "clients/server-side",
+              "slug": "/clients/php",
+              "permalink": "/clients/php",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/clients/server-side/php.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Flagsmith PHP SDK",
+                "sidebar_label": "PHP",
+                "description": "Manage your Feature Flags and Remote Config in your PHP applications.",
+                "slug": "/clients/php"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "NodeJS",
+                "permalink": "/clients/node"
+              },
+              "next": {
+                "title": "Python",
+                "permalink": "/clients/python"
+              }
+            },
+            {
+              "unversionedId": "clients/server-side/python",
+              "id": "clients/server-side/python",
+              "isDocsHomePage": false,
+              "title": "Flagsmith Python SDK",
+              "description": "Manage your Feature Flags and Remote Config in your Python applications.",
+              "source": "@site/docs/clients/server-side/python.md",
+              "sourceDirName": "clients/server-side",
+              "slug": "/clients/python",
+              "permalink": "/clients/python",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/clients/server-side/python.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Flagsmith Python SDK",
+                "sidebar_label": "Python",
+                "description": "Manage your Feature Flags and Remote Config in your Python applications.",
+                "slug": "/clients/python"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "PHP",
+                "permalink": "/clients/php"
+              },
+              "next": {
+                "title": "Ruby",
+                "permalink": "/clients/ruby"
+              }
+            },
+            {
+              "unversionedId": "clients/server-side/ruby",
+              "id": "clients/server-side/ruby",
+              "isDocsHomePage": false,
+              "title": "Flagsmith Ruby SDK",
+              "description": "Manage your Feature Flags and Remote Config in your Ruby applications.",
+              "source": "@site/docs/clients/server-side/ruby.md",
+              "sourceDirName": "clients/server-side",
+              "slug": "/clients/ruby",
+              "permalink": "/clients/ruby",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/clients/server-side/ruby.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Flagsmith Ruby SDK",
+                "sidebar_label": "Ruby",
+                "description": "Manage your Feature Flags and Remote Config in your Ruby applications.",
+                "slug": "/clients/ruby"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Python",
+                "permalink": "/clients/python"
+              },
+              "next": {
+                "title": "Rust",
+                "permalink": "/clients/rust"
+              }
+            },
+            {
+              "unversionedId": "clients/server-side/rust",
+              "id": "clients/server-side/rust",
+              "isDocsHomePage": false,
+              "title": "Flagsmith Rust SDK",
+              "description": "Manage your Feature Flags and Remote Config in your Rust applications.",
+              "source": "@site/docs/clients/server-side/rust.md",
+              "sourceDirName": "clients/server-side",
+              "slug": "/clients/rust",
+              "permalink": "/clients/rust",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/clients/server-side/rust.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Flagsmith Rust SDK",
+                "sidebar_label": "Rust",
+                "description": "Manage your Feature Flags and Remote Config in your Rust applications.",
+                "slug": "/clients/rust"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Ruby",
+                "permalink": "/clients/ruby"
+              },
+              "next": {
+                "title": "Overview",
+                "permalink": "/integrations/overview"
+              }
+            },
+            {
+              "unversionedId": "deployment/AWS",
+              "id": "deployment/AWS",
+              "isDocsHomePage": false,
+              "title": "Deploying Flagsmith on AWS",
+              "description": "Getting Started with Flagsmith on AWS",
+              "source": "@site/docs/deployment/AWS.md",
+              "sourceDirName": "deployment",
+              "slug": "/deployment/AWS",
+              "permalink": "/deployment/AWS",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/deployment/AWS.md",
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "title": "Deploying Flagsmith on AWS",
+                "description": "Getting Started with Flagsmith on AWS",
+                "sidebar_label": "AWS",
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "OpenShift",
+                "permalink": "/deployment/openshift"
+              },
+              "next": {
+                "title": "Sizing and Scaling",
+                "permalink": "/deployment/sizing-and-scaling"
+              }
+            },
+            {
+              "unversionedId": "deployment/docker",
+              "id": "deployment/docker",
+              "isDocsHomePage": false,
+              "title": "Docker",
+              "description": "Getting Started with Flagsmith on Docker",
+              "source": "@site/docs/deployment/docker.md",
+              "sourceDirName": "deployment",
+              "slug": "/deployment/docker",
+              "permalink": "/deployment/docker",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/deployment/docker.md",
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "title": "Docker",
+                "description": "Getting Started with Flagsmith on Docker",
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Locally - Frontend",
+                "permalink": "/deployment/locally-frontend"
+              },
+              "next": {
+                "title": "Kubernetes",
+                "permalink": "/deployment/kubernetes"
+              }
+            },
+            {
+              "unversionedId": "deployment/kubernetes",
+              "id": "deployment/kubernetes",
+              "isDocsHomePage": false,
+              "title": "Kubernetes",
+              "description": "Overview",
+              "source": "@site/docs/deployment/kubernetes.md",
+              "sourceDirName": "deployment",
+              "slug": "/deployment/kubernetes",
+              "permalink": "/deployment/kubernetes",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/deployment/kubernetes.md",
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "title": "Kubernetes",
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Docker",
+                "permalink": "/deployment/docker"
+              },
+              "next": {
+                "title": "OpenShift",
+                "permalink": "/deployment/openshift"
+              }
+            },
+            {
+              "unversionedId": "deployment/locally-api",
+              "id": "deployment/locally-api",
+              "isDocsHomePage": false,
+              "title": "Flagsmith REST API",
+              "description": "Development Environment",
+              "source": "@site/docs/deployment/locally-api.md",
+              "sourceDirName": "deployment",
+              "slug": "/deployment/locally-api",
+              "permalink": "/deployment/locally-api",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/deployment/locally-api.md",
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_label": "Locally - API",
+                "title": "Flagsmith REST API",
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Overview",
+                "permalink": "/deployment/overview"
+              },
+              "next": {
+                "title": "Locally - Frontend",
+                "permalink": "/deployment/locally-frontend"
+              }
+            },
+            {
+              "unversionedId": "deployment/locally-frontend",
+              "id": "deployment/locally-frontend",
+              "isDocsHomePage": false,
+              "title": "Flagsmith Frontend",
+              "description": "Getting Started",
+              "source": "@site/docs/deployment/locally-frontend.md",
+              "sourceDirName": "deployment",
+              "slug": "/deployment/locally-frontend",
+              "permalink": "/deployment/locally-frontend",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/deployment/locally-frontend.md",
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_label": "Locally - Frontend",
+                "title": "Flagsmith Frontend",
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Locally - API",
+                "permalink": "/deployment/locally-api"
+              },
+              "next": {
+                "title": "Docker",
+                "permalink": "/deployment/docker"
+              }
+            },
+            {
+              "unversionedId": "deployment/openshift",
+              "id": "deployment/openshift",
+              "isDocsHomePage": false,
+              "title": "OpenShift",
+              "description": "Getting Started with Flagsmith on OpenShift",
+              "source": "@site/docs/deployment/openshift.md",
+              "sourceDirName": "deployment",
+              "slug": "/deployment/openshift",
+              "permalink": "/deployment/openshift",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/deployment/openshift.md",
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "title": "OpenShift",
+                "description": "Getting Started with Flagsmith on OpenShift",
+                "sidebar_label": "OpenShift",
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Kubernetes",
+                "permalink": "/deployment/kubernetes"
+              },
+              "next": {
+                "title": "AWS",
+                "permalink": "/deployment/AWS"
+              }
+            },
+            {
+              "unversionedId": "deployment/overview",
+              "id": "deployment/overview",
+              "isDocsHomePage": false,
+              "title": "Deployment Overview",
+              "description": "Paid Hosting",
+              "source": "@site/docs/deployment/overview.md",
+              "sourceDirName": "deployment",
+              "slug": "/deployment/overview",
+              "permalink": "/deployment/overview",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/deployment/overview.md",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "title": "Deployment Overview",
+                "sidebar_label": "Overview",
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Slack",
+                "permalink": "/integrations/slack"
+              },
+              "next": {
+                "title": "Locally - API",
+                "permalink": "/deployment/locally-api"
+              }
+            },
+            {
+              "unversionedId": "deployment/sizing-and-scaling",
+              "id": "deployment/sizing-and-scaling",
+              "isDocsHomePage": false,
+              "title": "Sizing and Scaling",
+              "description": "Sizing and Scaling Flagsmith",
+              "source": "@site/docs/deployment/sizing-and-scaling.md",
+              "sourceDirName": "deployment",
+              "slug": "/deployment/sizing-and-scaling",
+              "permalink": "/deployment/sizing-and-scaling",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/deployment/sizing-and-scaling.md",
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "title": "Sizing and Scaling",
+                "description": "Sizing and Scaling Flagsmith",
+                "sidebar_position": 8
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "AWS",
+                "permalink": "/deployment/AWS"
+              },
+              "next": {
+                "title": "Contributing",
+                "permalink": "/platform/contributing"
+              }
+            },
+            {
+              "unversionedId": "general-applications/managing-features",
+              "id": "general-applications/managing-features",
+              "isDocsHomePage": false,
+              "title": "Managing Features",
+              "description": "Feature Flags allow you to ship code and features before they are finished.",
+              "source": "@site/docs/general-applications/managing-features.md",
+              "sourceDirName": "general-applications",
+              "slug": "/general-applications/managing-features",
+              "permalink": "/general-applications/managing-features",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/general-applications/managing-features.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Managing Features",
+                "description": "Feature Flags allow you to ship code and features before they are finished."
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Overview",
+                "permalink": "/general-applications/overview"
+              },
+              "next": {
+                "title": "Managing Identities",
+                "permalink": "/general-applications/managing-identities"
+              }
+            },
+            {
+              "unversionedId": "general-applications/managing-identities",
+              "id": "general-applications/managing-identities",
+              "isDocsHomePage": false,
+              "title": "Managing Identities",
+              "description": "Manage user traits and properties independently of your application.",
+              "source": "@site/docs/general-applications/managing-identities.md",
+              "sourceDirName": "general-applications",
+              "slug": "/general-applications/managing-identities",
+              "permalink": "/general-applications/managing-identities",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/general-applications/managing-identities.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Managing Identities",
+                "description": "Manage user traits and properties independently of your application."
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Managing Features",
+                "permalink": "/general-applications/managing-features"
+              },
+              "next": {
+                "title": "Managing Segments",
+                "permalink": "/general-applications/managing-segments"
+              }
+            },
+            {
+              "unversionedId": "general-applications/managing-segments",
+              "id": "general-applications/managing-segments",
+              "isDocsHomePage": false,
+              "title": "Managing Segments",
+              "description": "Group your users based on a set of rules, then control Feature Flags and Remote Config for those groups.",
+              "source": "@site/docs/general-applications/managing-segments.md",
+              "sourceDirName": "general-applications",
+              "slug": "/general-applications/managing-segments",
+              "permalink": "/general-applications/managing-segments",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/general-applications/managing-segments.md",
+              "version": "current",
+              "frontMatter": {
+                "description": "Group your users based on a set of rules, then control Feature Flags and Remote Config for those groups."
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Managing Identities",
+                "permalink": "/general-applications/managing-identities"
+              },
+              "next": {
+                "title": "A/B Testing",
+                "permalink": "/advanced-use/ab-testing"
+              }
+            },
+            {
+              "unversionedId": "general-applications/overview",
+              "id": "general-applications/overview",
+              "isDocsHomePage": false,
+              "title": "General Applications - An Overview",
+              "description": "Feature Flags are a development methodology that allow you to ship code and features before they are finished. This",
+              "source": "@site/docs/general-applications/overview.md",
+              "sourceDirName": "general-applications",
+              "slug": "/general-applications/overview",
+              "permalink": "/general-applications/overview",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/general-applications/overview.md",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "title": "General Applications - An Overview",
+                "sidebar_label": "Overview",
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Overview",
+                "permalink": "/"
+              },
+              "next": {
+                "title": "Managing Features",
+                "permalink": "/general-applications/managing-features"
+              }
+            },
+            {
+              "unversionedId": "integrations/amplitude",
+              "id": "integrations/amplitude",
+              "isDocsHomePage": false,
+              "title": "Amplitude Integration",
+              "description": "Amplitude",
+              "source": "@site/docs/integrations/amplitude.md",
+              "sourceDirName": "integrations",
+              "slug": "/integrations/amplitude",
+              "permalink": "/integrations/amplitude",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/integrations/amplitude.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Amplitude Integration",
+                "sidebar_label": "Amplitude",
+                "hide_title": true
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Overview",
+                "permalink": "/integrations/overview"
+              },
+              "next": {
+                "title": "AppDynamics",
+                "permalink": "/integrations/appdynamics"
+              }
+            },
+            {
+              "unversionedId": "integrations/appdynamics",
+              "id": "integrations/appdynamics",
+              "isDocsHomePage": false,
+              "title": "AppDynamics Integration",
+              "description": "Amplitude",
+              "source": "@site/docs/integrations/appdynamics.md",
+              "sourceDirName": "integrations",
+              "slug": "/integrations/appdynamics",
+              "permalink": "/integrations/appdynamics",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/integrations/appdynamics.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "AppDynamics Integration",
+                "sidebar_label": "AppDynamics",
+                "hide_title": true
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Amplitude",
+                "permalink": "/integrations/amplitude"
+              },
+              "next": {
+                "title": "Datadog",
+                "permalink": "/integrations/datadog"
+              }
+            },
+            {
+              "unversionedId": "integrations/datadog",
+              "id": "integrations/datadog",
+              "isDocsHomePage": false,
+              "title": "Datadog Integration",
+              "description": "Datadog",
+              "source": "@site/docs/integrations/datadog.md",
+              "sourceDirName": "integrations",
+              "slug": "/integrations/datadog",
+              "permalink": "/integrations/datadog",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/integrations/datadog.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Datadog Integration",
+                "sidebar_label": "Datadog",
+                "hide_title": true
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "AppDynamics",
+                "permalink": "/integrations/appdynamics"
+              },
+              "next": {
+                "title": "Heap Analytics",
+                "permalink": "/integrations/heap"
+              }
+            },
+            {
+              "unversionedId": "integrations/heap",
+              "id": "integrations/heap",
+              "isDocsHomePage": false,
+              "title": "Heap Analytics Integration",
+              "description": "Heap Analytics",
+              "source": "@site/docs/integrations/heap.md",
+              "sourceDirName": "integrations",
+              "slug": "/integrations/heap",
+              "permalink": "/integrations/heap",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/integrations/heap.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Heap Analytics Integration",
+                "sidebar_label": "Heap Analytics",
+                "hide_title": true
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Datadog",
+                "permalink": "/integrations/datadog"
+              },
+              "next": {
+                "title": "Mixpanel",
+                "permalink": "/integrations/mixpanel"
+              }
+            },
+            {
+              "unversionedId": "integrations/mixpanel",
+              "id": "integrations/mixpanel",
+              "isDocsHomePage": false,
+              "title": "Mixpanel Analytics Integration",
+              "description": "Integrate Flagsmith with Mixpanel",
+              "source": "@site/docs/integrations/mixpanel.md",
+              "sourceDirName": "integrations",
+              "slug": "/integrations/mixpanel",
+              "permalink": "/integrations/mixpanel",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/integrations/mixpanel.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Mixpanel Analytics Integration",
+                "description": "Integrate Flagsmith with Mixpanel",
+                "sidebar_label": "Mixpanel",
+                "hide_title": true
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Heap Analytics",
+                "permalink": "/integrations/heap"
+              },
+              "next": {
+                "title": "New Relic",
+                "permalink": "/integrations/newrelic"
+              }
+            },
+            {
+              "unversionedId": "integrations/newrelic",
+              "id": "integrations/newrelic",
+              "isDocsHomePage": false,
+              "title": "New Relic Analytics Integration",
+              "description": "Integrate Flagsmith with New Relic",
+              "source": "@site/docs/integrations/newrelic.md",
+              "sourceDirName": "integrations",
+              "slug": "/integrations/newrelic",
+              "permalink": "/integrations/newrelic",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/integrations/newrelic.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "New Relic Analytics Integration",
+                "description": "Integrate Flagsmith with New Relic",
+                "sidebar_label": "New Relic",
+                "hide_title": true
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Mixpanel",
+                "permalink": "/integrations/mixpanel"
+              },
+              "next": {
+                "title": "Segment",
+                "permalink": "/integrations/segment"
+              }
+            },
+            {
+              "unversionedId": "integrations/overview",
+              "id": "integrations/overview",
+              "isDocsHomePage": false,
+              "title": "Flagsmith Integrations",
+              "description": "Flagsmith Integrations",
+              "source": "@site/docs/integrations/overview.md",
+              "sourceDirName": "integrations",
+              "slug": "/integrations/overview",
+              "permalink": "/integrations/overview",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/integrations/overview.md",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "title": "Flagsmith Integrations",
+                "description": "Flagsmith Integrations",
+                "sidebar_label": "Overview",
+                "hide_title": true,
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Rust",
+                "permalink": "/clients/rust"
+              },
+              "next": {
+                "title": "Amplitude",
+                "permalink": "/integrations/amplitude"
+              }
+            },
+            {
+              "unversionedId": "integrations/segment",
+              "id": "integrations/segment",
+              "isDocsHomePage": false,
+              "title": "Segment Integration",
+              "description": "Integrate Flagsmith with Segment",
+              "source": "@site/docs/integrations/segment.md",
+              "sourceDirName": "integrations",
+              "slug": "/integrations/segment",
+              "permalink": "/integrations/segment",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/integrations/segment.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Segment Integration",
+                "description": "Integrate Flagsmith with Segment",
+                "sidebar_label": "Segment",
+                "hide_title": true
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "New Relic",
+                "permalink": "/integrations/newrelic"
+              },
+              "next": {
+                "title": "Slack",
+                "permalink": "/integrations/slack"
+              }
+            },
+            {
+              "unversionedId": "integrations/slack",
+              "id": "integrations/slack",
+              "isDocsHomePage": false,
+              "title": "Slack Integration",
+              "description": "Integrate Flagsmith with Slack",
+              "source": "@site/docs/integrations/slack.md",
+              "sourceDirName": "integrations",
+              "slug": "/integrations/slack",
+              "permalink": "/integrations/slack",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/integrations/slack.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Slack Integration",
+                "description": "Integrate Flagsmith with Slack",
+                "sidebar_label": "Slack",
+                "hide_title": true
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Segment",
+                "permalink": "/integrations/segment"
+              },
+              "next": {
+                "title": "Overview",
+                "permalink": "/deployment/overview"
+              }
+            },
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "isDocsHomePage": false,
+              "title": "Boxity Docs",
+              "description": "Boxity",
+              "source": "@site/docs/index.md",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/index.md",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "id": "intro",
+                "slug": "/",
+                "sidebar_position": 1,
+                "hide_title": true,
+                "sidebar_label": "Overview"
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Overview",
+                "permalink": "/general-applications/overview"
+              }
+            },
+            {
+              "unversionedId": "platform/contributing",
+              "id": "platform/contributing",
+              "isDocsHomePage": false,
+              "title": "Contributing",
+              "description": "We're always looking to improve this project, open source contribution is encouraged so long as they adhere to these",
+              "source": "@site/docs/platform/contributing.md",
+              "sourceDirName": "platform",
+              "slug": "/platform/contributing",
+              "permalink": "/platform/contributing",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/platform/contributing.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Contributing"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Sizing and Scaling",
+                "permalink": "/deployment/sizing-and-scaling"
+              },
+              "next": {
+                "title": "Releases",
+                "permalink": "/platform/releases"
+              }
+            },
+            {
+              "unversionedId": "platform/releases",
+              "id": "platform/releases",
+              "isDocsHomePage": false,
+              "title": "Releases",
+              "description": "Docker Image Tags",
+              "source": "@site/docs/platform/releases.md",
+              "sourceDirName": "platform",
+              "slug": "/platform/releases",
+              "permalink": "/platform/releases",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/platform/releases.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Releases"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Contributing",
+                "permalink": "/platform/contributing"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": null
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": null
+  },
+  "docusaurus-plugin-debug": {
+    "default": null
+  },
+  "docusaurus-theme-classic": {
+    "default": null
+  },
+  "docusaurus-theme-search-algolia": {
+    "default": null
+  },
+  "docusaurus-plugin-tag-manager": {
+    "default": null
+  }
+}

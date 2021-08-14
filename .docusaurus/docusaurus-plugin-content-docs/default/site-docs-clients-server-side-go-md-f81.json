@@ -1,0 +1,28 @@
+{
+  "unversionedId": "clients/server-side/go",
+  "id": "clients/server-side/go",
+  "isDocsHomePage": false,
+  "title": "Flagsmith Go SDK",
+  "description": "Manage your Feature Flags and Remote Config in your Go applications.",
+  "source": "@site/docs/clients/server-side/go.md",
+  "sourceDirName": "clients/server-side",
+  "slug": "/clients/go",
+  "permalink": "/clients/go",
+  "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/clients/server-side/go.md",
+  "version": "current",
+  "frontMatter": {
+    "title": "Flagsmith Go SDK",
+    "sidebar_label": "Go",
+    "description": "Manage your Feature Flags and Remote Config in your Go applications.",
+    "slug": "/clients/go"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": ".Net",
+    "permalink": "/clients/dotnet"
+  },
+  "next": {
+    "title": "Java",
+    "permalink": "/clients/java"
+  }
+}

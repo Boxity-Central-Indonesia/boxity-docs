@@ -1,0 +1,28 @@
+{
+  "unversionedId": "clients/02-3rd-party",
+  "id": "clients/02-3rd-party",
+  "isDocsHomePage": false,
+  "title": "3rd Party SDKs",
+  "description": "Flagsmith 3rd Party Client SDKs",
+  "source": "@site/docs/clients/02-3rd-party.md",
+  "sourceDirName": "clients",
+  "slug": "/clients/02-3rd-party",
+  "permalink": "/clients/02-3rd-party",
+  "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/clients/02-3rd-party.md",
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "description": "Flagsmith 3rd Party Client SDKs",
+    "sidebar_label": "3rd Party",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "REST",
+    "permalink": "/clients/rest"
+  },
+  "next": {
+    "title": "Android",
+    "permalink": "/clients/android"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "clients/rest",
+  "id": "clients/rest",
+  "isDocsHomePage": false,
+  "title": "Direct API Access",
+  "description": "Manage your Feature Flags and Remote Config in your REST APIs.",
+  "source": "@site/docs/clients/01-rest.md",
+  "sourceDirName": "clients",
+  "slug": "/clients/rest",
+  "permalink": "/clients/rest",
+  "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/clients/01-rest.md",
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "description": "Manage your Feature Flags and Remote Config in your REST APIs.",
+    "sidebar_label": "REST"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "System Administration",
+    "permalink": "/advanced-use/system-administration"
+  },
+  "next": {
+    "title": "3rd Party",
+    "permalink": "/clients/02-3rd-party"
+  }
+}

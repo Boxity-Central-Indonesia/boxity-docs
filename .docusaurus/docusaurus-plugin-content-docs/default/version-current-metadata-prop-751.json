@@ -1,0 +1,305 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": "none",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Overview",
+        "href": "/"
+      },
+      {
+        "type": "category",
+        "label": "General Applications",
+        "items": [
+          {
+            "type": "link",
+            "label": "Overview",
+            "href": "/general-applications/overview"
+          },
+          {
+            "type": "link",
+            "label": "Managing Features",
+            "href": "/general-applications/managing-features"
+          },
+          {
+            "type": "link",
+            "label": "Managing Identities",
+            "href": "/general-applications/managing-identities"
+          },
+          {
+            "type": "link",
+            "label": "Managing Segments",
+            "href": "/general-applications/managing-segments"
+          }
+        ],
+        "collapsed": false,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Advanced Use",
+        "items": [
+          {
+            "type": "link",
+            "label": "A/B Testing",
+            "href": "/advanced-use/ab-testing"
+          },
+          {
+            "type": "link",
+            "label": "REST API",
+            "href": "/advanced-use/api"
+          },
+          {
+            "type": "link",
+            "label": "Audit Logs",
+            "href": "/advanced-use/audit-logs"
+          },
+          {
+            "type": "link",
+            "label": "Feature Flag Analytics",
+            "href": "/advanced-use/flag-analytics"
+          },
+          {
+            "type": "link",
+            "label": "Integration Approaches",
+            "href": "/advanced-use/integration-approaches"
+          },
+          {
+            "type": "link",
+            "label": "Permissions",
+            "href": "/advanced-use/permissions"
+          },
+          {
+            "type": "link",
+            "label": "Staged Feature Rollouts",
+            "href": "/advanced-use/staged-feature-rollouts"
+          },
+          {
+            "type": "link",
+            "label": "System Administration",
+            "href": "/advanced-use/system-administration"
+          }
+        ],
+        "collapsed": false,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "SDKs",
+        "items": [
+          {
+            "type": "link",
+            "label": "REST",
+            "href": "/clients/rest"
+          },
+          {
+            "type": "link",
+            "label": "3rd Party",
+            "href": "/clients/02-3rd-party"
+          },
+          {
+            "type": "category",
+            "label": "Client Side",
+            "items": [
+              {
+                "type": "link",
+                "label": "Android",
+                "href": "/clients/android"
+              },
+              {
+                "type": "link",
+                "label": "Flutter",
+                "href": "/clients/flutter"
+              },
+              {
+                "type": "link",
+                "label": "iOS",
+                "href": "/clients/ios"
+              },
+              {
+                "type": "link",
+                "label": "Javascript",
+                "href": "/clients/javascript"
+              }
+            ],
+            "collapsed": false,
+            "collapsible": true
+          },
+          {
+            "type": "category",
+            "label": "Server Side",
+            "items": [
+              {
+                "type": "link",
+                "label": ".Net",
+                "href": "/clients/dotnet"
+              },
+              {
+                "type": "link",
+                "label": "Go",
+                "href": "/clients/go"
+              },
+              {
+                "type": "link",
+                "label": "Java",
+                "href": "/clients/java"
+              },
+              {
+                "type": "link",
+                "label": "NodeJS",
+                "href": "/clients/node"
+              },
+              {
+                "type": "link",
+                "label": "PHP",
+                "href": "/clients/php"
+              },
+              {
+                "type": "link",
+                "label": "Python",
+                "href": "/clients/python"
+              },
+              {
+                "type": "link",
+                "label": "Ruby",
+                "href": "/clients/ruby"
+              },
+              {
+                "type": "link",
+                "label": "Rust",
+                "href": "/clients/rust"
+              }
+            ],
+            "collapsed": false,
+            "collapsible": true
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Integrations",
+        "items": [
+          {
+            "type": "link",
+            "label": "Overview",
+            "href": "/integrations/overview"
+          },
+          {
+            "type": "link",
+            "label": "Amplitude",
+            "href": "/integrations/amplitude"
+          },
+          {
+            "type": "link",
+            "label": "AppDynamics",
+            "href": "/integrations/appdynamics"
+          },
+          {
+            "type": "link",
+            "label": "Datadog",
+            "href": "/integrations/datadog"
+          },
+          {
+            "type": "link",
+            "label": "Heap Analytics",
+            "href": "/integrations/heap"
+          },
+          {
+            "type": "link",
+            "label": "Mixpanel",
+            "href": "/integrations/mixpanel"
+          },
+          {
+            "type": "link",
+            "label": "New Relic",
+            "href": "/integrations/newrelic"
+          },
+          {
+            "type": "link",
+            "label": "Segment",
+            "href": "/integrations/segment"
+          },
+          {
+            "type": "link",
+            "label": "Slack",
+            "href": "/integrations/slack"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Deployment",
+        "items": [
+          {
+            "type": "link",
+            "label": "Overview",
+            "href": "/deployment/overview"
+          },
+          {
+            "type": "link",
+            "label": "Locally - API",
+            "href": "/deployment/locally-api"
+          },
+          {
+            "type": "link",
+            "label": "Locally - Frontend",
+            "href": "/deployment/locally-frontend"
+          },
+          {
+            "type": "link",
+            "label": "Docker",
+            "href": "/deployment/docker"
+          },
+          {
+            "type": "link",
+            "label": "Kubernetes",
+            "href": "/deployment/kubernetes"
+          },
+          {
+            "type": "link",
+            "label": "OpenShift",
+            "href": "/deployment/openshift"
+          },
+          {
+            "type": "link",
+            "label": "AWS",
+            "href": "/deployment/AWS"
+          },
+          {
+            "type": "link",
+            "label": "Sizing and Scaling",
+            "href": "/deployment/sizing-and-scaling"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Platform",
+        "items": [
+          {
+            "type": "link",
+            "label": "Contributing",
+            "href": "/platform/contributing"
+          },
+          {
+            "type": "link",
+            "label": "Releases",
+            "href": "/platform/releases"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      }
+    ]
+  }
+}

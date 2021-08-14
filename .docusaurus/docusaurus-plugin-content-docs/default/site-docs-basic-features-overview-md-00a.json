@@ -1,0 +1,28 @@
+{
+  "unversionedId": "basic-features/overview",
+  "id": "basic-features/overview",
+  "isDocsHomePage": false,
+  "title": "Feature Flags - An Overview",
+  "description": "Feature Flags are a development methodology that allow you to ship code and features before they are finished. This",
+  "source": "@site/docs/basic-features/overview.md",
+  "sourceDirName": "basic-features",
+  "slug": "/basic-features/overview",
+  "permalink": "/basic-features/overview",
+  "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/basic-features/overview.md",
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Feature Flags - An Overview",
+    "sidebar_label": "Overview",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/"
+  },
+  "next": {
+    "title": "Managing Features",
+    "permalink": "/basic-features/managing-features"
+  }
+}

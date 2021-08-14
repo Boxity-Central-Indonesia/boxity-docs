@@ -1,0 +1,28 @@
+{
+  "unversionedId": "deployment/docker",
+  "id": "deployment/docker",
+  "isDocsHomePage": false,
+  "title": "Docker",
+  "description": "Getting Started with Flagsmith on Docker",
+  "source": "@site/docs/deployment/docker.md",
+  "sourceDirName": "deployment",
+  "slug": "/deployment/docker",
+  "permalink": "/deployment/docker",
+  "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/deployment/docker.md",
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Docker",
+    "description": "Getting Started with Flagsmith on Docker",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Locally - Frontend",
+    "permalink": "/deployment/locally-frontend"
+  },
+  "next": {
+    "title": "Kubernetes",
+    "permalink": "/deployment/kubernetes"
+  }
+}

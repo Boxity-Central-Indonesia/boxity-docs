@@ -1,0 +1,27 @@
+{
+  "unversionedId": "deployment/kubernetes",
+  "id": "deployment/kubernetes",
+  "isDocsHomePage": false,
+  "title": "Kubernetes",
+  "description": "Overview",
+  "source": "@site/docs/deployment/kubernetes.md",
+  "sourceDirName": "deployment",
+  "slug": "/deployment/kubernetes",
+  "permalink": "/deployment/kubernetes",
+  "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/deployment/kubernetes.md",
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Kubernetes",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Docker",
+    "permalink": "/deployment/docker"
+  },
+  "next": {
+    "title": "OpenShift",
+    "permalink": "/deployment/openshift"
+  }
+}

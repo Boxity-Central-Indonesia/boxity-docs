@@ -1,0 +1,28 @@
+{
+  "unversionedId": "integrations/segment",
+  "id": "integrations/segment",
+  "isDocsHomePage": false,
+  "title": "Segment Integration",
+  "description": "Integrate Flagsmith with Segment",
+  "source": "@site/docs/integrations/segment.md",
+  "sourceDirName": "integrations",
+  "slug": "/integrations/segment",
+  "permalink": "/integrations/segment",
+  "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/integrations/segment.md",
+  "version": "current",
+  "frontMatter": {
+    "title": "Segment Integration",
+    "description": "Integrate Flagsmith with Segment",
+    "sidebar_label": "Segment",
+    "hide_title": true
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "New Relic",
+    "permalink": "/integrations/newrelic"
+  },
+  "next": {
+    "title": "Slack",
+    "permalink": "/integrations/slack"
+  }
+}

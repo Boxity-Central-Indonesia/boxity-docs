@@ -1,0 +1,28 @@
+{
+  "unversionedId": "clients/client-side/javascript",
+  "id": "clients/client-side/javascript",
+  "isDocsHomePage": false,
+  "title": "Flagsmith Javascript SDK",
+  "description": "Manage your Feature Flags and Remote Config in your Javascript applications.",
+  "source": "@site/docs/clients/client-side/javascript.md",
+  "sourceDirName": "clients/client-side",
+  "slug": "/clients/javascript",
+  "permalink": "/clients/javascript",
+  "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/clients/client-side/javascript.md",
+  "version": "current",
+  "frontMatter": {
+    "title": "Flagsmith Javascript SDK",
+    "sidebar_label": "Javascript",
+    "description": "Manage your Feature Flags and Remote Config in your Javascript applications.",
+    "slug": "/clients/javascript"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "iOS",
+    "permalink": "/clients/ios"
+  },
+  "next": {
+    "title": ".Net",
+    "permalink": "/clients/dotnet"
+  }
+}

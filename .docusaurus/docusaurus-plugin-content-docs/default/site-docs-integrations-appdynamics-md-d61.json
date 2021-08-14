@@ -1,0 +1,27 @@
+{
+  "unversionedId": "integrations/appdynamics",
+  "id": "integrations/appdynamics",
+  "isDocsHomePage": false,
+  "title": "AppDynamics Integration",
+  "description": "Amplitude",
+  "source": "@site/docs/integrations/appdynamics.md",
+  "sourceDirName": "integrations",
+  "slug": "/integrations/appdynamics",
+  "permalink": "/integrations/appdynamics",
+  "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/integrations/appdynamics.md",
+  "version": "current",
+  "frontMatter": {
+    "title": "AppDynamics Integration",
+    "sidebar_label": "AppDynamics",
+    "hide_title": true
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Amplitude",
+    "permalink": "/integrations/amplitude"
+  },
+  "next": {
+    "title": "Datadog",
+    "permalink": "/integrations/datadog"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "unversionedId": "advanced-used/integration-approaches",
+  "id": "advanced-used/integration-approaches",
+  "isDocsHomePage": false,
+  "title": "Integration Approaches",
+  "description": "We have put a lot of work into making the Flagsmith API fast, stable, reliable and fault tolerant. That being said,",
+  "source": "@site/docs/advanced-used/integration-approaches.md",
+  "sourceDirName": "advanced-used",
+  "slug": "/advanced-used/integration-approaches",
+  "permalink": "/advanced-used/integration-approaches",
+  "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/advanced-used/integration-approaches.md",
+  "version": "current",
+  "frontMatter": {
+    "title": "Integration Approaches"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Feature Flag Analytics",
+    "permalink": "/advanced-used/flag-analytics"
+  },
+  "next": {
+    "title": "Permissions",
+    "permalink": "/advanced-used/permissions"
+  }
+}

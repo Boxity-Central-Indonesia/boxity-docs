@@ -1,0 +1,26 @@
+{
+  "unversionedId": "basic-features/managing-features",
+  "id": "basic-features/managing-features",
+  "isDocsHomePage": false,
+  "title": "Managing Features",
+  "description": "Feature Flags allow you to ship code and features before they are finished.",
+  "source": "@site/docs/basic-features/managing-features.md",
+  "sourceDirName": "basic-features",
+  "slug": "/basic-features/managing-features",
+  "permalink": "/basic-features/managing-features",
+  "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/basic-features/managing-features.md",
+  "version": "current",
+  "frontMatter": {
+    "title": "Managing Features",
+    "description": "Feature Flags allow you to ship code and features before they are finished."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/basic-features/overview"
+  },
+  "next": {
+    "title": "Managing Identities",
+    "permalink": "/basic-features/managing-identities"
+  }
+}

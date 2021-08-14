@@ -1,0 +1,29 @@
+{
+  "unversionedId": "deployment/AWS",
+  "id": "deployment/AWS",
+  "isDocsHomePage": false,
+  "title": "Deploying Flagsmith on AWS",
+  "description": "Getting Started with Flagsmith on AWS",
+  "source": "@site/docs/deployment/AWS.md",
+  "sourceDirName": "deployment",
+  "slug": "/deployment/AWS",
+  "permalink": "/deployment/AWS",
+  "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/deployment/AWS.md",
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "title": "Deploying Flagsmith on AWS",
+    "description": "Getting Started with Flagsmith on AWS",
+    "sidebar_label": "AWS",
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "OpenShift",
+    "permalink": "/deployment/openshift"
+  },
+  "next": {
+    "title": "Sizing and Scaling",
+    "permalink": "/deployment/sizing-and-scaling"
+  }
+}

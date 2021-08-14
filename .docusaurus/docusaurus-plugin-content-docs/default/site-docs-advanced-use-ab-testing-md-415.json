@@ -1,0 +1,25 @@
+{
+  "unversionedId": "advanced-use/ab-testing",
+  "id": "advanced-use/ab-testing",
+  "isDocsHomePage": false,
+  "title": "A/B Testing",
+  "description": "A/B testing enables you to experiment with design and functionality variants of your application. The data generated",
+  "source": "@site/docs/advanced-use/ab-testing.md",
+  "sourceDirName": "advanced-use",
+  "slug": "/advanced-use/ab-testing",
+  "permalink": "/advanced-use/ab-testing",
+  "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/advanced-use/ab-testing.md",
+  "version": "current",
+  "frontMatter": {
+    "title": "A/B Testing"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Managing Segments",
+    "permalink": "/general-applications/managing-segments"
+  },
+  "next": {
+    "title": "REST API",
+    "permalink": "/advanced-use/api"
+  }
+}

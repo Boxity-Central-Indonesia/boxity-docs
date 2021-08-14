@@ -1,0 +1,28 @@
+{
+  "unversionedId": "clients/client-side/flutter",
+  "id": "clients/client-side/flutter",
+  "isDocsHomePage": false,
+  "title": "Flagsmith Flutter SDK",
+  "description": "Manage your Feature Flags and Remote Config in your Flutter applications.",
+  "source": "@site/docs/clients/client-side/flutter.md",
+  "sourceDirName": "clients/client-side",
+  "slug": "/clients/flutter",
+  "permalink": "/clients/flutter",
+  "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/clients/client-side/flutter.md",
+  "version": "current",
+  "frontMatter": {
+    "title": "Flagsmith Flutter SDK",
+    "sidebar_label": "Flutter",
+    "description": "Manage your Feature Flags and Remote Config in your Flutter applications.",
+    "slug": "/clients/flutter"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Android",
+    "permalink": "/clients/android"
+  },
+  "next": {
+    "title": "iOS",
+    "permalink": "/clients/ios"
+  }
+}

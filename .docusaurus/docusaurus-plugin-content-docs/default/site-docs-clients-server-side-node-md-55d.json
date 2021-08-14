@@ -1,0 +1,28 @@
+{
+  "unversionedId": "clients/server-side/node",
+  "id": "clients/server-side/node",
+  "isDocsHomePage": false,
+  "title": "Flagsmith NodeJS SDK",
+  "description": "Manage your Feature Flags and Remote Config in your NodeJS applications.",
+  "source": "@site/docs/clients/server-side/node.md",
+  "sourceDirName": "clients/server-side",
+  "slug": "/clients/node",
+  "permalink": "/clients/node",
+  "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/clients/server-side/node.md",
+  "version": "current",
+  "frontMatter": {
+    "title": "Flagsmith NodeJS SDK",
+    "sidebar_label": "NodeJS",
+    "description": "Manage your Feature Flags and Remote Config in your NodeJS applications.",
+    "slug": "/clients/node"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Java",
+    "permalink": "/clients/java"
+  },
+  "next": {
+    "title": "PHP",
+    "permalink": "/clients/php"
+  }
+}

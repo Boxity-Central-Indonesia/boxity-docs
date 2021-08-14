@@ -1,0 +1,28 @@
+{
+  "unversionedId": "deployment/locally-api",
+  "id": "deployment/locally-api",
+  "isDocsHomePage": false,
+  "title": "Flagsmith REST API",
+  "description": "Development Environment",
+  "source": "@site/docs/deployment/locally-api.md",
+  "sourceDirName": "deployment",
+  "slug": "/deployment/locally-api",
+  "permalink": "/deployment/locally-api",
+  "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/deployment/locally-api.md",
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_label": "Locally - API",
+    "title": "Flagsmith REST API",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/deployment/overview"
+  },
+  "next": {
+    "title": "Locally - Frontend",
+    "permalink": "/deployment/locally-frontend"
+  }
+}

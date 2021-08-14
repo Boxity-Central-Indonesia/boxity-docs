@@ -1,0 +1,28 @@
+{
+  "unversionedId": "deployment/locally-frontend",
+  "id": "deployment/locally-frontend",
+  "isDocsHomePage": false,
+  "title": "Flagsmith Frontend",
+  "description": "Getting Started",
+  "source": "@site/docs/deployment/locally-frontend.md",
+  "sourceDirName": "deployment",
+  "slug": "/deployment/locally-frontend",
+  "permalink": "/deployment/locally-frontend",
+  "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/deployment/locally-frontend.md",
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_label": "Locally - Frontend",
+    "title": "Flagsmith Frontend",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Locally - API",
+    "permalink": "/deployment/locally-api"
+  },
+  "next": {
+    "title": "Docker",
+    "permalink": "/deployment/docker"
+  }
+}

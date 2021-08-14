@@ -1,0 +1,248 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "advanced-use/ab-testing",
+              "path": "/advanced-use/ab-testing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "advanced-use/api",
+              "path": "/advanced-use/api",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "advanced-use/audit-logs",
+              "path": "/advanced-use/audit-logs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "advanced-use/flag-analytics",
+              "path": "/advanced-use/flag-analytics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "advanced-use/integration-approaches",
+              "path": "/advanced-use/integration-approaches",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "advanced-use/permissions",
+              "path": "/advanced-use/permissions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "advanced-use/staged-feature-rollouts",
+              "path": "/advanced-use/staged-feature-rollouts",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "advanced-use/system-administration",
+              "path": "/advanced-use/system-administration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "clients/02-3rd-party",
+              "path": "/clients/02-3rd-party",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "clients/client-side/android",
+              "path": "/clients/android",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "clients/client-side/flutter",
+              "path": "/clients/flutter",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "clients/client-side/ios",
+              "path": "/clients/ios",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "clients/client-side/javascript",
+              "path": "/clients/javascript",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "clients/rest",
+              "path": "/clients/rest",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "clients/server-side/dotnet",
+              "path": "/clients/dotnet",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "clients/server-side/go",
+              "path": "/clients/go",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "clients/server-side/java",
+              "path": "/clients/java",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "clients/server-side/node",
+              "path": "/clients/node",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "clients/server-side/php",
+              "path": "/clients/php",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "clients/server-side/python",
+              "path": "/clients/python",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "clients/server-side/ruby",
+              "path": "/clients/ruby",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "clients/server-side/rust",
+              "path": "/clients/rust",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "deployment/AWS",
+              "path": "/deployment/AWS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "deployment/docker",
+              "path": "/deployment/docker",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "deployment/kubernetes",
+              "path": "/deployment/kubernetes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "deployment/locally-api",
+              "path": "/deployment/locally-api",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "deployment/locally-frontend",
+              "path": "/deployment/locally-frontend",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "deployment/openshift",
+              "path": "/deployment/openshift",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "deployment/overview",
+              "path": "/deployment/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "deployment/sizing-and-scaling",
+              "path": "/deployment/sizing-and-scaling",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "general-applications/managing-features",
+              "path": "/general-applications/managing-features",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "general-applications/managing-identities",
+              "path": "/general-applications/managing-identities",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "general-applications/managing-segments",
+              "path": "/general-applications/managing-segments",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "general-applications/overview",
+              "path": "/general-applications/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "integrations/amplitude",
+              "path": "/integrations/amplitude",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "integrations/appdynamics",
+              "path": "/integrations/appdynamics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "integrations/datadog",
+              "path": "/integrations/datadog",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "integrations/heap",
+              "path": "/integrations/heap",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "integrations/mixpanel",
+              "path": "/integrations/mixpanel",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "integrations/newrelic",
+              "path": "/integrations/newrelic",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "integrations/overview",
+              "path": "/integrations/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "integrations/segment",
+              "path": "/integrations/segment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "integrations/slack",
+              "path": "/integrations/slack",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "platform/contributing",
+              "path": "/platform/contributing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "platform/releases",
+              "path": "/platform/releases",
+              "sidebar": "tutorialSidebar"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

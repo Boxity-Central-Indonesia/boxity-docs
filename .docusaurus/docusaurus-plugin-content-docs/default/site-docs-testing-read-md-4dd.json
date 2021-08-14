@@ -1,0 +1,21 @@
+{
+  "unversionedId": "testing-read",
+  "id": "testing-read",
+  "isDocsHomePage": false,
+  "title": "Testing read",
+  "description": "Overview",
+  "source": "@site/docs/testing-read.md",
+  "sourceDirName": ".",
+  "slug": "/testing-read",
+  "permalink": "/testing-read",
+  "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/testing-read.md",
+  "version": "current",
+  "frontMatter": {
+    "title": "Testing read"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Enterprise Edition",
+    "permalink": "/enterprise-edition"
+  }
+}

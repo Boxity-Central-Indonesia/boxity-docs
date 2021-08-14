@@ -1,0 +1,25 @@
+{
+  "unversionedId": "general-applications/managing-segments",
+  "id": "general-applications/managing-segments",
+  "isDocsHomePage": false,
+  "title": "Managing Segments",
+  "description": "Group your users based on a set of rules, then control Feature Flags and Remote Config for those groups.",
+  "source": "@site/docs/general-applications/managing-segments.md",
+  "sourceDirName": "general-applications",
+  "slug": "/general-applications/managing-segments",
+  "permalink": "/general-applications/managing-segments",
+  "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/general-applications/managing-segments.md",
+  "version": "current",
+  "frontMatter": {
+    "description": "Group your users based on a set of rules, then control Feature Flags and Remote Config for those groups."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Managing Identities",
+    "permalink": "/general-applications/managing-identities"
+  },
+  "next": {
+    "title": "A/B Testing",
+    "permalink": "/advanced-use/ab-testing"
+  }
+}

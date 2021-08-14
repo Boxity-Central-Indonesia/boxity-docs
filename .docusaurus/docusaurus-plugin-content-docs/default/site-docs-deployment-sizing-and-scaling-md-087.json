@@ -1,0 +1,28 @@
+{
+  "unversionedId": "deployment/sizing-and-scaling",
+  "id": "deployment/sizing-and-scaling",
+  "isDocsHomePage": false,
+  "title": "Sizing and Scaling",
+  "description": "Sizing and Scaling Flagsmith",
+  "source": "@site/docs/deployment/sizing-and-scaling.md",
+  "sourceDirName": "deployment",
+  "slug": "/deployment/sizing-and-scaling",
+  "permalink": "/deployment/sizing-and-scaling",
+  "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/deployment/sizing-and-scaling.md",
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "title": "Sizing and Scaling",
+    "description": "Sizing and Scaling Flagsmith",
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AWS",
+    "permalink": "/deployment/AWS"
+  },
+  "next": {
+    "title": "Contributing",
+    "permalink": "/platform/contributing"
+  }
+}

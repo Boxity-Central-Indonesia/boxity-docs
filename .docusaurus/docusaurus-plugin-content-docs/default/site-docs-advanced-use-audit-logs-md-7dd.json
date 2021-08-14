@@ -1,0 +1,26 @@
+{
+  "unversionedId": "advanced-use/audit-logs",
+  "id": "advanced-use/audit-logs",
+  "isDocsHomePage": false,
+  "title": "Audit Logs",
+  "description": "Every action taken within the Flagsmith administration application is tracked and logged.",
+  "source": "@site/docs/advanced-use/audit-logs.md",
+  "sourceDirName": "advanced-use",
+  "slug": "/advanced-use/audit-logs",
+  "permalink": "/advanced-use/audit-logs",
+  "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/advanced-use/audit-logs.md",
+  "version": "current",
+  "frontMatter": {
+    "title": "Audit Logs",
+    "description": "Every action taken within the Flagsmith administration application is tracked and logged."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "REST API",
+    "permalink": "/advanced-use/api"
+  },
+  "next": {
+    "title": "Feature Flag Analytics",
+    "permalink": "/advanced-use/flag-analytics"
+  }
+}

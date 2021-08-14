@@ -1,0 +1,28 @@
+{
+  "unversionedId": "clients/server-side/ruby",
+  "id": "clients/server-side/ruby",
+  "isDocsHomePage": false,
+  "title": "Flagsmith Ruby SDK",
+  "description": "Manage your Feature Flags and Remote Config in your Ruby applications.",
+  "source": "@site/docs/clients/server-side/ruby.md",
+  "sourceDirName": "clients/server-side",
+  "slug": "/clients/ruby",
+  "permalink": "/clients/ruby",
+  "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/clients/server-side/ruby.md",
+  "version": "current",
+  "frontMatter": {
+    "title": "Flagsmith Ruby SDK",
+    "sidebar_label": "Ruby",
+    "description": "Manage your Feature Flags and Remote Config in your Ruby applications.",
+    "slug": "/clients/ruby"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Python",
+    "permalink": "/clients/python"
+  },
+  "next": {
+    "title": "Rust",
+    "permalink": "/clients/rust"
+  }
+}

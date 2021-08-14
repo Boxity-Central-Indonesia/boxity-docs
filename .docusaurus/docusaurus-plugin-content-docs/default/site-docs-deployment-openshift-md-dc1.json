@@ -1,0 +1,29 @@
+{
+  "unversionedId": "deployment/openshift",
+  "id": "deployment/openshift",
+  "isDocsHomePage": false,
+  "title": "OpenShift",
+  "description": "Getting Started with Flagsmith on OpenShift",
+  "source": "@site/docs/deployment/openshift.md",
+  "sourceDirName": "deployment",
+  "slug": "/deployment/openshift",
+  "permalink": "/deployment/openshift",
+  "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/deployment/openshift.md",
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "OpenShift",
+    "description": "Getting Started with Flagsmith on OpenShift",
+    "sidebar_label": "OpenShift",
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Kubernetes",
+    "permalink": "/deployment/kubernetes"
+  },
+  "next": {
+    "title": "AWS",
+    "permalink": "/deployment/AWS"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "clients/server-side/php",
+  "id": "clients/server-side/php",
+  "isDocsHomePage": false,
+  "title": "Flagsmith PHP SDK",
+  "description": "Manage your Feature Flags and Remote Config in your PHP applications.",
+  "source": "@site/docs/clients/server-side/php.md",
+  "sourceDirName": "clients/server-side",
+  "slug": "/clients/php",
+  "permalink": "/clients/php",
+  "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/clients/server-side/php.md",
+  "version": "current",
+  "frontMatter": {
+    "title": "Flagsmith PHP SDK",
+    "sidebar_label": "PHP",
+    "description": "Manage your Feature Flags and Remote Config in your PHP applications.",
+    "slug": "/clients/php"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "NodeJS",
+    "permalink": "/clients/node"
+  },
+  "next": {
+    "title": "Python",
+    "permalink": "/clients/python"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "integrations/slack",
+  "id": "integrations/slack",
+  "isDocsHomePage": false,
+  "title": "Slack Integration",
+  "description": "Integrate Flagsmith with Slack",
+  "source": "@site/docs/integrations/slack.md",
+  "sourceDirName": "integrations",
+  "slug": "/integrations/slack",
+  "permalink": "/integrations/slack",
+  "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/integrations/slack.md",
+  "version": "current",
+  "frontMatter": {
+    "title": "Slack Integration",
+    "description": "Integrate Flagsmith with Slack",
+    "sidebar_label": "Slack",
+    "hide_title": true
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Segment",
+    "permalink": "/integrations/segment"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/deployment/overview"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "integrations/mixpanel",
+  "id": "integrations/mixpanel",
+  "isDocsHomePage": false,
+  "title": "Mixpanel Analytics Integration",
+  "description": "Integrate Flagsmith with Mixpanel",
+  "source": "@site/docs/integrations/mixpanel.md",
+  "sourceDirName": "integrations",
+  "slug": "/integrations/mixpanel",
+  "permalink": "/integrations/mixpanel",
+  "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/integrations/mixpanel.md",
+  "version": "current",
+  "frontMatter": {
+    "title": "Mixpanel Analytics Integration",
+    "description": "Integrate Flagsmith with Mixpanel",
+    "sidebar_label": "Mixpanel",
+    "hide_title": true
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Heap Analytics",
+    "permalink": "/integrations/heap"
+  },
+  "next": {
+    "title": "New Relic",
+    "permalink": "/integrations/newrelic"
+  }
+}

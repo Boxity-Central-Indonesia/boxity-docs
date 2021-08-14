@@ -1,0 +1,21 @@
+{
+  "unversionedId": "platform/releases",
+  "id": "platform/releases",
+  "isDocsHomePage": false,
+  "title": "Releases",
+  "description": "Docker Image Tags",
+  "source": "@site/docs/platform/releases.md",
+  "sourceDirName": "platform",
+  "slug": "/platform/releases",
+  "permalink": "/platform/releases",
+  "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/platform/releases.md",
+  "version": "current",
+  "frontMatter": {
+    "title": "Releases"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Contributing",
+    "permalink": "/platform/contributing"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "clients/server-side/python",
+  "id": "clients/server-side/python",
+  "isDocsHomePage": false,
+  "title": "Flagsmith Python SDK",
+  "description": "Manage your Feature Flags and Remote Config in your Python applications.",
+  "source": "@site/docs/clients/server-side/python.md",
+  "sourceDirName": "clients/server-side",
+  "slug": "/clients/python",
+  "permalink": "/clients/python",
+  "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/clients/server-side/python.md",
+  "version": "current",
+  "frontMatter": {
+    "title": "Flagsmith Python SDK",
+    "sidebar_label": "Python",
+    "description": "Manage your Feature Flags and Remote Config in your Python applications.",
+    "slug": "/clients/python"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "PHP",
+    "permalink": "/clients/php"
+  },
+  "next": {
+    "title": "Ruby",
+    "permalink": "/clients/ruby"
+  }
+}

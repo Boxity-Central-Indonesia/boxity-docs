@@ -1,0 +1,27 @@
+{
+  "unversionedId": "integrations/heap",
+  "id": "integrations/heap",
+  "isDocsHomePage": false,
+  "title": "Heap Analytics Integration",
+  "description": "Heap Analytics",
+  "source": "@site/docs/integrations/heap.md",
+  "sourceDirName": "integrations",
+  "slug": "/integrations/heap",
+  "permalink": "/integrations/heap",
+  "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/integrations/heap.md",
+  "version": "current",
+  "frontMatter": {
+    "title": "Heap Analytics Integration",
+    "sidebar_label": "Heap Analytics",
+    "hide_title": true
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Datadog",
+    "permalink": "/integrations/datadog"
+  },
+  "next": {
+    "title": "Mixpanel",
+    "permalink": "/integrations/mixpanel"
+  }
+}
