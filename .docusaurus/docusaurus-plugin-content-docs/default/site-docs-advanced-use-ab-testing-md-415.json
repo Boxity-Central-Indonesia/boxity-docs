@@ -15,8 +15,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Managing Segments",
-    "permalink": "/general-applications/managing-segments"
+    "title": "Issue Center",
+    "permalink": "/general-applications/issue-center"
   },
   "next": {
     "title": "REST API",

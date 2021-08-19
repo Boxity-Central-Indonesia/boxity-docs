@@ -11,168 +11,48 @@
           "mainDocId": "intro",
           "docs": [
             {
-              "id": "advanced-use/ab-testing",
-              "path": "/advanced-use/ab-testing",
+              "id": "associate/customers",
+              "path": "/associate/customers",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "advanced-use/api",
-              "path": "/advanced-use/api",
+              "id": "associate/suppliers",
+              "path": "/associate/suppliers",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "advanced-use/audit-logs",
-              "path": "/advanced-use/audit-logs",
+              "id": "associate/users-management",
+              "path": "/associate/users-management",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "advanced-use/flag-analytics",
-              "path": "/advanced-use/flag-analytics",
+              "id": "dispatching/delivery-receipt",
+              "path": "/dispatching/delivery-receipt",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "advanced-use/integration-approaches",
-              "path": "/advanced-use/integration-approaches",
+              "id": "dispatching/documents-delivery",
+              "path": "/dispatching/documents-delivery",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "advanced-use/permissions",
-              "path": "/advanced-use/permissions",
+              "id": "dispatching/sales-invoice",
+              "path": "/dispatching/sales-invoice",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "advanced-use/staged-feature-rollouts",
-              "path": "/advanced-use/staged-feature-rollouts",
+              "id": "dispatching/sales-order",
+              "path": "/dispatching/sales-order",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "advanced-use/system-administration",
-              "path": "/advanced-use/system-administration",
+              "id": "dispatching/sales-return",
+              "path": "/dispatching/sales-return",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "clients/02-3rd-party",
-              "path": "/clients/02-3rd-party",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "clients/client-side/android",
-              "path": "/clients/android",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "clients/client-side/flutter",
-              "path": "/clients/flutter",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "clients/client-side/ios",
-              "path": "/clients/ios",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "clients/client-side/javascript",
-              "path": "/clients/javascript",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "clients/rest",
-              "path": "/clients/rest",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "clients/server-side/dotnet",
-              "path": "/clients/dotnet",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "clients/server-side/go",
-              "path": "/clients/go",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "clients/server-side/java",
-              "path": "/clients/java",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "clients/server-side/node",
-              "path": "/clients/node",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "clients/server-side/php",
-              "path": "/clients/php",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "clients/server-side/python",
-              "path": "/clients/python",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "clients/server-side/ruby",
-              "path": "/clients/ruby",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "clients/server-side/rust",
-              "path": "/clients/rust",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "deployment/AWS",
-              "path": "/deployment/AWS",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "deployment/docker",
-              "path": "/deployment/docker",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "deployment/kubernetes",
-              "path": "/deployment/kubernetes",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "deployment/locally-api",
-              "path": "/deployment/locally-api",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "deployment/locally-frontend",
-              "path": "/deployment/locally-frontend",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "deployment/openshift",
-              "path": "/deployment/openshift",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "deployment/overview",
-              "path": "/deployment/overview",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "deployment/sizing-and-scaling",
-              "path": "/deployment/sizing-and-scaling",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "general-applications/managing-features",
-              "path": "/general-applications/managing-features",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "general-applications/managing-identities",
-              "path": "/general-applications/managing-identities",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "general-applications/managing-segments",
-              "path": "/general-applications/managing-segments",
+              "id": "general-applications/issue-center",
+              "path": "/general-applications/issue-center",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -181,53 +61,53 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "integrations/amplitude",
-              "path": "/integrations/amplitude",
+              "id": "general-applications/user-contact-list",
+              "path": "/general-applications/user-contact-list",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "integrations/appdynamics",
-              "path": "/integrations/appdynamics",
+              "id": "human-resources-management/candidate",
+              "path": "/human-resources-management/candidate",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "integrations/datadog",
-              "path": "/integrations/datadog",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "integrations/heap",
-              "path": "/integrations/heap",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "integrations/mixpanel",
-              "path": "/integrations/mixpanel",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "integrations/newrelic",
-              "path": "/integrations/newrelic",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "integrations/overview",
-              "path": "/integrations/overview",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "integrations/segment",
-              "path": "/integrations/segment",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "integrations/slack",
-              "path": "/integrations/slack",
+              "id": "human-resources-management/job-vacancy",
+              "path": "/human-resources-management/job-vacancy",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "intro",
               "path": "/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventory-control/inventory-item",
+              "path": "/inventory-control/inventory-item",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventory-control/item-group",
+              "path": "/inventory-control/item-group",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventory-control/stock-group",
+              "path": "/inventory-control/stock-group",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "main-web-config/blog",
+              "path": "/main-web-config/blog",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "main-web-config/gallery",
+              "path": "/main-web-config/gallery",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "main-web-config/popup-window",
+              "path": "/main-web-config/popup-window",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -238,6 +118,56 @@
             {
               "id": "platform/releases",
               "path": "/platform/releases",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "privacy-others/activity-log",
+              "path": "/privacy-others/activity-log",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "receiving-putaway/documents-receipt",
+              "path": "/receiving-putaway/documents-receipt",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "receiving-putaway/purchase-invoice",
+              "path": "/receiving-putaway/purchase-invoice",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "receiving-putaway/purchase-order",
+              "path": "/receiving-putaway/purchase-order",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "receiving-putaway/purchase-request",
+              "path": "/receiving-putaway/purchase-request",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "receiving-putaway/purchase-return",
+              "path": "/receiving-putaway/purchase-return",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "technology/analytics",
+              "path": "/technology/analytics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "technology/cloud",
+              "path": "/technology/cloud",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "technology/iot",
+              "path": "/technology/iot",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "warehouse/warehouse-lists",
+              "path": "/warehouse/warehouse-lists",
               "sidebar": "tutorialSidebar"
             }
           ]

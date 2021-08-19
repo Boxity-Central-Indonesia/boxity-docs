@@ -4,82 +4,50 @@ sidebar_label: Overview
 sidebar_position: 1
 ---
 
-Feature Flags are a development methodology that allow you to ship code and features before they are finished. This
-greatly benefits Continuous Integration and Continuous Deployment (CI/CD). The typical workflow for this is as follows.
+General applications are applications that everyone can use these features regardless of the role. Currently, common applications have several features, namely: 
+1. Version Control
+2. Issue Center
+3. Contact User Lists
+4. Notepad
+5. Quote Reports
+6. Track Delivery
 
-1. You are about to start work on a new feature. Lets imaging you are going to implement a sharing button with your
-   application.
-2. Create a new Feature Flag in Flagsmith, calling it "sharing_button". Set it to enabled on your development
-   environment, and disabled on your production environment.
-3. Start working on the feature. Whenever you write code that shows the button within the UI, wrap it in a conditional
-   statement, testing against the value of the flag "sharing button". Only show the button if the flag is set to True.
-4. Because your button only shows when the "sharing_button" flag is set to True, you are safe to commit your code as you
-   work on the feature. Your code will be live within the production platform, but the functionality is hidden behind
-   the flag.
-5. Once you are happy with your Feature, you can enable the "sharing_button" for other members of your team and with
-   Beta testers.
-6. If everything is working as intended, simply flip the "sharing_button" flag to True for everyone in your production
-   environment, and your feature is rolled out.
+So we will tell you a more like overview or introduction about each application here.
 
-If you want to learn more about Feature Flags,
-[Flickr wrote the seminal blog post on it in 2009](https://code.flickr.net/2009/12/02/flipping-out/)
+## Issue Center
+This feature is for connecting between each employee, between employee and developers, so if an employee found a bug on the system, he/she can report this issue/bug on this feature, he/she no need to contact the developers/other employees on his/her private phone. This feature is simple to use because it is just as simple like you write your title's problem, the explanation of your problem, and submit, and your issue will send to the email's assigned user. Of course, the assignee's user will receive your issue, and you will get the status of your issue. This feature is authorized for all users, so it has a system from you to you, and by you.
 
-## Flagsmith Model
+![Issue Center Preview](https://res.cloudinary.com/boxity-id/image/upload/r_10/v1628963983/docs/issue%20center/Screenshot_2021-08-15_at_00.59.37_ekkssz.png)
 
-Here's a high level overview of the data model for Flagsmith. Fear not - it's not as complex as it looks!
+For more info about this feature [Issue Center](/general-applications/issue-center)
 
-![Image](/img/flagsmith-model.svg)
+## User Contact Lists
+User contact lists are just for if users wanna see the other user who registered on this system, and maybe he/she wanna check his/her Instagram or his/her Facebook to connect, of course, they can do it.
 
-OK let's break this down.
+![User Contact List](https://res.cloudinary.com/boxity-id/image/upload/r_10/v1628964316/docs/contact%20lists/Screenshot_2021-08-15_at_01.04.56_dtbxlf.png)
 
-### Organisations
+For more info about this feature [User Contact Lists](/general-applications/user-contact-list)
 
-Organisations are a way for you and other team members to manage projects and their features. Users can be members of
-multiple organisations.
+## Notepad
+Yes, sure we add this feature to my system because we think many people sometimes forget his note, "where did I put that note?". So for not urgent needs, we add this feature as a reminder page for users.
+So of course we add some labels which are Favorite, Personal, Work, Social, and Important. Also, users can edit the notes and see when users create the notes.
 
-### Projects
+![Notepad Preview](https://res.cloudinary.com/boxity-id/image/upload/r_10/v1628964406/docs/notepad/Screenshot_2021-08-15_at_01.06.43_xhxwmj.png)
 
-Projects contain one or more Environments that share a single set of Features across all of the Environments within the
-Project. Organisations can have any number of Projects.
+<!-- For more info about this feature [Notepad](/general-applications/notepad) -->
 
-### Environments
+## Quote Report
+Quote report is the feature that just publishes the quote words, yeah you know for increasing the employee's motivation. We thought that this feature is not useful. We add this feature because there are a few of company need this feature. 
 
-Environments are a way to separate the configuration of your features. For example, your project's Development and
-Staging environments might have a feature configured as on while it is turned off in your Production environment. A
-project can have any number of environments.
+<!-- For more info about this feature [Quote Report](/general-applications/quote-report) -->
 
-### Features
+## Track Delivery
+Yaps the first thought we made this is, "how if we provide the tools that can track our order's on any e-commerce platform, or maybe when we send the goods to our customers, we can track our delivery at real-time", so we mean to make it happens, we make the tools, connecting it to expedition's open API, and provide the data here. So currently we can provide you to can track your delivery on:
+- JET Express
+- TIKI
+- JNE
+- SiCepat
 
-Features are shared between all the Environments within the Project, but their values/states can be modified between
-Environments.
+![Track Delivery](https://res.cloudinary.com/boxity-id/image/upload/r_10/v1628966380/docs/track%20delivery/Screenshot_2021-08-15_at_01.39.23_dkpuc9.png)
 
-### Identities
-
-Identities are a particular user registration for one of your Project's environments. Registering identities within the
-client application allows you to manage features for individual users. Identity features can be overridden from your
-environment defaults. For example, joe@yourwebsite.com would be a different identity in your development environment to
-the one in production, and they can have different features enabled for each environment.
-
-For more info see [Identities](/basic-features/managing-identities).
-
-### Traits
-
-You can store any number of Traits against an Identity. Traits are simple name:value pairs that can store any type of
-data. Some examples of traits that you might store against an Identity might be:
-
-- The number of times the user has logged in.
-- If they have accepted the application terms and conditions.
-- Their preference for application theme.
-- If they have performed certain actions within your application.
-
-For more info see [Traits](/basic-features/managing-identities.md#identity-traits).
-
-### Segments
-
-Segments are a way to define a group of users by traits such as number of times logged in, device, location or any
-number of custom defined traits.
-
-Similarly to individual users, you will be able to override environment defaults for features. For example showing
-certain features for a "power user" segment.
-
-For more info see [Segments](/basic-features/managing-segments.md).
+<!-- For more info about this feature [Track Delivery](/general-applications/track-delivery) -->

@@ -3,7 +3,7 @@
   "id": "platform/releases",
   "isDocsHomePage": false,
   "title": "Releases",
-  "description": "Docker Image Tags",
+  "description": "v1.0.8",
   "source": "@site/docs/platform/releases.md",
   "sourceDirName": "platform",
   "slug": "/platform/releases",
@@ -17,5 +17,9 @@
   "previous": {
     "title": "Contributing",
     "permalink": "/platform/contributing"
+  },
+  "next": {
+    "title": "Boxity Analytics",
+    "permalink": "/technology/analytics"
   }
 }

@@ -3,7 +3,7 @@
   "id": "general-applications/overview",
   "isDocsHomePage": false,
   "title": "General Applications - An Overview",
-  "description": "Feature Flags are a development methodology that allow you to ship code and features before they are finished. This",
+  "description": "General applications are applications that everyone can use these features regardless of the role. Currently, common applications have several features, namely:",
   "source": "@site/docs/general-applications/overview.md",
   "sourceDirName": "general-applications",
   "slug": "/general-applications/overview",
@@ -22,7 +22,7 @@
     "permalink": "/"
   },
   "next": {
-    "title": "Managing Features",
-    "permalink": "/general-applications/managing-features"
+    "title": "User Contact List",
+    "permalink": "/general-applications/user-contact-list"
   }
 }

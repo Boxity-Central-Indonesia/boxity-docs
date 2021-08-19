@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Managing Features",
-    "permalink": "/general-applications/managing-features"
+    "title": "Managing Segments",
+    "permalink": "/general-applications/issue-center"
   },
   "next": {
-    "title": "Managing Segments",
-    "permalink": "/general-applications/managing-segments"
+    "title": "Managing Features",
+    "permalink": "/general-applications/version-control"
   }
 }

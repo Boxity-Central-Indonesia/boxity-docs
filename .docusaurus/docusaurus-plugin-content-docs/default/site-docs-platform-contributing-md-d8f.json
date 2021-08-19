@@ -3,7 +3,7 @@
   "id": "platform/contributing",
   "isDocsHomePage": false,
   "title": "Contributing",
-  "description": "We're always looking to improve this project, open source contribution is encouraged so long as they adhere to these",
+  "description": "We're always looking to improve this project, open-source contribution is encouraged so long as they adhere to these",
   "source": "@site/docs/platform/contributing.md",
   "sourceDirName": "platform",
   "slug": "/platform/contributing",
@@ -15,8 +15,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Sizing and Scaling",
-    "permalink": "/deployment/sizing-and-scaling"
+    "title": "Activity Log",
+    "permalink": "/privacy-others/activity-log"
   },
   "next": {
     "title": "Releases",

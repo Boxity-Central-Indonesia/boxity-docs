@@ -1,0 +1,24 @@
+{
+  "grammarly.overrides": [
+    {
+      "files": [
+        "**/docs/general-applications/overview.md"
+      ],
+      "config": {
+        "audience": "expert",
+        "dialect": "american",
+        "domain": "general",
+        "emotions": [
+          "neutral",
+          "confident",
+          "respectful",
+          "friendly"
+        ],
+        "goals": [
+          "inform",
+          "describe"
+        ]
+      }
+    }
+  ]
+}

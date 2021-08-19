@@ -45,7 +45,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/','ecc'),
+    component: ComponentCreator('/','f76'),
     routes: [
       {
         path: '/',
@@ -54,200 +54,56 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/advanced-use/ab-testing',
-        component: ComponentCreator('/advanced-use/ab-testing','72a'),
+        path: '/associate/customers',
+        component: ComponentCreator('/associate/customers','13a'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/advanced-use/api',
-        component: ComponentCreator('/advanced-use/api','de9'),
+        path: '/associate/suppliers',
+        component: ComponentCreator('/associate/suppliers','9bc'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/advanced-use/audit-logs',
-        component: ComponentCreator('/advanced-use/audit-logs','4ec'),
+        path: '/associate/users-management',
+        component: ComponentCreator('/associate/users-management','4a2'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/advanced-use/flag-analytics',
-        component: ComponentCreator('/advanced-use/flag-analytics','cad'),
+        path: '/dispatching/delivery-receipt',
+        component: ComponentCreator('/dispatching/delivery-receipt','889'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/advanced-use/integration-approaches',
-        component: ComponentCreator('/advanced-use/integration-approaches','1e7'),
+        path: '/dispatching/documents-delivery',
+        component: ComponentCreator('/dispatching/documents-delivery','409'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/advanced-use/permissions',
-        component: ComponentCreator('/advanced-use/permissions','f85'),
+        path: '/dispatching/sales-invoice',
+        component: ComponentCreator('/dispatching/sales-invoice','5e0'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/advanced-use/staged-feature-rollouts',
-        component: ComponentCreator('/advanced-use/staged-feature-rollouts','806'),
+        path: '/dispatching/sales-order',
+        component: ComponentCreator('/dispatching/sales-order','8f1'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/advanced-use/system-administration',
-        component: ComponentCreator('/advanced-use/system-administration','f75'),
+        path: '/dispatching/sales-return',
+        component: ComponentCreator('/dispatching/sales-return','181'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/clients/02-3rd-party',
-        component: ComponentCreator('/clients/02-3rd-party','7f6'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/clients/android',
-        component: ComponentCreator('/clients/android','8ef'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/clients/dotnet',
-        component: ComponentCreator('/clients/dotnet','de1'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/clients/flutter',
-        component: ComponentCreator('/clients/flutter','d9e'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/clients/go',
-        component: ComponentCreator('/clients/go','fef'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/clients/ios',
-        component: ComponentCreator('/clients/ios','2a5'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/clients/java',
-        component: ComponentCreator('/clients/java','493'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/clients/javascript',
-        component: ComponentCreator('/clients/javascript','dd8'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/clients/node',
-        component: ComponentCreator('/clients/node','372'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/clients/php',
-        component: ComponentCreator('/clients/php','614'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/clients/python',
-        component: ComponentCreator('/clients/python','867'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/clients/rest',
-        component: ComponentCreator('/clients/rest','066'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/clients/ruby',
-        component: ComponentCreator('/clients/ruby','a70'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/clients/rust',
-        component: ComponentCreator('/clients/rust','d41'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/deployment/AWS',
-        component: ComponentCreator('/deployment/AWS','a10'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/deployment/docker',
-        component: ComponentCreator('/deployment/docker','8db'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/deployment/kubernetes',
-        component: ComponentCreator('/deployment/kubernetes','91a'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/deployment/locally-api',
-        component: ComponentCreator('/deployment/locally-api','547'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/deployment/locally-frontend',
-        component: ComponentCreator('/deployment/locally-frontend','d98'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/deployment/openshift',
-        component: ComponentCreator('/deployment/openshift','974'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/deployment/overview',
-        component: ComponentCreator('/deployment/overview','f58'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/deployment/sizing-and-scaling',
-        component: ComponentCreator('/deployment/sizing-and-scaling','a2b'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/general-applications/managing-features',
-        component: ComponentCreator('/general-applications/managing-features','b39'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/general-applications/managing-identities',
-        component: ComponentCreator('/general-applications/managing-identities','7ef'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/general-applications/managing-segments',
-        component: ComponentCreator('/general-applications/managing-segments','583'),
+        path: '/general-applications/issue-center',
+        component: ComponentCreator('/general-applications/issue-center','46f'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -258,56 +114,56 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/integrations/amplitude',
-        component: ComponentCreator('/integrations/amplitude','400'),
+        path: '/general-applications/user-contact-list',
+        component: ComponentCreator('/general-applications/user-contact-list','7f5'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/integrations/appdynamics',
-        component: ComponentCreator('/integrations/appdynamics','068'),
+        path: '/human-resources-management/candidate',
+        component: ComponentCreator('/human-resources-management/candidate','941'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/integrations/datadog',
-        component: ComponentCreator('/integrations/datadog','169'),
+        path: '/human-resources-management/job-vacancy',
+        component: ComponentCreator('/human-resources-management/job-vacancy','ad3'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/integrations/heap',
-        component: ComponentCreator('/integrations/heap','e97'),
+        path: '/inventory-control/inventory-item',
+        component: ComponentCreator('/inventory-control/inventory-item','d7d'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/integrations/mixpanel',
-        component: ComponentCreator('/integrations/mixpanel','6fb'),
+        path: '/inventory-control/item-group',
+        component: ComponentCreator('/inventory-control/item-group','244'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/integrations/newrelic',
-        component: ComponentCreator('/integrations/newrelic','510'),
+        path: '/inventory-control/stock-group',
+        component: ComponentCreator('/inventory-control/stock-group','8e0'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/integrations/overview',
-        component: ComponentCreator('/integrations/overview','eba'),
+        path: '/main-web-config/blog',
+        component: ComponentCreator('/main-web-config/blog','599'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/integrations/segment',
-        component: ComponentCreator('/integrations/segment','c7d'),
+        path: '/main-web-config/gallery',
+        component: ComponentCreator('/main-web-config/gallery','56e'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/integrations/slack',
-        component: ComponentCreator('/integrations/slack','5a5'),
+        path: '/main-web-config/popup-window',
+        component: ComponentCreator('/main-web-config/popup-window','38e'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -320,6 +176,66 @@ export default [
       {
         path: '/platform/releases',
         component: ComponentCreator('/platform/releases','3e4'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/privacy-others/activity-log',
+        component: ComponentCreator('/privacy-others/activity-log','7d1'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/receiving-putaway/documents-receipt',
+        component: ComponentCreator('/receiving-putaway/documents-receipt','483'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/receiving-putaway/purchase-invoice',
+        component: ComponentCreator('/receiving-putaway/purchase-invoice','9ab'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/receiving-putaway/purchase-order',
+        component: ComponentCreator('/receiving-putaway/purchase-order','376'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/receiving-putaway/purchase-request',
+        component: ComponentCreator('/receiving-putaway/purchase-request','766'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/receiving-putaway/purchase-return',
+        component: ComponentCreator('/receiving-putaway/purchase-return','246'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/technology/analytics',
+        component: ComponentCreator('/technology/analytics','dac'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/technology/cloud',
+        component: ComponentCreator('/technology/cloud','808'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/technology/iot',
+        component: ComponentCreator('/technology/iot','300'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/warehouse/warehouse-lists',
+        component: ComponentCreator('/warehouse/warehouse-lists','ed1'),
         exact: true,
         'sidebar': "tutorialSidebar"
       }

@@ -24,7 +24,7 @@
   "/search-d97": {
     "component": "component---volumes-storage-y-git-hub-boxity-docs-node-modules-docusaurus-theme-search-algolia-src-theme-search-page-index-jsa-03-0bd"
   },
-  "/-ecc": {
+  "/-f76": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---935-fcf"
   },
@@ -32,177 +32,81 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---c-37-d02"
   },
-  "/advanced-use/ab-testing-72a": {
+  "/associate/customers-13a": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---advanced-use-ab-testing-415-231"
+    "content": "content---associate-customers-10-d-d2a"
   },
-  "/advanced-use/api-de9": {
+  "/associate/suppliers-9bc": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---advanced-use-apib-1-c-599"
+    "content": "content---associate-suppliers-51-d-7f9"
   },
-  "/advanced-use/audit-logs-4ec": {
+  "/associate/users-management-4a2": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---advanced-use-audit-logs-7-dd-b68"
+    "content": "content---associate-users-managementc-6-a-978"
   },
-  "/advanced-use/flag-analytics-cad": {
+  "/dispatching/delivery-receipt-889": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---advanced-use-flag-analyticsffd-56a"
+    "content": "content---dispatching-delivery-receipt-0-cd-315"
   },
-  "/advanced-use/integration-approaches-1e7": {
+  "/dispatching/documents-delivery-409": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---advanced-use-integration-approachesfa-3-213"
+    "content": "content---dispatching-documents-deliveryf-1-f-68a"
   },
-  "/advanced-use/permissions-f85": {
+  "/dispatching/sales-invoice-5e0": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---advanced-use-permissions-561-1e1"
+    "content": "content---dispatching-sales-invoice-9-f-5-35d"
   },
-  "/advanced-use/staged-feature-rollouts-806": {
+  "/dispatching/sales-order-8f1": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---advanced-use-staged-feature-rollouts-2-bb-6c8"
+    "content": "content---dispatching-sales-order-0-fa-fff"
   },
-  "/advanced-use/system-administration-f75": {
+  "/dispatching/sales-return-181": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---advanced-use-system-administrationb-5-b-d36"
+    "content": "content---dispatching-sales-returnaee-d8b"
   },
-  "/clients/02-3rd-party-7f6": {
+  "/general-applications/issue-center-46f": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---clients-02-3rd-partyc-39-f8f"
-  },
-  "/clients/android-8ef": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---clients-android-58-a-254"
-  },
-  "/clients/dotnet-de1": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---clients-dotnet-7-eb-c0b"
-  },
-  "/clients/flutter-d9e": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---clients-flutterd-05-279"
-  },
-  "/clients/go-fef": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---clients-gof-81-ed7"
-  },
-  "/clients/ios-2a5": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---clients-ios-91-c-572"
-  },
-  "/clients/java-493": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---clients-java-347-351"
-  },
-  "/clients/javascript-dd8": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---clients-javascripte-43-529"
-  },
-  "/clients/node-372": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---clients-node-55-d-37e"
-  },
-  "/clients/php-614": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---clients-php-7-a-9-3c0"
-  },
-  "/clients/python-867": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---clients-python-915-337"
-  },
-  "/clients/rest-066": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---clients-restfc-9-979"
-  },
-  "/clients/ruby-a70": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---clients-ruby-973-a2b"
-  },
-  "/clients/rust-d41": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---clients-rust-175-9f2"
-  },
-  "/deployment/AWS-a10": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---deployment-aws-8-f-2-eb5"
-  },
-  "/deployment/docker-8db": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---deployment-dockerff-8-f55"
-  },
-  "/deployment/kubernetes-91a": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---deployment-kubernetes-04-d-72b"
-  },
-  "/deployment/locally-api-547": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---deployment-locally-api-80-b-07a"
-  },
-  "/deployment/locally-frontend-d98": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---deployment-locally-frontendb-74-772"
-  },
-  "/deployment/openshift-974": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---deployment-openshiftdc-1-dc0"
-  },
-  "/deployment/overview-f58": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---deployment-overview-694-a1d"
-  },
-  "/deployment/sizing-and-scaling-a2b": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---deployment-sizing-and-scaling-087-5ea"
-  },
-  "/general-applications/managing-features-b39": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---general-applications-managing-features-972-3ff"
-  },
-  "/general-applications/managing-identities-7ef": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---general-applications-managing-identities-65-a-3f1"
-  },
-  "/general-applications/managing-segments-583": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---general-applications-managing-segments-438-b25"
+    "content": "content---general-applications-issue-center-0-bb-24d"
   },
   "/general-applications/overview-cd9": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---general-applications-overview-874-957"
   },
-  "/integrations/amplitude-400": {
+  "/general-applications/user-contact-list-7f5": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---integrations-amplitude-878-127"
+    "content": "content---general-applications-user-contact-list-2-ae-339"
   },
-  "/integrations/appdynamics-068": {
+  "/human-resources-management/candidate-941": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---integrations-appdynamicsd-61-c55"
+    "content": "content---human-resources-management-candidate-46-d-4bc"
   },
-  "/integrations/datadog-169": {
+  "/human-resources-management/job-vacancy-ad3": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---integrations-datadog-0-cb-a40"
+    "content": "content---human-resources-management-job-vacancy-1-da-ee4"
   },
-  "/integrations/heap-e97": {
+  "/inventory-control/inventory-item-d7d": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---integrations-heap-08-d-13e"
+    "content": "content---inventory-control-inventory-item-153-20f"
   },
-  "/integrations/mixpanel-6fb": {
+  "/inventory-control/item-group-244": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---integrations-mixpanel-202-c79"
+    "content": "content---inventory-control-item-group-397-db1"
   },
-  "/integrations/newrelic-510": {
+  "/inventory-control/stock-group-8e0": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---integrations-newrelic-305-835"
+    "content": "content---inventory-control-stock-group-15-d-266"
   },
-  "/integrations/overview-eba": {
+  "/main-web-config/blog-599": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---integrations-overviewfbb-691"
+    "content": "content---main-web-config-blogbf-3-85a"
   },
-  "/integrations/segment-c7d": {
+  "/main-web-config/gallery-56e": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---integrations-segment-8-d-1-c94"
+    "content": "content---main-web-config-gallery-8-ed-1eb"
   },
-  "/integrations/slack-5a5": {
+  "/main-web-config/popup-window-38e": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---integrations-slackbc-4-8ce"
+    "content": "content---main-web-config-popup-window-8-fb-32b"
   },
   "/platform/contributing-6eb": {
     "component": "component---theme-doc-item-178-a40",
@@ -211,5 +115,45 @@
   "/platform/releases-3e4": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---platform-releases-52-b-a2f"
+  },
+  "/privacy-others/activity-log-7d1": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---privacy-others-activity-log-9-dc-f19"
+  },
+  "/receiving-putaway/documents-receipt-483": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---receiving-putaway-documents-receipt-505-439"
+  },
+  "/receiving-putaway/purchase-invoice-9ab": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---receiving-putaway-purchase-invoicec-78-c98"
+  },
+  "/receiving-putaway/purchase-order-376": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---receiving-putaway-purchase-orderc-2-e-936"
+  },
+  "/receiving-putaway/purchase-request-766": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---receiving-putaway-purchase-request-182-ada"
+  },
+  "/receiving-putaway/purchase-return-246": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---receiving-putaway-purchase-return-132-c8f"
+  },
+  "/technology/analytics-dac": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---technology-analytics-32-b-265"
+  },
+  "/technology/cloud-808": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---technology-cloudc-6-d-bee"
+  },
+  "/technology/iot-300": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---technology-iot-571-aba"
+  },
+  "/warehouse/warehouse-lists-ed1": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---warehouse-warehouse-listsedc-fda"
   }
 }

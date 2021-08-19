@@ -1,155 +1,120 @@
 ---
 title: Releases
 ---
+## v1.0.8
 
-## Docker Image Tags
+Released **05 Aug, 2021**
 
-We have a fairly simple tagging strategy:
+**Fix bugs**
+- Bug fixing and improvements in a few modules including reset password.
 
-- Commits to the `main` branch trigger Docker image builds tagged `latest`.
-- Git tags (e.g. `2.7.1`) will trigger Docker image builds tagged:
-  - v2.7.1
+## v1.0.7
 
-## v2.8
+Released **30 Jul, 2021**
 
-Released **28 July 2021**
+**Update fix bugs**
+- Fix approve issue on issue center
 
-- SAML Integration (Enterprise version only)
+**Improvements on module**
+- Improve searching user on all module that needs user for its modules.
 
-## v2.7
+**Add Features for Warehouse Modules**
+- Receiving & putaway modules have been done
+- Inventory item already done with counting item when Purchase Invoices created.
 
-Released **5 May 2021**
+**Update privacy security**
 
-- [Multivariate Flags](https://flagsmith.com/blog/introducing-multivariate-flags/)
-- Various minor bug fixes
+- Trace logs for tracing the error logs.
+- Activity logs.
 
-## v2.6
 
-Released **9 Apr 2021**
+## v1.0.6
 
-- Combine Feature Flags and Remote Config
-- Dark mode
-- Formatter for remote config supporting xml, json, toml and yaml
-- Fix Segment override incorrect date
-- Add sorting to identity feature list
-- Enable SDK analytics based on FLAGSMITH_ANALYTICS env var
-- Configurable butter-bar
-- Show segment descriptions
-- New integrations
-  - Mixpanel
-  - Heap Analytics
-  - New Relic
+Released **19 Jul, 2021**
 
-Breaking changes:
+**Security improvements:**
+- Turn off autocomplete on the login page - cause: Credential that
+  saved on the local computer can be used by attacker/hacker
+  who can get accessed to the computer?
+- Add verified change password by adding an old password
+   before can change to a new password.
+- Adding captcha verified to the login form.
+- Adding activity log for each user.
 
-- Segment overrides use new API
+**Update fix bugs**
+**Improvements on module**
+- Admin or user who has to authorize can add warehouse list, on warehouse list.
+- Update inventory item modules.
+- Item group module updates.
+- Stock group module updates.
+- Receiving modules that have `purchase order`, `purchase invoices`, `purchase request`, and `purchase return` already can be accessed.
 
-## v2.5
+**Update privacy security:**
 
-Released **20 Jan 2021**
+- Trace logs for tracing the error logs.
+- Activity logs.
 
-- Add invite via link functionality
-- More third party integrations
+## v1.0.5
 
-## v2.4
+Released **17 Jun, 2021**
 
-Released **7 Dec 2020**
+- Improvements module system and fixing bug systems.
+- Popup window module for popup web design.
+- Loading bar fix bugs
 
-This release is the first under our new brand, Flagsmith.
+## v1.0.4
 
-The rebrand comes with no breaking changes, mainly just a refactor to urls and wording, however we have built several
-new features and bug fixes since our last release:
+Released **09 Jun, 2021**
 
-- If your api is using influx, we now show usage data in a graph format
-  ![image](https://user-images.githubusercontent.com/8608314/101258233-16227880-3719-11eb-86c0-738c43d2ec0f.png)
-- New look and feel
-- Ability to bulk enable / disable all segment overrides and user overrides for a flag
-  ![image](https://user-images.githubusercontent.com/8608314/101258463-87aef680-371a-11eb-9e98-35c976612962.png)
-- Sensible page size for the users page
-- Improved E2E stability
-- Integration page, this page is almost fully managed by remote config. It will allow users t enhance Flagsmith with
-  your favourite tools. We currently support data dog and will shortly support amplitude.
-  ![image](https://user-images.githubusercontent.com/8608314/101258436-6ea64580-371a-11eb-8afe-3626eb36bbbe.png)
+- Improvement bugs and fixes
+- Loading bar on every pages route and processing data
 
-The remote config to use this is as follows:
+## v1.0.3
 
-```json
-integrations:
+Released **02 Jun, 2021**
 
-["data_dog"]
-```
+Fixing bugs environment.
 
-```json
-integration_data
-{
-    "perEnvironment": false,
-    "image": "https://xyz",
-    "fields": [
-      {
-        "key": "base_url",
-        "label": "Base URL"
-      },
-      {
-        "key": "api_key",
-        "label": "API Key"
-      }
-    ],
-    "tags": [
-      "logging"
-    ],
-    "title": "Data dog",
-    "description": "Sends events to Data dog for when flags are created, updated and removed. Logs are tagged with the environment they came from e.g. production."
-}
-```
+Updates some pages and function:
+- User management table
+- Contact list get user except for customer list
+- Goods receipt improvement
+- Issue improvement
 
-## v2.3
+## v1.0.2
 
-Released **9 Nov 2020**
+Released **20 May, 2021**
 
-We've added a bunch of new features and bug fixes.
+- Fix several bugs and improvements
+- Add email confirmation for users that has a packet/document received on receptionist
+- Now HRD and HEAD role can approve his own issue
 
-- You can now tag flags with user-defined tags. You can use these tags to manage flags and organise them.
-- Beta release of both [Data Dog](https://docs.bullet-train.io/integrations/datadog/) and
-  [Amplitude](https://docs.bullet-train.io/integrations/amplitude/) integrations.
-- You can now set multiple traits in a single call
-- For a given feature, show which Identities have it individually overridden
-- When viewing an Identity, show the segments and test whether the identity is a member of each segment
+## v1.0.1
 
-## v2.2
+Released **20 May, 2021**
 
-Released **12th June 2020**
+- Improve profile edit page in changes password
+- Version control view page, history changes
+- No longer direct chat on contact lists
+- Department column on user managements
 
-- Flags that are defined with Segment overrides are now based on an Environment level, as opposed to a Project level. So
-  you can now define Segment overrides differently between Environments
-- Redesigned the left hand navigation area
-- You can now filter the audit log per flag
-- You can jump to a flags audit log from the main features page
+## v1.0.0
 
-## v2.1
+Released **19 May, 2021**
 
-Released **28th May 2020**
+A new web app that we made.
 
-[Front End](https://github.com/BulletTrainHQ/bullet-train-frontend/releases/tag/v2.1.0) /
-[API](https://github.com/BulletTrainHQ/bullet-train-api/releases/tag/v2.1.0)
+This is the updated change for version 1.0.0.
 
-- Google OAuth2 integration
-- 2 Factor authentication
-- Influx DB integration for API call statistics
-- The API can now set multiple traits in a single API request
-- Fixed an issue where webhooks could miss data in a certain scenarios
-- Mainly CSS design Tweaks
-
-## v2.0
-
-Released **19th December 2019**
-
-- Removed Flagsmith homepage from Front End App
-- Added Webhooks
-
-## v1.9
-
-Released **22nd September 2019**
-
-- Added Segments
-- Added Auditing Logs
-- Better E2E testing
+- New interface on the general web dashboard and homepage dashboard.
+- New function and features on issue report.
+- Issue reports now can report the problem to each user on this tool.
+- Gallery and blog now added on these tools (used for IT of the company)
+- Goods Receipt features are now added! Used for each user that has a packet or
+   the document delivered to the office.
+- Track delivery function updated.
+- Human resources now cleaner, career now can add all the required candidates and
+   candidate now not shows all the candidate that has an expired session.
+- Chat features app now available, user can send messages between each user.
+- Users can see the social media and bio from Contact Lists features, now users can
+   connected on social media.

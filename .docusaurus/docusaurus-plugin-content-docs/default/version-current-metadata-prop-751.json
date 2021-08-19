@@ -22,18 +22,13 @@
           },
           {
             "type": "link",
-            "label": "Managing Features",
-            "href": "/general-applications/managing-features"
+            "label": "User Contact List",
+            "href": "/general-applications/user-contact-list"
           },
           {
             "type": "link",
-            "label": "Managing Identities",
-            "href": "/general-applications/managing-identities"
-          },
-          {
-            "type": "link",
-            "label": "Managing Segments",
-            "href": "/general-applications/managing-segments"
+            "label": "Issue Center",
+            "href": "/general-applications/issue-center"
           }
         ],
         "collapsed": false,
@@ -41,47 +36,22 @@
       },
       {
         "type": "category",
-        "label": "Advanced Use",
+        "label": "Associate",
         "items": [
           {
             "type": "link",
-            "label": "A/B Testing",
-            "href": "/advanced-use/ab-testing"
+            "label": "Customers",
+            "href": "/associate/customers"
           },
           {
             "type": "link",
-            "label": "REST API",
-            "href": "/advanced-use/api"
+            "label": "Suppliers",
+            "href": "/associate/suppliers"
           },
           {
             "type": "link",
-            "label": "Audit Logs",
-            "href": "/advanced-use/audit-logs"
-          },
-          {
-            "type": "link",
-            "label": "Feature Flag Analytics",
-            "href": "/advanced-use/flag-analytics"
-          },
-          {
-            "type": "link",
-            "label": "Integration Approaches",
-            "href": "/advanced-use/integration-approaches"
-          },
-          {
-            "type": "link",
-            "label": "Permissions",
-            "href": "/advanced-use/permissions"
-          },
-          {
-            "type": "link",
-            "label": "Staged Feature Rollouts",
-            "href": "/advanced-use/staged-feature-rollouts"
-          },
-          {
-            "type": "link",
-            "label": "System Administration",
-            "href": "/advanced-use/system-administration"
+            "label": "Users Management",
+            "href": "/associate/users-management"
           }
         ],
         "collapsed": false,
@@ -89,93 +59,17 @@
       },
       {
         "type": "category",
-        "label": "SDKs",
+        "label": "Human Resources Management",
         "items": [
           {
             "type": "link",
-            "label": "REST",
-            "href": "/clients/rest"
+            "label": "Candidate",
+            "href": "/human-resources-management/candidate"
           },
           {
             "type": "link",
-            "label": "3rd Party",
-            "href": "/clients/02-3rd-party"
-          },
-          {
-            "type": "category",
-            "label": "Client Side",
-            "items": [
-              {
-                "type": "link",
-                "label": "Android",
-                "href": "/clients/android"
-              },
-              {
-                "type": "link",
-                "label": "Flutter",
-                "href": "/clients/flutter"
-              },
-              {
-                "type": "link",
-                "label": "iOS",
-                "href": "/clients/ios"
-              },
-              {
-                "type": "link",
-                "label": "Javascript",
-                "href": "/clients/javascript"
-              }
-            ],
-            "collapsed": false,
-            "collapsible": true
-          },
-          {
-            "type": "category",
-            "label": "Server Side",
-            "items": [
-              {
-                "type": "link",
-                "label": ".Net",
-                "href": "/clients/dotnet"
-              },
-              {
-                "type": "link",
-                "label": "Go",
-                "href": "/clients/go"
-              },
-              {
-                "type": "link",
-                "label": "Java",
-                "href": "/clients/java"
-              },
-              {
-                "type": "link",
-                "label": "NodeJS",
-                "href": "/clients/node"
-              },
-              {
-                "type": "link",
-                "label": "PHP",
-                "href": "/clients/php"
-              },
-              {
-                "type": "link",
-                "label": "Python",
-                "href": "/clients/python"
-              },
-              {
-                "type": "link",
-                "label": "Ruby",
-                "href": "/clients/ruby"
-              },
-              {
-                "type": "link",
-                "label": "Rust",
-                "href": "/clients/rust"
-              }
-            ],
-            "collapsed": false,
-            "collapsible": true
+            "label": "Job Vacancy",
+            "href": "/human-resources-management/job-vacancy"
           }
         ],
         "collapsed": true,
@@ -183,52 +77,12 @@
       },
       {
         "type": "category",
-        "label": "Integrations",
+        "label": "Warehouse",
         "items": [
           {
             "type": "link",
-            "label": "Overview",
-            "href": "/integrations/overview"
-          },
-          {
-            "type": "link",
-            "label": "Amplitude",
-            "href": "/integrations/amplitude"
-          },
-          {
-            "type": "link",
-            "label": "AppDynamics",
-            "href": "/integrations/appdynamics"
-          },
-          {
-            "type": "link",
-            "label": "Datadog",
-            "href": "/integrations/datadog"
-          },
-          {
-            "type": "link",
-            "label": "Heap Analytics",
-            "href": "/integrations/heap"
-          },
-          {
-            "type": "link",
-            "label": "Mixpanel",
-            "href": "/integrations/mixpanel"
-          },
-          {
-            "type": "link",
-            "label": "New Relic",
-            "href": "/integrations/newrelic"
-          },
-          {
-            "type": "link",
-            "label": "Segment",
-            "href": "/integrations/segment"
-          },
-          {
-            "type": "link",
-            "label": "Slack",
-            "href": "/integrations/slack"
+            "label": "Warehouse List",
+            "href": "/warehouse/warehouse-lists"
           }
         ],
         "collapsed": true,
@@ -236,47 +90,124 @@
       },
       {
         "type": "category",
-        "label": "Deployment",
+        "label": "Inventory Control",
         "items": [
           {
             "type": "link",
-            "label": "Overview",
-            "href": "/deployment/overview"
+            "label": "Inventory Item",
+            "href": "/inventory-control/inventory-item"
           },
           {
             "type": "link",
-            "label": "Locally - API",
-            "href": "/deployment/locally-api"
+            "label": "Item Group",
+            "href": "/inventory-control/item-group"
           },
           {
             "type": "link",
-            "label": "Locally - Frontend",
-            "href": "/deployment/locally-frontend"
+            "label": "Stock Group",
+            "href": "/inventory-control/stock-group"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Receiving & Putaway",
+        "items": [
+          {
+            "type": "link",
+            "label": "Documents Receipt",
+            "href": "/receiving-putaway/documents-receipt"
           },
           {
             "type": "link",
-            "label": "Docker",
-            "href": "/deployment/docker"
+            "label": "Purchase Invoice",
+            "href": "/receiving-putaway/purchase-invoice"
           },
           {
             "type": "link",
-            "label": "Kubernetes",
-            "href": "/deployment/kubernetes"
+            "label": "Purchase Order",
+            "href": "/receiving-putaway/purchase-order"
           },
           {
             "type": "link",
-            "label": "OpenShift",
-            "href": "/deployment/openshift"
+            "label": "Purchase Request",
+            "href": "/receiving-putaway/purchase-request"
           },
           {
             "type": "link",
-            "label": "AWS",
-            "href": "/deployment/AWS"
+            "label": "Purchase Return",
+            "href": "/receiving-putaway/purchase-return"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Dispatching",
+        "items": [
+          {
+            "type": "link",
+            "label": "Delivery Receipt",
+            "href": "/dispatching/delivery-receipt"
           },
           {
             "type": "link",
-            "label": "Sizing and Scaling",
-            "href": "/deployment/sizing-and-scaling"
+            "label": "Documents Delivery",
+            "href": "/dispatching/documents-delivery"
+          },
+          {
+            "type": "link",
+            "label": "Sales Invoice",
+            "href": "/dispatching/sales-invoice"
+          },
+          {
+            "type": "link",
+            "label": "Sales Order",
+            "href": "/dispatching/sales-order"
+          },
+          {
+            "type": "link",
+            "label": "Sales Return",
+            "href": "/dispatching/sales-return"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Main Web Config",
+        "items": [
+          {
+            "type": "link",
+            "label": "Blog",
+            "href": "/main-web-config/blog"
+          },
+          {
+            "type": "link",
+            "label": "Gallery",
+            "href": "/main-web-config/gallery"
+          },
+          {
+            "type": "link",
+            "label": "Popup Window",
+            "href": "/main-web-config/popup-window"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Privacy & Others",
+        "items": [
+          {
+            "type": "link",
+            "label": "Activity Log",
+            "href": "/privacy-others/activity-log"
           }
         ],
         "collapsed": true,
@@ -295,6 +226,29 @@
             "type": "link",
             "label": "Releases",
             "href": "/platform/releases"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Technology",
+        "items": [
+          {
+            "type": "link",
+            "label": "Boxity Analytics",
+            "href": "/technology/analytics"
+          },
+          {
+            "type": "link",
+            "label": "Boxity Cloud",
+            "href": "/technology/cloud"
+          },
+          {
+            "type": "link",
+            "label": "Boxity Internet of Things",
+            "href": "/technology/iot"
           }
         ],
         "collapsed": true,
