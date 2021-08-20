@@ -1,12 +1,17 @@
 {
   "defaultLocale": "en",
   "locales": [
-    "en"
+    "en",
+    "id"
   ],
-  "currentLocale": "en",
+  "currentLocale": "id",
   "localeConfigs": {
     "en": {
       "label": "English",
+      "direction": "ltr"
+    },
+    "id": {
+      "label": "Indonesian",
       "direction": "ltr"
     }
   }

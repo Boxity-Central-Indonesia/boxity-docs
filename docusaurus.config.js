@@ -34,8 +34,7 @@ module.exports = {
                     label: 'Docs',
                 },
                 {
-                    to: 'https://boxity.id',
-                    label: 'boxity.id',
+                    type: 'localeDropdown',
                     position: 'left',
                 },
                 {
@@ -86,4 +85,16 @@ module.exports = {
             },
         ],
     ],
+    i18n: {
+        defaultLocale: 'en',
+        locales: ['en', 'id'],
+        localeConfigs: {
+            en: {
+                label: 'English',
+            },
+            id: {
+                label: 'Indonesian',
+            },
+        },
+    },
 };
