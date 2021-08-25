@@ -9,7 +9,7 @@
       {
         "type": "link",
         "label": "Overview",
-        "href": "/"
+        "href": "/id/"
       },
       {
         "type": "category",
@@ -18,17 +18,17 @@
           {
             "type": "link",
             "label": "Overview",
-            "href": "/general-applications/overview"
+            "href": "/id/general-applications/overview"
           },
           {
             "type": "link",
             "label": "User Contact List",
-            "href": "/general-applications/user-contact-list"
+            "href": "/id/general-applications/user-contact-list"
           },
           {
             "type": "link",
             "label": "Issue Center",
-            "href": "/general-applications/issue-center"
+            "href": "/id/general-applications/issue-center"
           }
         ],
         "collapsed": false,
@@ -41,17 +41,17 @@
           {
             "type": "link",
             "label": "Customers",
-            "href": "/associate/customers"
+            "href": "/id/associate/customers"
           },
           {
             "type": "link",
             "label": "Suppliers",
-            "href": "/associate/suppliers"
+            "href": "/id/associate/suppliers"
           },
           {
             "type": "link",
             "label": "Users Management",
-            "href": "/associate/users-management"
+            "href": "/id/associate/users-management"
           }
         ],
         "collapsed": false,
@@ -64,12 +64,12 @@
           {
             "type": "link",
             "label": "Candidate",
-            "href": "/human-resources-management/candidate"
+            "href": "/id/human-resources-management/candidate"
           },
           {
             "type": "link",
             "label": "Job Vacancy",
-            "href": "/human-resources-management/job-vacancy"
+            "href": "/id/human-resources-management/job-vacancy"
           }
         ],
         "collapsed": true,
@@ -82,7 +82,7 @@
           {
             "type": "link",
             "label": "Warehouse List",
-            "href": "/warehouse/warehouse-lists"
+            "href": "/id/warehouse/warehouse-lists"
           }
         ],
         "collapsed": true,
@@ -95,17 +95,17 @@
           {
             "type": "link",
             "label": "Inventory Item",
-            "href": "/inventory-control/inventory-item"
+            "href": "/id/inventory-control/inventory-item"
           },
           {
             "type": "link",
             "label": "Item Group",
-            "href": "/inventory-control/item-group"
+            "href": "/id/inventory-control/item-group"
           },
           {
             "type": "link",
             "label": "Stock Group",
-            "href": "/inventory-control/stock-group"
+            "href": "/id/inventory-control/stock-group"
           }
         ],
         "collapsed": true,
@@ -118,27 +118,27 @@
           {
             "type": "link",
             "label": "Documents Receipt",
-            "href": "/receiving-putaway/documents-receipt"
+            "href": "/id/receiving-putaway/documents-receipt"
           },
           {
             "type": "link",
             "label": "Purchase Invoice",
-            "href": "/receiving-putaway/purchase-invoice"
+            "href": "/id/receiving-putaway/purchase-invoice"
           },
           {
             "type": "link",
             "label": "Purchase Order",
-            "href": "/receiving-putaway/purchase-order"
+            "href": "/id/receiving-putaway/purchase-order"
           },
           {
             "type": "link",
             "label": "Purchase Request",
-            "href": "/receiving-putaway/purchase-request"
+            "href": "/id/receiving-putaway/purchase-request"
           },
           {
             "type": "link",
             "label": "Purchase Return",
-            "href": "/receiving-putaway/purchase-return"
+            "href": "/id/receiving-putaway/purchase-return"
           }
         ],
         "collapsed": true,
@@ -151,27 +151,27 @@
           {
             "type": "link",
             "label": "Delivery Receipt",
-            "href": "/dispatching/delivery-receipt"
+            "href": "/id/dispatching/delivery-receipt"
           },
           {
             "type": "link",
             "label": "Documents Delivery",
-            "href": "/dispatching/documents-delivery"
+            "href": "/id/dispatching/documents-delivery"
           },
           {
             "type": "link",
             "label": "Sales Invoice",
-            "href": "/dispatching/sales-invoice"
+            "href": "/id/dispatching/sales-invoice"
           },
           {
             "type": "link",
             "label": "Sales Order",
-            "href": "/dispatching/sales-order"
+            "href": "/id/dispatching/sales-order"
           },
           {
             "type": "link",
             "label": "Sales Return",
-            "href": "/dispatching/sales-return"
+            "href": "/id/dispatching/sales-return"
           }
         ],
         "collapsed": true,
@@ -184,17 +184,17 @@
           {
             "type": "link",
             "label": "Blog",
-            "href": "/main-web-config/blog"
+            "href": "/id/main-web-config/blog"
           },
           {
             "type": "link",
             "label": "Gallery",
-            "href": "/main-web-config/gallery"
+            "href": "/id/main-web-config/gallery"
           },
           {
             "type": "link",
             "label": "Popup Window",
-            "href": "/main-web-config/popup-window"
+            "href": "/id/main-web-config/popup-window"
           }
         ],
         "collapsed": true,
@@ -207,7 +207,7 @@
           {
             "type": "link",
             "label": "Activity Log",
-            "href": "/privacy-others/activity-log"
+            "href": "/id/privacy-others/activity-log"
           }
         ],
         "collapsed": true,
@@ -220,12 +220,12 @@
           {
             "type": "link",
             "label": "Contributing",
-            "href": "/platform/contributing"
+            "href": "/id/platform/contributing"
           },
           {
             "type": "link",
             "label": "Releases",
-            "href": "/platform/releases"
+            "href": "/id/platform/releases"
           }
         ],
         "collapsed": true,
@@ -238,17 +238,30 @@
           {
             "type": "link",
             "label": "Boxity Analytics",
-            "href": "/technology/analytics"
+            "href": "/id/technology/analytics"
           },
           {
             "type": "link",
             "label": "Boxity Cloud",
-            "href": "/technology/cloud"
+            "href": "/id/technology/cloud"
           },
           {
             "type": "link",
             "label": "Boxity Internet of Things",
-            "href": "/technology/iot"
+            "href": "/id/technology/iot"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Notifier",
+        "items": [
+          {
+            "type": "link",
+            "label": "Telegram Notification",
+            "href": "/id/notifier/telegram-notificaion"
           }
         ],
         "collapsed": true,

@@ -237,6 +237,18 @@
                 ],
                 "collapsed": true,
                 "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Notifier",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "notifier/telegram-notificaion"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
               }
             ]
           },
@@ -779,6 +791,27 @@
               }
             },
             {
+              "unversionedId": "notifier/telegram-notificaion",
+              "id": "notifier/telegram-notificaion",
+              "isDocsHomePage": false,
+              "title": "Telegram Notification",
+              "description": "Telegram notifier is the tool for that user registered his ID's telegram to received the information needed. So we can give you the simpler information, with the simpler way and with the simpler responsive.",
+              "source": "@site/docs/notifier/telegram-notificaion.md",
+              "sourceDirName": "notifier",
+              "slug": "/notifier/telegram-notificaion",
+              "permalink": "/notifier/telegram-notificaion",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/notifier/telegram-notificaion.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Telegram Notification"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Boxity Internet of Things",
+                "permalink": "/technology/iot"
+              }
+            },
+            {
               "unversionedId": "platform/contributing",
               "id": "platform/contributing",
               "isDocsHomePage": false,
@@ -1059,6 +1092,10 @@
               "previous": {
                 "title": "Boxity Cloud",
                 "permalink": "/technology/cloud"
+              },
+              "next": {
+                "title": "Telegram Notification",
+                "permalink": "/notifier/telegram-notificaion"
               }
             },
             {

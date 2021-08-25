@@ -7,7 +7,7 @@
   "source": "@site/docs/platform/releases.md",
   "sourceDirName": "platform",
   "slug": "/platform/releases",
-  "permalink": "/platform/releases",
+  "permalink": "/id/platform/releases",
   "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/platform/releases.md",
   "version": "current",
   "frontMatter": {
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Contributing",
-    "permalink": "/platform/contributing"
+    "permalink": "/id/platform/contributing"
   },
   "next": {
     "title": "Boxity Analytics",
-    "permalink": "/technology/analytics"
+    "permalink": "/id/technology/analytics"
   }
 }

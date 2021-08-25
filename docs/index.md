@@ -10,7 +10,7 @@ sidebar_label: Overview
 
 ![Boxity](/img/banner-logo-dark.png)
 
-[Boxity](https://boxity.id/) lets you to manage and integrate various operational activities within a business across web, server-side and mobile platforms. Boxity is a paid system with a 2 month free trial. Host yourself or let us take care of the hosting.
+[Boxity](https://boxity.id/) lets you manage and integrate various operational activities within a business across the web, server-side and mobile platforms. Boxity is a paid system with a 2-month free trial. Host yourself or let us take care of the hosting.
 
 The current application consists of several components:
 

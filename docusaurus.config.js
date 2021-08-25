@@ -4,7 +4,7 @@ module.exports = {
     tagline: 'The documentation books for boxity applications. Dev by Bintang Tobing/Boxity Central Indonesia.',
     url: 'https://docs.boxity.id',
     baseUrl: '/',
-    onBrokenLinks: 'throw',
+    onBrokenLinks: 'ignore',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon-boxity.ico',
     organizationName: 'Boxity',

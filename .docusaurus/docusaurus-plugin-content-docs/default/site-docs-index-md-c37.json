@@ -7,7 +7,7 @@
   "source": "@site/docs/index.md",
   "sourceDirName": ".",
   "slug": "/",
-  "permalink": "/",
+  "permalink": "/id/",
   "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/index.md",
   "version": "current",
   "sidebarPosition": 1,
@@ -21,6 +21,6 @@
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "Overview",
-    "permalink": "/general-applications/overview"
+    "permalink": "/id/general-applications/overview"
   }
 }

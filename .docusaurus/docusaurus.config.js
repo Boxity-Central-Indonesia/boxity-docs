@@ -2,8 +2,8 @@ export default {
   "title": "Boxity Docs",
   "tagline": "The documentation books for boxity applications. Dev by Bintang Tobing/Boxity Central Indonesia.",
   "url": "https://docs.boxity.id",
-  "baseUrl": "/",
-  "onBrokenLinks": "throw",
+  "baseUrl": "/id/",
+  "onBrokenLinks": "ignore",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon-boxity.ico",
   "organizationName": "Boxity",
@@ -47,9 +47,10 @@ export default {
           "activeSidebarClassName": "navbar__link--active"
         },
         {
-          "to": "https://boxity.id",
-          "label": "boxity.id",
-          "position": "left"
+          "type": "localeDropdown",
+          "position": "left",
+          "dropdownItemsBefore": [],
+          "dropdownItemsAfter": []
         },
         {
           "href": "https://github.com/bintangjtobing/boxity-docs",
@@ -119,14 +120,24 @@ export default {
       }
     ]
   ],
-  "baseUrlIssueBanner": true,
   "i18n": {
     "defaultLocale": "en",
     "locales": [
-      "en"
+      "en",
+      "id"
     ],
-    "localeConfigs": {}
+    "localeConfigs": {
+      "en": {
+        "label": "English",
+        "direction": "ltr"
+      },
+      "id": {
+        "label": "Indonesian",
+        "direction": "ltr"
+      }
+    }
   },
+  "baseUrlIssueBanner": true,
   "onDuplicateRoutes": "warn",
   "customFields": {},
   "themes": [],
