@@ -1,141 +1,163 @@
 {
-  "/id/search-b26": {
-    "component": "a03eea2e"
+  "/__docusaurus/debug-3d6": {
+    "component": "component---theme-debug-config-23-a-2ff"
   },
-  "/id/-a61": {
-    "component": "1be78505",
-    "versionMetadata": "935f2afb"
+  "/__docusaurus/debug/config-914": {
+    "component": "component---theme-debug-config-23-a-2ff"
   },
-  "/id/-804": {
-    "component": "17896441",
-    "content": "c377a04b"
+  "/__docusaurus/debug/content-c28": {
+    "component": "component---theme-debug-contentba-8-ce7",
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
   },
-  "/id/associate/customers-c7c": {
-    "component": "17896441",
-    "content": "10d13546"
+  "/__docusaurus/debug/globalData-3cf": {
+    "component": "component---theme-debug-global-dataede-0fa"
   },
-  "/id/associate/suppliers-f74": {
-    "component": "17896441",
-    "content": "51df5d36"
+  "/__docusaurus/debug/metadata-31b": {
+    "component": "component---theme-debug-site-metadata-68-e-3d4"
   },
-  "/id/associate/users-management-384": {
-    "component": "17896441",
-    "content": "c6a2502e"
+  "/__docusaurus/debug/registry-0da": {
+    "component": "component---theme-debug-registry-679-501"
   },
-  "/id/dispatching/delivery-receipt-7db": {
-    "component": "17896441",
-    "content": "0cdcdb29"
+  "/__docusaurus/debug/routes-244": {
+    "component": "component---theme-debug-routes-946-699"
   },
-  "/id/dispatching/documents-delivery-488": {
-    "component": "17896441",
-    "content": "f1fc0820"
+  "/search-d97": {
+    "component": "component---volumes-storage-y-git-hub-boxity-docs-node-modules-docusaurus-theme-search-algolia-src-theme-search-page-index-jsa-03-0bd"
   },
-  "/id/dispatching/sales-invoice-59a": {
-    "component": "17896441",
-    "content": "9f526e93"
+  "/-a6a": {
+    "component": "component---theme-doc-page-1-be-9be",
+    "versionMetadata": "versionMetadata---935-fcf"
   },
-  "/id/dispatching/sales-order-e99": {
-    "component": "17896441",
-    "content": "0fa077ce"
+  "/-98e": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---c-37-d02"
   },
-  "/id/dispatching/sales-return-a48": {
-    "component": "17896441",
-    "content": "aee71a65"
+  "/associate/customers-13a": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---associate-customers-10-d-d2a"
   },
-  "/id/general-applications/issue-center-155": {
-    "component": "17896441",
-    "content": "0bbd4329"
+  "/associate/suppliers-9bc": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---associate-suppliers-51-d-7f9"
   },
-  "/id/general-applications/overview-1c3": {
-    "component": "17896441",
-    "content": "874d34e2"
+  "/associate/users-management-4a2": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---associate-users-managementc-6-a-978"
   },
-  "/id/general-applications/user-contact-list-8d3": {
-    "component": "17896441",
-    "content": "2ae799a2"
+  "/dispatching/delivery-receipt-889": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---dispatching-delivery-receipt-0-cd-315"
   },
-  "/id/human-resources-management/candidate-9d8": {
-    "component": "17896441",
-    "content": "46d6ba1d"
+  "/dispatching/documents-delivery-409": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---dispatching-documents-deliveryf-1-f-68a"
   },
-  "/id/human-resources-management/job-vacancy-db8": {
-    "component": "17896441",
-    "content": "1da7d1a7"
+  "/dispatching/sales-invoice-5e0": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---dispatching-sales-invoice-9-f-5-35d"
   },
-  "/id/inventory-control/inventory-item-37d": {
-    "component": "17896441",
-    "content": "15390123"
+  "/dispatching/sales-order-8f1": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---dispatching-sales-order-0-fa-fff"
   },
-  "/id/inventory-control/item-group-bbd": {
-    "component": "17896441",
-    "content": "397676a7"
+  "/dispatching/sales-return-181": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---dispatching-sales-returnaee-d8b"
   },
-  "/id/inventory-control/stock-group-612": {
-    "component": "17896441",
-    "content": "15d9d5a9"
+  "/general-applications/issue-center-46f": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---general-applications-issue-center-0-bb-24d"
   },
-  "/id/main-web-config/blog-70f": {
-    "component": "17896441",
-    "content": "bf3c1a5a"
+  "/general-applications/overview-cd9": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---general-applications-overview-874-957"
   },
-  "/id/main-web-config/gallery-d7a": {
-    "component": "17896441",
-    "content": "8ed67ab2"
+  "/general-applications/user-contact-list-7f5": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---general-applications-user-contact-list-2-ae-339"
   },
-  "/id/main-web-config/popup-window-9f4": {
-    "component": "17896441",
-    "content": "8fb2ef98"
+  "/human-resources-management/candidate-941": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---human-resources-management-candidate-46-d-4bc"
   },
-  "/id/notifier/telegram-notificaion-f86": {
-    "component": "17896441",
-    "content": "cb4d920a"
+  "/human-resources-management/job-vacancy-ad3": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---human-resources-management-job-vacancy-1-da-ee4"
   },
-  "/id/platform/contributing-c1e": {
-    "component": "17896441",
-    "content": "d8f9a532"
+  "/inventory-control/inventory-item-d7d": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---inventory-control-inventory-item-153-20f"
   },
-  "/id/platform/releases-50c": {
-    "component": "17896441",
-    "content": "52b787ac"
+  "/inventory-control/item-group-244": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---inventory-control-item-group-397-db1"
   },
-  "/id/privacy-others/activity-log-9b0": {
-    "component": "17896441",
-    "content": "9dce762d"
+  "/inventory-control/stock-group-8e0": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---inventory-control-stock-group-15-d-266"
   },
-  "/id/receiving-putaway/documents-receipt-a18": {
-    "component": "17896441",
-    "content": "505bdb54"
+  "/main-web-config/blog-599": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---main-web-config-blogbf-3-85a"
   },
-  "/id/receiving-putaway/purchase-invoice-8bf": {
-    "component": "17896441",
-    "content": "c78c2830"
+  "/main-web-config/gallery-56e": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---main-web-config-gallery-8-ed-1eb"
   },
-  "/id/receiving-putaway/purchase-order-b03": {
-    "component": "17896441",
-    "content": "c2eec6c3"
+  "/main-web-config/popup-window-38e": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---main-web-config-popup-window-8-fb-32b"
   },
-  "/id/receiving-putaway/purchase-request-bea": {
-    "component": "17896441",
-    "content": "1826dd9a"
+  "/notifier/telegram-notificaion-898": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---notifier-telegram-notificaioncb-4-593"
   },
-  "/id/receiving-putaway/purchase-return-a09": {
-    "component": "17896441",
-    "content": "132c2400"
+  "/platform/contributing-6eb": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---platform-contributingd-8-f-62c"
   },
-  "/id/technology/analytics-321": {
-    "component": "17896441",
-    "content": "32b125c8"
+  "/platform/releases-3e4": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---platform-releases-52-b-a2f"
   },
-  "/id/technology/cloud-e6c": {
-    "component": "17896441",
-    "content": "c6decc3f"
+  "/privacy-others/activity-log-7d1": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---privacy-others-activity-log-9-dc-f19"
   },
-  "/id/technology/iot-f11": {
-    "component": "17896441",
-    "content": "57168c92"
+  "/receiving-putaway/documents-receipt-483": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---receiving-putaway-documents-receipt-505-439"
   },
-  "/id/warehouse/warehouse-lists-e2f": {
-    "component": "17896441",
-    "content": "edcbf2d8"
+  "/receiving-putaway/purchase-invoice-9ab": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---receiving-putaway-purchase-invoicec-78-c98"
+  },
+  "/receiving-putaway/purchase-order-376": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---receiving-putaway-purchase-orderc-2-e-936"
+  },
+  "/receiving-putaway/purchase-request-766": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---receiving-putaway-purchase-request-182-ada"
+  },
+  "/receiving-putaway/purchase-return-246": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---receiving-putaway-purchase-return-132-c8f"
+  },
+  "/technology/analytics-dac": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---technology-analytics-32-b-265"
+  },
+  "/technology/cloud-808": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---technology-cloudc-6-d-bee"
+  },
+  "/technology/iot-300": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---technology-iot-571-aba"
+  },
+  "/warehouse/warehouse-lists-ed1": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---warehouse-warehouse-listsedc-fda"
   }
 }

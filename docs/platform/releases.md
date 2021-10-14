@@ -1,6 +1,31 @@
 ---
 title: Releases
 ---
+## v1.0.9
+
+Released **10 Oct, 2021**
+
+**New Features**
+- User management update on role management on each adding new user and edit user.
+- E-Commerce, update e-commerce package for an e-commerce site.
+- Telegram notification.
+
+**Update Features**
+- Sales and purchasing modules now can set and view for each customer, warehouse connected with the user related.
+- Inventory items now can add images related.
+- Item Group and the stock group now can add images related.
+- Candidate features now update storage from local to CDN Cloud.
+- All candidates who apply for the vacancy will store their data in Cloud.
+- All users now can handle many different customers when the administrator adds them as PIC for customers related.
+- Report design already updated now on sales modules and purchasing modules.
+
+**Fix bugs**
+- Fix bug on table database.
+- Fix minor bug on menu app.
+- Fix minor changes on decimal output.
+- Fix domain changes into a subdomain.
+- Improvements in a few modules.
+
 ## v1.0.8
 
 Released **05 Aug, 2021**

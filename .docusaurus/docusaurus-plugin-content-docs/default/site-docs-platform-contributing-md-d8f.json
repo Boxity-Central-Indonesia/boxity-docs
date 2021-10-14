@@ -7,7 +7,7 @@
   "source": "@site/docs/platform/contributing.md",
   "sourceDirName": "platform",
   "slug": "/platform/contributing",
-  "permalink": "/id/platform/contributing",
+  "permalink": "/platform/contributing",
   "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/platform/contributing.md",
   "version": "current",
   "frontMatter": {
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Activity Log",
-    "permalink": "/id/privacy-others/activity-log"
+    "permalink": "/privacy-others/activity-log"
   },
   "next": {
     "title": "Releases",
-    "permalink": "/id/platform/releases"
+    "permalink": "/platform/releases"
   }
 }

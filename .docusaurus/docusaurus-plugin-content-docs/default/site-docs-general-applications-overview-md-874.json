@@ -7,7 +7,7 @@
   "source": "@site/docs/general-applications/overview.md",
   "sourceDirName": "general-applications",
   "slug": "/general-applications/overview",
-  "permalink": "/id/general-applications/overview",
+  "permalink": "/general-applications/overview",
   "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/general-applications/overview.md",
   "version": "current",
   "sidebarPosition": 1,
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Overview",
-    "permalink": "/id/"
+    "permalink": "/"
   },
   "next": {
     "title": "User Contact List",
-    "permalink": "/id/general-applications/user-contact-list"
+    "permalink": "/general-applications/user-contact-list"
   }
 }

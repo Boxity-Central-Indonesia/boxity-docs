@@ -33,10 +33,10 @@ module.exports = {
                     position: 'left',
                     label: 'Docs',
                 },
-                {
-                    type: 'localeDropdown',
-                    position: 'left',
-                },
+                // {
+                //     type: 'localeDropdown',
+                //     position: 'left',
+                // },
                 {
                     href: 'https://github.com/bintangjtobing/boxity-docs',
                     label: 'GitHub',

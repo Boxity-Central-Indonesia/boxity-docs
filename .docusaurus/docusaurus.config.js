@@ -2,7 +2,7 @@ export default {
   "title": "Boxity Docs",
   "tagline": "The documentation books for boxity applications. Dev by Bintang Tobing/Boxity Central Indonesia.",
   "url": "https://docs.boxity.id",
-  "baseUrl": "/id/",
+  "baseUrl": "/",
   "onBrokenLinks": "ignore",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon-boxity.ico",
@@ -45,12 +45,6 @@ export default {
           "position": "left",
           "label": "Docs",
           "activeSidebarClassName": "navbar__link--active"
-        },
-        {
-          "type": "localeDropdown",
-          "position": "left",
-          "dropdownItemsBefore": [],
-          "dropdownItemsAfter": []
         },
         {
           "href": "https://github.com/bintangjtobing/boxity-docs",
