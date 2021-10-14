@@ -4,244 +4,209 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug','3d6'),
+    path: '/id/search',
+    component: ComponentCreator('/id/search','b26'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config','914'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content','c28'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData','3cf'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata','31b'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry','0da'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes','244'),
-    exact: true
-  },
-  {
-    path: '/search',
-    component: ComponentCreator('/search','d97'),
-    exact: true
-  },
-  {
-    path: '/',
-    component: ComponentCreator('/','a6a'),
+    path: '/id/',
+    component: ComponentCreator('/id/','a61'),
     routes: [
       {
-        path: '/',
-        component: ComponentCreator('/','98e'),
+        path: '/id/',
+        component: ComponentCreator('/id/','804'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/associate/customers',
-        component: ComponentCreator('/associate/customers','13a'),
+        path: '/id/associate/customers',
+        component: ComponentCreator('/id/associate/customers','c7c'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/associate/suppliers',
-        component: ComponentCreator('/associate/suppliers','9bc'),
+        path: '/id/associate/suppliers',
+        component: ComponentCreator('/id/associate/suppliers','f74'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/associate/users-management',
-        component: ComponentCreator('/associate/users-management','4a2'),
+        path: '/id/associate/users-management',
+        component: ComponentCreator('/id/associate/users-management','384'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/dispatching/delivery-receipt',
-        component: ComponentCreator('/dispatching/delivery-receipt','889'),
+        path: '/id/dispatching/delivery-receipt',
+        component: ComponentCreator('/id/dispatching/delivery-receipt','7db'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/dispatching/documents-delivery',
-        component: ComponentCreator('/dispatching/documents-delivery','409'),
+        path: '/id/dispatching/documents-delivery',
+        component: ComponentCreator('/id/dispatching/documents-delivery','488'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/dispatching/sales-invoice',
-        component: ComponentCreator('/dispatching/sales-invoice','5e0'),
+        path: '/id/dispatching/sales-invoice',
+        component: ComponentCreator('/id/dispatching/sales-invoice','59a'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/dispatching/sales-order',
-        component: ComponentCreator('/dispatching/sales-order','8f1'),
+        path: '/id/dispatching/sales-order',
+        component: ComponentCreator('/id/dispatching/sales-order','e99'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/dispatching/sales-return',
-        component: ComponentCreator('/dispatching/sales-return','181'),
+        path: '/id/dispatching/sales-return',
+        component: ComponentCreator('/id/dispatching/sales-return','a48'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/general-applications/issue-center',
-        component: ComponentCreator('/general-applications/issue-center','46f'),
+        path: '/id/general-applications/issue-center',
+        component: ComponentCreator('/id/general-applications/issue-center','155'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/general-applications/overview',
-        component: ComponentCreator('/general-applications/overview','cd9'),
+        path: '/id/general-applications/overview',
+        component: ComponentCreator('/id/general-applications/overview','1c3'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/general-applications/user-contact-list',
-        component: ComponentCreator('/general-applications/user-contact-list','7f5'),
+        path: '/id/general-applications/user-contact-list',
+        component: ComponentCreator('/id/general-applications/user-contact-list','8d3'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/human-resources-management/candidate',
-        component: ComponentCreator('/human-resources-management/candidate','941'),
+        path: '/id/human-resources-management/candidate',
+        component: ComponentCreator('/id/human-resources-management/candidate','9d8'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/human-resources-management/job-vacancy',
-        component: ComponentCreator('/human-resources-management/job-vacancy','ad3'),
+        path: '/id/human-resources-management/job-vacancy',
+        component: ComponentCreator('/id/human-resources-management/job-vacancy','db8'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/inventory-control/inventory-item',
-        component: ComponentCreator('/inventory-control/inventory-item','d7d'),
+        path: '/id/inventory-control/inventory-item',
+        component: ComponentCreator('/id/inventory-control/inventory-item','37d'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/inventory-control/item-group',
-        component: ComponentCreator('/inventory-control/item-group','244'),
+        path: '/id/inventory-control/item-group',
+        component: ComponentCreator('/id/inventory-control/item-group','bbd'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/inventory-control/stock-group',
-        component: ComponentCreator('/inventory-control/stock-group','8e0'),
+        path: '/id/inventory-control/stock-group',
+        component: ComponentCreator('/id/inventory-control/stock-group','612'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/main-web-config/blog',
-        component: ComponentCreator('/main-web-config/blog','599'),
+        path: '/id/main-web-config/blog',
+        component: ComponentCreator('/id/main-web-config/blog','70f'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/main-web-config/gallery',
-        component: ComponentCreator('/main-web-config/gallery','56e'),
+        path: '/id/main-web-config/gallery',
+        component: ComponentCreator('/id/main-web-config/gallery','d7a'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/main-web-config/popup-window',
-        component: ComponentCreator('/main-web-config/popup-window','38e'),
+        path: '/id/main-web-config/popup-window',
+        component: ComponentCreator('/id/main-web-config/popup-window','9f4'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/notifier/telegram-notificaion',
-        component: ComponentCreator('/notifier/telegram-notificaion','898'),
+        path: '/id/notifier/telegram-notificaion',
+        component: ComponentCreator('/id/notifier/telegram-notificaion','f86'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/platform/contributing',
-        component: ComponentCreator('/platform/contributing','6eb'),
+        path: '/id/platform/contributing',
+        component: ComponentCreator('/id/platform/contributing','c1e'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/platform/releases',
-        component: ComponentCreator('/platform/releases','3e4'),
+        path: '/id/platform/releases',
+        component: ComponentCreator('/id/platform/releases','50c'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/privacy-others/activity-log',
-        component: ComponentCreator('/privacy-others/activity-log','7d1'),
+        path: '/id/privacy-others/activity-log',
+        component: ComponentCreator('/id/privacy-others/activity-log','9b0'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/receiving-putaway/documents-receipt',
-        component: ComponentCreator('/receiving-putaway/documents-receipt','483'),
+        path: '/id/receiving-putaway/documents-receipt',
+        component: ComponentCreator('/id/receiving-putaway/documents-receipt','a18'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/receiving-putaway/purchase-invoice',
-        component: ComponentCreator('/receiving-putaway/purchase-invoice','9ab'),
+        path: '/id/receiving-putaway/purchase-invoice',
+        component: ComponentCreator('/id/receiving-putaway/purchase-invoice','8bf'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/receiving-putaway/purchase-order',
-        component: ComponentCreator('/receiving-putaway/purchase-order','376'),
+        path: '/id/receiving-putaway/purchase-order',
+        component: ComponentCreator('/id/receiving-putaway/purchase-order','b03'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/receiving-putaway/purchase-request',
-        component: ComponentCreator('/receiving-putaway/purchase-request','766'),
+        path: '/id/receiving-putaway/purchase-request',
+        component: ComponentCreator('/id/receiving-putaway/purchase-request','bea'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/receiving-putaway/purchase-return',
-        component: ComponentCreator('/receiving-putaway/purchase-return','246'),
+        path: '/id/receiving-putaway/purchase-return',
+        component: ComponentCreator('/id/receiving-putaway/purchase-return','a09'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/technology/analytics',
-        component: ComponentCreator('/technology/analytics','dac'),
+        path: '/id/technology/analytics',
+        component: ComponentCreator('/id/technology/analytics','321'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/technology/cloud',
-        component: ComponentCreator('/technology/cloud','808'),
+        path: '/id/technology/cloud',
+        component: ComponentCreator('/id/technology/cloud','e6c'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/technology/iot',
-        component: ComponentCreator('/technology/iot','300'),
+        path: '/id/technology/iot',
+        component: ComponentCreator('/id/technology/iot','f11'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/warehouse/warehouse-lists',
-        component: ComponentCreator('/warehouse/warehouse-lists','ed1'),
+        path: '/id/warehouse/warehouse-lists',
+        component: ComponentCreator('/id/warehouse/warehouse-lists','e2f'),
         exact: true,
         'sidebar': "tutorialSidebar"
       }

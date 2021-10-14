@@ -2,7 +2,7 @@ export default {
   "title": "Boxity Docs",
   "tagline": "The documentation books for boxity applications. Dev by Bintang Tobing/Boxity Central Indonesia.",
   "url": "https://docs.boxity.id",
-  "baseUrl": "/",
+  "baseUrl": "/id/",
   "onBrokenLinks": "ignore",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon-boxity.ico",
