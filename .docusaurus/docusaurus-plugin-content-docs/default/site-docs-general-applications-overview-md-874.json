@@ -1,14 +1,14 @@
 {
   "unversionedId": "general-applications/overview",
   "id": "general-applications/overview",
-  "isDocsHomePage": false,
   "title": "General Applications - An Overview",
   "description": "General applications are applications that everyone can use these features regardless of the role. Currently, common applications have several features, namely:",
   "source": "@site/docs/general-applications/overview.md",
   "sourceDirName": "general-applications",
   "slug": "/general-applications/overview",
-  "permalink": "/id/general-applications/overview",
+  "permalink": "/general-applications/overview",
   "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/general-applications/overview.md",
+  "tags": [],
   "version": "current",
   "sidebarPosition": 1,
   "frontMatter": {
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Overview",
-    "permalink": "/id/"
+    "permalink": "/"
   },
   "next": {
     "title": "User Contact List",
-    "permalink": "/id/general-applications/user-contact-list"
+    "permalink": "/general-applications/user-contact-list"
   }
 }

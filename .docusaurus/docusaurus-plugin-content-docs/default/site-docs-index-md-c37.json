@@ -1,14 +1,14 @@
 {
   "unversionedId": "intro",
   "id": "intro",
-  "isDocsHomePage": false,
   "title": "Boxity Docs",
   "description": "Boxity",
   "source": "@site/docs/index.md",
   "sourceDirName": ".",
   "slug": "/",
-  "permalink": "/id/",
+  "permalink": "/",
   "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/index.md",
+  "tags": [],
   "version": "current",
   "sidebarPosition": 1,
   "frontMatter": {
@@ -21,6 +21,6 @@
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "Overview",
-    "permalink": "/id/general-applications/overview"
+    "permalink": "/general-applications/overview"
   }
 }

@@ -1,14 +1,14 @@
 {
   "unversionedId": "platform/contributing",
   "id": "platform/contributing",
-  "isDocsHomePage": false,
   "title": "Contributing",
   "description": "We're always looking to improve this project, open-source contribution is encouraged so long as they adhere to these",
   "source": "@site/docs/platform/contributing.md",
   "sourceDirName": "platform",
   "slug": "/platform/contributing",
-  "permalink": "/id/platform/contributing",
+  "permalink": "/platform/contributing",
   "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/platform/contributing.md",
+  "tags": [],
   "version": "current",
   "frontMatter": {
     "title": "Contributing"
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Activity Log",
-    "permalink": "/id/privacy-others/activity-log"
+    "permalink": "/privacy-others/activity-log"
   },
   "next": {
     "title": "Releases",
-    "permalink": "/id/platform/releases"
+    "permalink": "/platform/releases"
   }
 }

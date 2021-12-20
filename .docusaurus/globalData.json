@@ -1,178 +1,178 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/id/",
+      "path": "/",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/id/",
+          "path": "/",
           "mainDocId": "intro",
           "docs": [
             {
               "id": "associate/customers",
-              "path": "/id/associate/customers",
+              "path": "/associate/customers",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "associate/suppliers",
-              "path": "/id/associate/suppliers",
+              "path": "/associate/suppliers",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "associate/users-management",
-              "path": "/id/associate/users-management",
+              "path": "/associate/users-management",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "dispatching/delivery-receipt",
-              "path": "/id/dispatching/delivery-receipt",
+              "path": "/dispatching/delivery-receipt",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "dispatching/documents-delivery",
-              "path": "/id/dispatching/documents-delivery",
+              "path": "/dispatching/documents-delivery",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "dispatching/sales-invoice",
-              "path": "/id/dispatching/sales-invoice",
+              "path": "/dispatching/sales-invoice",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "dispatching/sales-order",
-              "path": "/id/dispatching/sales-order",
+              "path": "/dispatching/sales-order",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "dispatching/sales-return",
-              "path": "/id/dispatching/sales-return",
+              "path": "/dispatching/sales-return",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "general-applications/issue-center",
-              "path": "/id/general-applications/issue-center",
+              "path": "/general-applications/issue-center",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "general-applications/overview",
-              "path": "/id/general-applications/overview",
+              "path": "/general-applications/overview",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "general-applications/user-contact-list",
-              "path": "/id/general-applications/user-contact-list",
+              "path": "/general-applications/user-contact-list",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "human-resources-management/candidate",
-              "path": "/id/human-resources-management/candidate",
+              "path": "/human-resources-management/candidate",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "human-resources-management/job-vacancy",
-              "path": "/id/human-resources-management/job-vacancy",
+              "path": "/human-resources-management/job-vacancy",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "intro",
-              "path": "/id/",
+              "path": "/",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "inventory-control/inventory-item",
-              "path": "/id/inventory-control/inventory-item",
+              "path": "/inventory-control/inventory-item",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "inventory-control/item-group",
-              "path": "/id/inventory-control/item-group",
+              "path": "/inventory-control/item-group",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "inventory-control/stock-group",
-              "path": "/id/inventory-control/stock-group",
+              "path": "/inventory-control/stock-group",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "main-web-config/blog",
-              "path": "/id/main-web-config/blog",
+              "path": "/main-web-config/blog",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "main-web-config/gallery",
-              "path": "/id/main-web-config/gallery",
+              "path": "/main-web-config/gallery",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "main-web-config/popup-window",
-              "path": "/id/main-web-config/popup-window",
+              "path": "/main-web-config/popup-window",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "notifier/telegram-notificaion",
-              "path": "/id/notifier/telegram-notificaion",
+              "path": "/notifier/telegram-notificaion",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "platform/contributing",
-              "path": "/id/platform/contributing",
+              "path": "/platform/contributing",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "platform/releases",
-              "path": "/id/platform/releases",
+              "path": "/platform/releases",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "privacy-others/activity-log",
-              "path": "/id/privacy-others/activity-log",
+              "path": "/privacy-others/activity-log",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "receiving-putaway/documents-receipt",
-              "path": "/id/receiving-putaway/documents-receipt",
+              "path": "/receiving-putaway/documents-receipt",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "receiving-putaway/purchase-invoice",
-              "path": "/id/receiving-putaway/purchase-invoice",
+              "path": "/receiving-putaway/purchase-invoice",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "receiving-putaway/purchase-order",
-              "path": "/id/receiving-putaway/purchase-order",
+              "path": "/receiving-putaway/purchase-order",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "receiving-putaway/purchase-request",
-              "path": "/id/receiving-putaway/purchase-request",
+              "path": "/receiving-putaway/purchase-request",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "receiving-putaway/purchase-return",
-              "path": "/id/receiving-putaway/purchase-return",
+              "path": "/receiving-putaway/purchase-return",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "technology/analytics",
-              "path": "/id/technology/analytics",
+              "path": "/technology/analytics",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "technology/cloud",
-              "path": "/id/technology/cloud",
+              "path": "/technology/cloud",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "technology/iot",
-              "path": "/id/technology/iot",
+              "path": "/technology/iot",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "warehouse/warehouse-lists",
-              "path": "/id/warehouse/warehouse-lists",
+              "path": "/warehouse/warehouse-lists",
               "sidebar": "tutorialSidebar"
             }
           ]

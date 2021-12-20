@@ -1,7 +1,7 @@
 iTermocil.yml
 node_modules
 /vendor
-# build
+build
 
 npm-debug.log
 

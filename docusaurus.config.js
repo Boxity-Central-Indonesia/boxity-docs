@@ -2,7 +2,7 @@
 module.exports = {
     title: 'Boxity Docs',
     tagline: 'The documentation books for boxity applications. Dev by Bintang Tobing/Boxity Central Indonesia.',
-    url: 'https://docs.boxity.id',
+    url: 'https://help.boxity.id',
     baseUrl: '/',
     onBrokenLinks: 'ignore',
     onBrokenMarkdownLinks: 'warn',
@@ -38,7 +38,7 @@ module.exports = {
                 //     position: 'left',
                 // },
                 {
-                    href: 'https://github.com/bintangjtobing/boxity-docs',
+                    href: 'https://github.com/Boxity-Central-Indonesia/boxity-docs',
                     label: 'GitHub',
                     position: 'right',
                 },
@@ -54,7 +54,7 @@ module.exports = {
                         },
                         {
                             label: 'Instagram',
-                            href: 'https://instagram.com/boxityapp',
+                            href: 'https://instagram.com/digitizewithboxity',
                         },
                     ],
                 },
@@ -62,7 +62,7 @@ module.exports = {
                     title: 'Open Source',
                     items: [{
                         label: 'Github',
-                        href: 'https://github.com/boxity-docs',
+                        href: 'https://github.com/Boxity-Central-Indonesia/boxity-docs',
                     }, ],
                 },
             ],
@@ -77,7 +77,7 @@ module.exports = {
                     sidebarPath: require.resolve('./sidebars.js'),
                     routeBasePath: '/',
                     // Please change this to your repo.
-                    editUrl: 'https://github.com/bintangjtobing/boxity-docs',
+                    editUrl: 'https://github.com/Boxity-Central-Indonesia/boxity-docs',
                 },
                 theme: {
                     customCss: require.resolve('./src/css/custom.css'),

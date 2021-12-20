@@ -1,6 +1,31 @@
 ---
 title: Releases
 ---
+## v1.1.0
+Released **20 Dec, 2021**
+
+**New Features**
+- Now users can view item reports organized by warehouse
+- The builder of this system can receive error log emails
+
+**Update Features**
+- Sign in UI/UX changes.
+- User can now enter the incoming weight quantity and outgoing weight quantity on purchase invoices and sales invoices.
+- Now the user can see, whether the `Purchase Order` has been completely completed, which is linked to the `Purchase Invoice` if required.
+- Some fields on Purchase Invoice and Sales Invoice have been removed.
+- Job vacancies page now has a changed UI.
+- Enterprise validation when the system is first installed.
+- All email notifications have been updated and have been adjusted to the company registered in the system.
+- All item groups, group stocks, have their own images. 
+
+**Bug & Error Fixed**
+- Decimal numbers in the purchase invoices and sales invoices modules
+- Retrieval of interrelated customer, warehouse, company data.
+- User bug related to company.
+- Purchase and sales report bugs
+- Mapping data between warehouses that can be seen by several users who are not related to the warehouse and company.
+- Inappropriate mapping between permissions and roles.
+
 ## v1.0.9
 
 Released **10 Oct, 2021**

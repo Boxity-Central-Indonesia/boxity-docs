@@ -6,15 +6,891 @@
           "versionName": "current",
           "versionLabel": "Next",
           "versionPath": "/",
+          "tagsPath": "/tags",
           "versionEditUrl": "https://github.com/bintangjtobing/boxity-docs/docs",
           "versionEditUrlLocalized": "https://github.com/bintangjtobing/boxity-docs/i18n/en/docusaurus-plugin-content-docs/current",
-          "versionBanner": "none",
+          "versionBanner": null,
+          "versionBadge": false,
+          "versionClassName": "docs-version-current",
           "isLast": true,
           "routePriority": -1,
           "sidebarFilePath": "/Volumes/StorageY/GitHub/boxity-docs/sidebars.js",
           "contentPath": "/Volumes/StorageY/GitHub/boxity-docs/docs",
           "contentPathLocalized": "/Volumes/StorageY/GitHub/boxity-docs/i18n/en/docusaurus-plugin-content-docs/current",
-          "mainDocId": "intro",
+          "docs": [
+            {
+              "unversionedId": "associate/customers",
+              "id": "associate/customers",
+              "title": "Customers",
+              "description": "Overview",
+              "source": "@site/docs/associate/customers.md",
+              "sourceDirName": "associate",
+              "slug": "/associate/customers",
+              "permalink": "/associate/customers",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/associate/customers.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Customers"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Issue Center",
+                "permalink": "/general-applications/issue-center"
+              },
+              "next": {
+                "title": "Suppliers",
+                "permalink": "/associate/suppliers"
+              }
+            },
+            {
+              "unversionedId": "associate/suppliers",
+              "id": "associate/suppliers",
+              "title": "Suppliers",
+              "description": "Overview",
+              "source": "@site/docs/associate/suppliers.md",
+              "sourceDirName": "associate",
+              "slug": "/associate/suppliers",
+              "permalink": "/associate/suppliers",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/associate/suppliers.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Suppliers",
+                "sidebar_label": "Suppliers"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Customers",
+                "permalink": "/associate/customers"
+              },
+              "next": {
+                "title": "Users Management",
+                "permalink": "/associate/users-management"
+              }
+            },
+            {
+              "unversionedId": "associate/users-management",
+              "id": "associate/users-management",
+              "title": "Users Management",
+              "description": "Overview",
+              "source": "@site/docs/associate/users-management.md",
+              "sourceDirName": "associate",
+              "slug": "/associate/users-management",
+              "permalink": "/associate/users-management",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/associate/users-management.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Users Management"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Suppliers",
+                "permalink": "/associate/suppliers"
+              },
+              "next": {
+                "title": "Candidate",
+                "permalink": "/human-resources-management/candidate"
+              }
+            },
+            {
+              "unversionedId": "dispatching/delivery-receipt",
+              "id": "dispatching/delivery-receipt",
+              "title": "Delivery Receipt",
+              "description": "This feature allows users to report their issues to developers or their task to each employee that registered in this app. Also, allow users to interact with the reporter and assignee on the column form that has already provide in issue details.",
+              "source": "@site/docs/dispatching/delivery-receipt.md",
+              "sourceDirName": "dispatching",
+              "slug": "/dispatching/delivery-receipt",
+              "permalink": "/dispatching/delivery-receipt",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/dispatching/delivery-receipt.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "title": "Delivery Receipt",
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Purchase Return",
+                "permalink": "/receiving-putaway/purchase-return"
+              },
+              "next": {
+                "title": "Documents Delivery",
+                "permalink": "/dispatching/documents-delivery"
+              }
+            },
+            {
+              "unversionedId": "dispatching/documents-delivery",
+              "id": "dispatching/documents-delivery",
+              "title": "Documents Delivery",
+              "description": "This feature allows users to report their issues to developers or their task to each employee that registered in this app. Also, allow users to interact with the reporter and assignee on the column form that has already provide in issue details.",
+              "source": "@site/docs/dispatching/documents-delivery.md",
+              "sourceDirName": "dispatching",
+              "slug": "/dispatching/documents-delivery",
+              "permalink": "/dispatching/documents-delivery",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/dispatching/documents-delivery.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "title": "Documents Delivery",
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Delivery Receipt",
+                "permalink": "/dispatching/delivery-receipt"
+              },
+              "next": {
+                "title": "Sales Invoice",
+                "permalink": "/dispatching/sales-invoice"
+              }
+            },
+            {
+              "unversionedId": "dispatching/sales-invoice",
+              "id": "dispatching/sales-invoice",
+              "title": "Sales Invoice",
+              "description": "This feature allows users to report their issues to developers or their task to each employee that registered in this app. Also, allow users to interact with the reporter and assignee on the column form that has already provide in issue details.",
+              "source": "@site/docs/dispatching/sales-invoice.md",
+              "sourceDirName": "dispatching",
+              "slug": "/dispatching/sales-invoice",
+              "permalink": "/dispatching/sales-invoice",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/dispatching/sales-invoice.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "title": "Sales Invoice",
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Documents Delivery",
+                "permalink": "/dispatching/documents-delivery"
+              },
+              "next": {
+                "title": "Sales Order",
+                "permalink": "/dispatching/sales-order"
+              }
+            },
+            {
+              "unversionedId": "dispatching/sales-order",
+              "id": "dispatching/sales-order",
+              "title": "Sales Order",
+              "description": "This feature allows users to report their issues to developers or their task to each employee that registered in this app. Also, allow users to interact with the reporter and assignee on the column form that has already provide in issue details.",
+              "source": "@site/docs/dispatching/sales-order.md",
+              "sourceDirName": "dispatching",
+              "slug": "/dispatching/sales-order",
+              "permalink": "/dispatching/sales-order",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/dispatching/sales-order.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "title": "Sales Order",
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Sales Invoice",
+                "permalink": "/dispatching/sales-invoice"
+              },
+              "next": {
+                "title": "Sales Return",
+                "permalink": "/dispatching/sales-return"
+              }
+            },
+            {
+              "unversionedId": "dispatching/sales-return",
+              "id": "dispatching/sales-return",
+              "title": "Sales Return",
+              "description": "This feature allows users to report their issues to developers or their task to each employee that registered in this app. Also, allow users to interact with the reporter and assignee on the column form that has already provide in issue details.",
+              "source": "@site/docs/dispatching/sales-return.md",
+              "sourceDirName": "dispatching",
+              "slug": "/dispatching/sales-return",
+              "permalink": "/dispatching/sales-return",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/dispatching/sales-return.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "title": "Sales Return",
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Sales Order",
+                "permalink": "/dispatching/sales-order"
+              },
+              "next": {
+                "title": "Blog",
+                "permalink": "/main-web-config/blog"
+              }
+            },
+            {
+              "unversionedId": "general-applications/issue-center",
+              "id": "general-applications/issue-center",
+              "title": "Issue Center",
+              "description": "Group your users based on a set of rules, then control Feature Flags and Remote Config for those groups.",
+              "source": "@site/docs/general-applications/issue-center.md",
+              "sourceDirName": "general-applications",
+              "slug": "/general-applications/issue-center",
+              "permalink": "/general-applications/issue-center",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/general-applications/issue-center.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "title": "Issue Center",
+                "description": "Group your users based on a set of rules, then control Feature Flags and Remote Config for those groups.",
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "User Contact List",
+                "permalink": "/general-applications/user-contact-list"
+              },
+              "next": {
+                "title": "Customers",
+                "permalink": "/associate/customers"
+              }
+            },
+            {
+              "unversionedId": "general-applications/overview",
+              "id": "general-applications/overview",
+              "title": "General Applications - An Overview",
+              "description": "General applications are applications that everyone can use these features regardless of the role. Currently, common applications have several features, namely:",
+              "source": "@site/docs/general-applications/overview.md",
+              "sourceDirName": "general-applications",
+              "slug": "/general-applications/overview",
+              "permalink": "/general-applications/overview",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/general-applications/overview.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "title": "General Applications - An Overview",
+                "sidebar_label": "Overview",
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Overview",
+                "permalink": "/"
+              },
+              "next": {
+                "title": "User Contact List",
+                "permalink": "/general-applications/user-contact-list"
+              }
+            },
+            {
+              "unversionedId": "general-applications/user-contact-list",
+              "id": "general-applications/user-contact-list",
+              "title": "User Contact List",
+              "description": "Manage user traits and properties independently of your application.",
+              "source": "@site/docs/general-applications/user-contact-list.md",
+              "sourceDirName": "general-applications",
+              "slug": "/general-applications/user-contact-list",
+              "permalink": "/general-applications/user-contact-list",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/general-applications/user-contact-list.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "title": "User Contact List",
+                "description": "Manage user traits and properties independently of your application.",
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Overview",
+                "permalink": "/general-applications/overview"
+              },
+              "next": {
+                "title": "Issue Center",
+                "permalink": "/general-applications/issue-center"
+              }
+            },
+            {
+              "unversionedId": "human-resources-management/candidate",
+              "id": "human-resources-management/candidate",
+              "title": "Candidate",
+              "description": "Overview",
+              "source": "@site/docs/human-resources-management/candidate.md",
+              "sourceDirName": "human-resources-management",
+              "slug": "/human-resources-management/candidate",
+              "permalink": "/human-resources-management/candidate",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/human-resources-management/candidate.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "title": "Candidate",
+                "sidebar_label": "Candidate",
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Users Management",
+                "permalink": "/associate/users-management"
+              },
+              "next": {
+                "title": "Job Vacancy",
+                "permalink": "/human-resources-management/job-vacancy"
+              }
+            },
+            {
+              "unversionedId": "human-resources-management/job-vacancy",
+              "id": "human-resources-management/job-vacancy",
+              "title": "Job Vacancy",
+              "description": "Overview",
+              "source": "@site/docs/human-resources-management/job-vacancy.md",
+              "sourceDirName": "human-resources-management",
+              "slug": "/human-resources-management/job-vacancy",
+              "permalink": "/human-resources-management/job-vacancy",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/human-resources-management/job-vacancy.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Job Vacancy",
+                "sidebar_label": "Job Vacancy"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Candidate",
+                "permalink": "/human-resources-management/candidate"
+              },
+              "next": {
+                "title": "Warehouse List",
+                "permalink": "/warehouse/warehouse-lists"
+              }
+            },
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "title": "Boxity Docs",
+              "description": "Boxity",
+              "source": "@site/docs/index.md",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "id": "intro",
+                "slug": "/",
+                "sidebar_position": 1,
+                "hide_title": true,
+                "sidebar_label": "Overview"
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Overview",
+                "permalink": "/general-applications/overview"
+              }
+            },
+            {
+              "unversionedId": "inventory-control/inventory-item",
+              "id": "inventory-control/inventory-item",
+              "title": "Inventory Item",
+              "description": "This feature allows users to report their issues to developers or their task to each employee that registered in this app. Also, allow users to interact with the reporter and assignee on the column form that has already provide in issue details.",
+              "source": "@site/docs/inventory-control/inventory-item.md",
+              "sourceDirName": "inventory-control",
+              "slug": "/inventory-control/inventory-item",
+              "permalink": "/inventory-control/inventory-item",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/inventory-control/inventory-item.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "title": "Inventory Item",
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Warehouse List",
+                "permalink": "/warehouse/warehouse-lists"
+              },
+              "next": {
+                "title": "Item Group",
+                "permalink": "/inventory-control/item-group"
+              }
+            },
+            {
+              "unversionedId": "inventory-control/item-group",
+              "id": "inventory-control/item-group",
+              "title": "Item Group",
+              "description": "This feature allows users to report their issues to developers or their task to each employee that registered in this app. Also, allow users to interact with the reporter and assignee on the column form that has already provide in issue details.",
+              "source": "@site/docs/inventory-control/item-group.md",
+              "sourceDirName": "inventory-control",
+              "slug": "/inventory-control/item-group",
+              "permalink": "/inventory-control/item-group",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/inventory-control/item-group.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "title": "Item Group",
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Inventory Item",
+                "permalink": "/inventory-control/inventory-item"
+              },
+              "next": {
+                "title": "Stock Group",
+                "permalink": "/inventory-control/stock-group"
+              }
+            },
+            {
+              "unversionedId": "inventory-control/stock-group",
+              "id": "inventory-control/stock-group",
+              "title": "Stock Group",
+              "description": "This feature allows users to report their issues to developers or their task to each employee that registered in this app. Also, allow users to interact with the reporter and assignee on the column form that has already provide in issue details.",
+              "source": "@site/docs/inventory-control/stock-group.md",
+              "sourceDirName": "inventory-control",
+              "slug": "/inventory-control/stock-group",
+              "permalink": "/inventory-control/stock-group",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/inventory-control/stock-group.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "title": "Stock Group",
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Item Group",
+                "permalink": "/inventory-control/item-group"
+              },
+              "next": {
+                "title": "Documents Receipt",
+                "permalink": "/receiving-putaway/documents-receipt"
+              }
+            },
+            {
+              "unversionedId": "main-web-config/blog",
+              "id": "main-web-config/blog",
+              "title": "Blog",
+              "description": "This feature allows users to report their issues to developers or their task to each employee that registered in this app. Also, allow users to interact with the reporter and assignee on the column form that has already provide in issue details.",
+              "source": "@site/docs/main-web-config/blog.md",
+              "sourceDirName": "main-web-config",
+              "slug": "/main-web-config/blog",
+              "permalink": "/main-web-config/blog",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/main-web-config/blog.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "title": "Blog",
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Sales Return",
+                "permalink": "/dispatching/sales-return"
+              },
+              "next": {
+                "title": "Gallery",
+                "permalink": "/main-web-config/gallery"
+              }
+            },
+            {
+              "unversionedId": "main-web-config/gallery",
+              "id": "main-web-config/gallery",
+              "title": "Gallery",
+              "description": "This feature allows users to report their issues to developers or their task to each employee that registered in this app. Also, allow users to interact with the reporter and assignee on the column form that has already provide in issue details.",
+              "source": "@site/docs/main-web-config/gallery.md",
+              "sourceDirName": "main-web-config",
+              "slug": "/main-web-config/gallery",
+              "permalink": "/main-web-config/gallery",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/main-web-config/gallery.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "title": "Gallery",
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Blog",
+                "permalink": "/main-web-config/blog"
+              },
+              "next": {
+                "title": "Popup Window",
+                "permalink": "/main-web-config/popup-window"
+              }
+            },
+            {
+              "unversionedId": "main-web-config/popup-window",
+              "id": "main-web-config/popup-window",
+              "title": "Popup Window",
+              "description": "This feature allows users to report their issues to developers or their task to each employee that registered in this app. Also, allow users to interact with the reporter and assignee on the column form that has already provide in issue details.",
+              "source": "@site/docs/main-web-config/popup-window.md",
+              "sourceDirName": "main-web-config",
+              "slug": "/main-web-config/popup-window",
+              "permalink": "/main-web-config/popup-window",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/main-web-config/popup-window.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "title": "Popup Window",
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Gallery",
+                "permalink": "/main-web-config/gallery"
+              },
+              "next": {
+                "title": "Activity Log",
+                "permalink": "/privacy-others/activity-log"
+              }
+            },
+            {
+              "unversionedId": "notifier/telegram-notificaion",
+              "id": "notifier/telegram-notificaion",
+              "title": "Telegram Notification",
+              "description": "Telegram notifier is the tool for that user registered his ID's telegram to received the information needed. So we can give you the simpler information, with the simpler way and with the simpler responsive.",
+              "source": "@site/docs/notifier/telegram-notificaion.md",
+              "sourceDirName": "notifier",
+              "slug": "/notifier/telegram-notificaion",
+              "permalink": "/notifier/telegram-notificaion",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/notifier/telegram-notificaion.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Telegram Notification"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Boxity Internet of Things",
+                "permalink": "/technology/iot"
+              }
+            },
+            {
+              "unversionedId": "platform/contributing",
+              "id": "platform/contributing",
+              "title": "Contributing",
+              "description": "We're always looking to improve this project, open-source contribution is encouraged so long as they adhere to these",
+              "source": "@site/docs/platform/contributing.md",
+              "sourceDirName": "platform",
+              "slug": "/platform/contributing",
+              "permalink": "/platform/contributing",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/platform/contributing.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Contributing"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Activity Log",
+                "permalink": "/privacy-others/activity-log"
+              },
+              "next": {
+                "title": "Releases",
+                "permalink": "/platform/releases"
+              }
+            },
+            {
+              "unversionedId": "platform/releases",
+              "id": "platform/releases",
+              "title": "Releases",
+              "description": "v1.0.9",
+              "source": "@site/docs/platform/releases.md",
+              "sourceDirName": "platform",
+              "slug": "/platform/releases",
+              "permalink": "/platform/releases",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/platform/releases.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Releases"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Contributing",
+                "permalink": "/platform/contributing"
+              },
+              "next": {
+                "title": "Boxity Analytics",
+                "permalink": "/technology/analytics"
+              }
+            },
+            {
+              "unversionedId": "privacy-others/activity-log",
+              "id": "privacy-others/activity-log",
+              "title": "Activity Log",
+              "description": "This feature allows users to report their issues to developers or their task to each employee that registered in this app. Also, allow users to interact with the reporter and assignee on the column form that has already provide in issue details.",
+              "source": "@site/docs/privacy-others/activity-log.md",
+              "sourceDirName": "privacy-others",
+              "slug": "/privacy-others/activity-log",
+              "permalink": "/privacy-others/activity-log",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/privacy-others/activity-log.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "title": "Activity Log",
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Popup Window",
+                "permalink": "/main-web-config/popup-window"
+              },
+              "next": {
+                "title": "Contributing",
+                "permalink": "/platform/contributing"
+              }
+            },
+            {
+              "unversionedId": "receiving-putaway/documents-receipt",
+              "id": "receiving-putaway/documents-receipt",
+              "title": "Documents Receipt",
+              "description": "This feature allows users to report their issues to developers or their task to each employee that registered in this app. Also, allow users to interact with the reporter and assignee on the column form that has already provide in issue details.",
+              "source": "@site/docs/receiving-putaway/documents-receipt.md",
+              "sourceDirName": "receiving-putaway",
+              "slug": "/receiving-putaway/documents-receipt",
+              "permalink": "/receiving-putaway/documents-receipt",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/receiving-putaway/documents-receipt.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "title": "Documents Receipt",
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Stock Group",
+                "permalink": "/inventory-control/stock-group"
+              },
+              "next": {
+                "title": "Purchase Invoice",
+                "permalink": "/receiving-putaway/purchase-invoice"
+              }
+            },
+            {
+              "unversionedId": "receiving-putaway/purchase-invoice",
+              "id": "receiving-putaway/purchase-invoice",
+              "title": "Purchase Invoice",
+              "description": "This feature allows users to report their issues to developers or their task to each employee that registered in this app. Also, allow users to interact with the reporter and assignee on the column form that has already provide in issue details.",
+              "source": "@site/docs/receiving-putaway/purchase-invoice.md",
+              "sourceDirName": "receiving-putaway",
+              "slug": "/receiving-putaway/purchase-invoice",
+              "permalink": "/receiving-putaway/purchase-invoice",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/receiving-putaway/purchase-invoice.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "title": "Purchase Invoice",
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Documents Receipt",
+                "permalink": "/receiving-putaway/documents-receipt"
+              },
+              "next": {
+                "title": "Purchase Order",
+                "permalink": "/receiving-putaway/purchase-order"
+              }
+            },
+            {
+              "unversionedId": "receiving-putaway/purchase-order",
+              "id": "receiving-putaway/purchase-order",
+              "title": "Purchase Order",
+              "description": "This feature allows users to report their issues to developers or their task to each employee that registered in this app. Also, allow users to interact with the reporter and assignee on the column form that has already provide in issue details.",
+              "source": "@site/docs/receiving-putaway/purchase-order.md",
+              "sourceDirName": "receiving-putaway",
+              "slug": "/receiving-putaway/purchase-order",
+              "permalink": "/receiving-putaway/purchase-order",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/receiving-putaway/purchase-order.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "title": "Purchase Order",
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Purchase Invoice",
+                "permalink": "/receiving-putaway/purchase-invoice"
+              },
+              "next": {
+                "title": "Purchase Request",
+                "permalink": "/receiving-putaway/purchase-request"
+              }
+            },
+            {
+              "unversionedId": "receiving-putaway/purchase-request",
+              "id": "receiving-putaway/purchase-request",
+              "title": "Purchase Request",
+              "description": "This feature allows users to report their issues to developers or their task to each employee that registered in this app. Also, allow users to interact with the reporter and assignee on the column form that has already provide in issue details.",
+              "source": "@site/docs/receiving-putaway/purchase-request.md",
+              "sourceDirName": "receiving-putaway",
+              "slug": "/receiving-putaway/purchase-request",
+              "permalink": "/receiving-putaway/purchase-request",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/receiving-putaway/purchase-request.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "title": "Purchase Request",
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Purchase Order",
+                "permalink": "/receiving-putaway/purchase-order"
+              },
+              "next": {
+                "title": "Purchase Return",
+                "permalink": "/receiving-putaway/purchase-return"
+              }
+            },
+            {
+              "unversionedId": "receiving-putaway/purchase-return",
+              "id": "receiving-putaway/purchase-return",
+              "title": "Purchase Return",
+              "description": "This feature allows users to report their issues to developers or their task to each employee that registered in this app. Also, allow users to interact with the reporter and assignee on the column form that has already provide in issue details.",
+              "source": "@site/docs/receiving-putaway/purchase-return.md",
+              "sourceDirName": "receiving-putaway",
+              "slug": "/receiving-putaway/purchase-return",
+              "permalink": "/receiving-putaway/purchase-return",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/receiving-putaway/purchase-return.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "title": "Purchase Return",
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Purchase Request",
+                "permalink": "/receiving-putaway/purchase-request"
+              },
+              "next": {
+                "title": "Delivery Receipt",
+                "permalink": "/dispatching/delivery-receipt"
+              }
+            },
+            {
+              "unversionedId": "technology/analytics",
+              "id": "technology/analytics",
+              "title": "Boxity Analytics",
+              "description": "This page is under write.",
+              "source": "@site/docs/technology/analytics.md",
+              "sourceDirName": "technology",
+              "slug": "/technology/analytics",
+              "permalink": "/technology/analytics",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/technology/analytics.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Boxity Analytics"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Releases",
+                "permalink": "/platform/releases"
+              },
+              "next": {
+                "title": "Boxity Cloud",
+                "permalink": "/technology/cloud"
+              }
+            },
+            {
+              "unversionedId": "technology/cloud",
+              "id": "technology/cloud",
+              "title": "Boxity Cloud",
+              "description": "This page is under write.",
+              "source": "@site/docs/technology/cloud.md",
+              "sourceDirName": "technology",
+              "slug": "/technology/cloud",
+              "permalink": "/technology/cloud",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/technology/cloud.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Boxity Cloud"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Boxity Analytics",
+                "permalink": "/technology/analytics"
+              },
+              "next": {
+                "title": "Boxity Internet of Things",
+                "permalink": "/technology/iot"
+              }
+            },
+            {
+              "unversionedId": "technology/iot",
+              "id": "technology/iot",
+              "title": "Boxity Internet of Things",
+              "description": "This page is under write.",
+              "source": "@site/docs/technology/iot.md",
+              "sourceDirName": "technology",
+              "slug": "/technology/iot",
+              "permalink": "/technology/iot",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/technology/iot.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Boxity Internet of Things"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Boxity Cloud",
+                "permalink": "/technology/cloud"
+              },
+              "next": {
+                "title": "Telegram Notification",
+                "permalink": "/notifier/telegram-notificaion"
+              }
+            },
+            {
+              "unversionedId": "warehouse/warehouse-lists",
+              "id": "warehouse/warehouse-lists",
+              "title": "Warehouse List",
+              "description": "This feature allows users to report their issues to developers or their task to each employee that registered in this app. Also, allow users to interact with the reporter and assignee on the column form that has already provide in issue details.",
+              "source": "@site/docs/warehouse/warehouse-lists.md",
+              "sourceDirName": "warehouse",
+              "slug": "/warehouse/warehouse-lists",
+              "permalink": "/warehouse/warehouse-lists",
+              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/warehouse/warehouse-lists.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "title": "Warehouse List",
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Job Vacancy",
+                "permalink": "/human-resources-management/job-vacancy"
+              },
+              "next": {
+                "title": "Inventory Item",
+                "permalink": "/inventory-control/inventory-item"
+              }
+            }
+          ],
           "sidebars": {
             "tutorialSidebar": [
               {
@@ -25,6 +901,8 @@
               {
                 "type": "category",
                 "label": "General Applications",
+                "collapsible": true,
+                "collapsed": false,
                 "items": [
                   {
                     "type": "doc",
@@ -39,13 +917,13 @@
                     "type": "doc",
                     "id": "general-applications/issue-center"
                   }
-                ],
-                "collapsed": false,
-                "collapsible": true
+                ]
               },
               {
                 "type": "category",
                 "label": "Associate",
+                "collapsible": true,
+                "collapsed": false,
                 "items": [
                   {
                     "type": "doc",
@@ -60,13 +938,13 @@
                     "type": "doc",
                     "id": "associate/users-management"
                   }
-                ],
-                "collapsed": false,
-                "collapsible": true
+                ]
               },
               {
                 "type": "category",
                 "label": "Human Resources Management",
+                "collapsible": true,
+                "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
@@ -78,25 +956,25 @@
                     "id": "human-resources-management/job-vacancy",
                     "label": "Job Vacancy"
                   }
-                ],
-                "collapsed": true,
-                "collapsible": true
+                ]
               },
               {
                 "type": "category",
                 "label": "Warehouse",
+                "collapsible": true,
+                "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
                     "id": "warehouse/warehouse-lists"
                   }
-                ],
-                "collapsed": true,
-                "collapsible": true
+                ]
               },
               {
                 "type": "category",
                 "label": "Inventory Control",
+                "collapsible": true,
+                "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
@@ -110,13 +988,13 @@
                     "type": "doc",
                     "id": "inventory-control/stock-group"
                   }
-                ],
-                "collapsed": true,
-                "collapsible": true
+                ]
               },
               {
                 "type": "category",
                 "label": "Receiving & Putaway",
+                "collapsible": true,
+                "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
@@ -138,13 +1016,13 @@
                     "type": "doc",
                     "id": "receiving-putaway/purchase-return"
                   }
-                ],
-                "collapsed": true,
-                "collapsible": true
+                ]
               },
               {
                 "type": "category",
                 "label": "Dispatching",
+                "collapsible": true,
+                "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
@@ -166,13 +1044,13 @@
                     "type": "doc",
                     "id": "dispatching/sales-return"
                   }
-                ],
-                "collapsed": true,
-                "collapsible": true
+                ]
               },
               {
                 "type": "category",
                 "label": "Main Web Config",
+                "collapsible": true,
+                "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
@@ -186,25 +1064,25 @@
                     "type": "doc",
                     "id": "main-web-config/popup-window"
                   }
-                ],
-                "collapsed": true,
-                "collapsible": true
+                ]
               },
               {
                 "type": "category",
                 "label": "Privacy & Others",
+                "collapsible": true,
+                "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
                     "id": "privacy-others/activity-log"
                   }
-                ],
-                "collapsed": true,
-                "collapsible": true
+                ]
               },
               {
                 "type": "category",
                 "label": "Platform",
+                "collapsible": true,
+                "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
@@ -214,13 +1092,13 @@
                     "type": "doc",
                     "id": "platform/releases"
                   }
-                ],
-                "collapsed": true,
-                "collapsible": true
+                ]
               },
               {
                 "type": "category",
                 "label": "Technology",
+                "collapsible": true,
+                "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
@@ -234,904 +1112,31 @@
                     "type": "doc",
                     "id": "technology/iot"
                   }
-                ],
-                "collapsed": true,
-                "collapsible": true
+                ]
               },
               {
                 "type": "category",
                 "label": "Notifier",
+                "collapsible": true,
+                "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
                     "id": "notifier/telegram-notificaion"
                   }
-                ],
-                "collapsed": true,
-                "collapsible": true
+                ]
               }
             ]
           },
-          "docs": [
-            {
-              "unversionedId": "associate/customers",
-              "id": "associate/customers",
-              "isDocsHomePage": false,
-              "title": "Customers",
-              "description": "Overview",
-              "source": "@site/docs/associate/customers.md",
-              "sourceDirName": "associate",
-              "slug": "/associate/customers",
-              "permalink": "/associate/customers",
-              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/associate/customers.md",
-              "version": "current",
-              "frontMatter": {
-                "title": "Customers"
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Issue Center",
-                "permalink": "/general-applications/issue-center"
-              },
-              "next": {
-                "title": "Suppliers",
-                "permalink": "/associate/suppliers"
-              }
-            },
-            {
-              "unversionedId": "associate/suppliers",
-              "id": "associate/suppliers",
-              "isDocsHomePage": false,
-              "title": "Suppliers",
-              "description": "Overview",
-              "source": "@site/docs/associate/suppliers.md",
-              "sourceDirName": "associate",
-              "slug": "/associate/suppliers",
-              "permalink": "/associate/suppliers",
-              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/associate/suppliers.md",
-              "version": "current",
-              "frontMatter": {
-                "title": "Suppliers",
-                "sidebar_label": "Suppliers"
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Customers",
-                "permalink": "/associate/customers"
-              },
-              "next": {
-                "title": "Users Management",
-                "permalink": "/associate/users-management"
-              }
-            },
-            {
-              "unversionedId": "associate/users-management",
-              "id": "associate/users-management",
-              "isDocsHomePage": false,
-              "title": "Users Management",
-              "description": "Overview",
-              "source": "@site/docs/associate/users-management.md",
-              "sourceDirName": "associate",
-              "slug": "/associate/users-management",
-              "permalink": "/associate/users-management",
-              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/associate/users-management.md",
-              "version": "current",
-              "frontMatter": {
-                "title": "Users Management"
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Suppliers",
-                "permalink": "/associate/suppliers"
-              },
-              "next": {
-                "title": "Candidate",
-                "permalink": "/human-resources-management/candidate"
-              }
-            },
-            {
-              "unversionedId": "dispatching/delivery-receipt",
-              "id": "dispatching/delivery-receipt",
-              "isDocsHomePage": false,
-              "title": "Delivery Receipt",
-              "description": "This feature allows users to report their issues to developers or their task to each employee that registered in this app. Also, allow users to interact with the reporter and assignee on the column form that has already provide in issue details.",
-              "source": "@site/docs/dispatching/delivery-receipt.md",
-              "sourceDirName": "dispatching",
-              "slug": "/dispatching/delivery-receipt",
-              "permalink": "/dispatching/delivery-receipt",
-              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/dispatching/delivery-receipt.md",
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "title": "Delivery Receipt",
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Purchase Return",
-                "permalink": "/receiving-putaway/purchase-return"
-              },
-              "next": {
-                "title": "Documents Delivery",
-                "permalink": "/dispatching/documents-delivery"
-              }
-            },
-            {
-              "unversionedId": "dispatching/documents-delivery",
-              "id": "dispatching/documents-delivery",
-              "isDocsHomePage": false,
-              "title": "Documents Delivery",
-              "description": "This feature allows users to report their issues to developers or their task to each employee that registered in this app. Also, allow users to interact with the reporter and assignee on the column form that has already provide in issue details.",
-              "source": "@site/docs/dispatching/documents-delivery.md",
-              "sourceDirName": "dispatching",
-              "slug": "/dispatching/documents-delivery",
-              "permalink": "/dispatching/documents-delivery",
-              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/dispatching/documents-delivery.md",
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "title": "Documents Delivery",
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Delivery Receipt",
-                "permalink": "/dispatching/delivery-receipt"
-              },
-              "next": {
-                "title": "Sales Invoice",
-                "permalink": "/dispatching/sales-invoice"
-              }
-            },
-            {
-              "unversionedId": "dispatching/sales-invoice",
-              "id": "dispatching/sales-invoice",
-              "isDocsHomePage": false,
-              "title": "Sales Invoice",
-              "description": "This feature allows users to report their issues to developers or their task to each employee that registered in this app. Also, allow users to interact with the reporter and assignee on the column form that has already provide in issue details.",
-              "source": "@site/docs/dispatching/sales-invoice.md",
-              "sourceDirName": "dispatching",
-              "slug": "/dispatching/sales-invoice",
-              "permalink": "/dispatching/sales-invoice",
-              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/dispatching/sales-invoice.md",
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "title": "Sales Invoice",
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Documents Delivery",
-                "permalink": "/dispatching/documents-delivery"
-              },
-              "next": {
-                "title": "Sales Order",
-                "permalink": "/dispatching/sales-order"
-              }
-            },
-            {
-              "unversionedId": "dispatching/sales-order",
-              "id": "dispatching/sales-order",
-              "isDocsHomePage": false,
-              "title": "Sales Order",
-              "description": "This feature allows users to report their issues to developers or their task to each employee that registered in this app. Also, allow users to interact with the reporter and assignee on the column form that has already provide in issue details.",
-              "source": "@site/docs/dispatching/sales-order.md",
-              "sourceDirName": "dispatching",
-              "slug": "/dispatching/sales-order",
-              "permalink": "/dispatching/sales-order",
-              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/dispatching/sales-order.md",
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "title": "Sales Order",
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Sales Invoice",
-                "permalink": "/dispatching/sales-invoice"
-              },
-              "next": {
-                "title": "Sales Return",
-                "permalink": "/dispatching/sales-return"
-              }
-            },
-            {
-              "unversionedId": "dispatching/sales-return",
-              "id": "dispatching/sales-return",
-              "isDocsHomePage": false,
-              "title": "Sales Return",
-              "description": "This feature allows users to report their issues to developers or their task to each employee that registered in this app. Also, allow users to interact with the reporter and assignee on the column form that has already provide in issue details.",
-              "source": "@site/docs/dispatching/sales-return.md",
-              "sourceDirName": "dispatching",
-              "slug": "/dispatching/sales-return",
-              "permalink": "/dispatching/sales-return",
-              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/dispatching/sales-return.md",
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "title": "Sales Return",
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Sales Order",
-                "permalink": "/dispatching/sales-order"
-              },
-              "next": {
-                "title": "Blog",
-                "permalink": "/main-web-config/blog"
-              }
-            },
-            {
-              "unversionedId": "general-applications/issue-center",
-              "id": "general-applications/issue-center",
-              "isDocsHomePage": false,
-              "title": "Issue Center",
-              "description": "Group your users based on a set of rules, then control Feature Flags and Remote Config for those groups.",
-              "source": "@site/docs/general-applications/issue-center.md",
-              "sourceDirName": "general-applications",
-              "slug": "/general-applications/issue-center",
-              "permalink": "/general-applications/issue-center",
-              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/general-applications/issue-center.md",
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "title": "Issue Center",
-                "description": "Group your users based on a set of rules, then control Feature Flags and Remote Config for those groups.",
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "User Contact List",
-                "permalink": "/general-applications/user-contact-list"
-              },
-              "next": {
-                "title": "Customers",
-                "permalink": "/associate/customers"
-              }
-            },
-            {
-              "unversionedId": "general-applications/overview",
-              "id": "general-applications/overview",
-              "isDocsHomePage": false,
-              "title": "General Applications - An Overview",
-              "description": "General applications are applications that everyone can use these features regardless of the role. Currently, common applications have several features, namely:",
-              "source": "@site/docs/general-applications/overview.md",
-              "sourceDirName": "general-applications",
-              "slug": "/general-applications/overview",
-              "permalink": "/general-applications/overview",
-              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/general-applications/overview.md",
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "title": "General Applications - An Overview",
-                "sidebar_label": "Overview",
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Overview",
-                "permalink": "/"
-              },
-              "next": {
-                "title": "User Contact List",
-                "permalink": "/general-applications/user-contact-list"
-              }
-            },
-            {
-              "unversionedId": "general-applications/user-contact-list",
-              "id": "general-applications/user-contact-list",
-              "isDocsHomePage": false,
-              "title": "User Contact List",
-              "description": "Manage user traits and properties independently of your application.",
-              "source": "@site/docs/general-applications/user-contact-list.md",
-              "sourceDirName": "general-applications",
-              "slug": "/general-applications/user-contact-list",
-              "permalink": "/general-applications/user-contact-list",
-              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/general-applications/user-contact-list.md",
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "title": "User Contact List",
-                "description": "Manage user traits and properties independently of your application.",
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Overview",
-                "permalink": "/general-applications/overview"
-              },
-              "next": {
-                "title": "Issue Center",
-                "permalink": "/general-applications/issue-center"
-              }
-            },
-            {
-              "unversionedId": "human-resources-management/candidate",
-              "id": "human-resources-management/candidate",
-              "isDocsHomePage": false,
-              "title": "Candidate",
-              "description": "Overview",
-              "source": "@site/docs/human-resources-management/candidate.md",
-              "sourceDirName": "human-resources-management",
-              "slug": "/human-resources-management/candidate",
-              "permalink": "/human-resources-management/candidate",
-              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/human-resources-management/candidate.md",
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "title": "Candidate",
-                "sidebar_label": "Candidate",
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Users Management",
-                "permalink": "/associate/users-management"
-              },
-              "next": {
-                "title": "Job Vacancy",
-                "permalink": "/human-resources-management/job-vacancy"
-              }
-            },
-            {
-              "unversionedId": "human-resources-management/job-vacancy",
-              "id": "human-resources-management/job-vacancy",
-              "isDocsHomePage": false,
-              "title": "Job Vacancy",
-              "description": "Overview",
-              "source": "@site/docs/human-resources-management/job-vacancy.md",
-              "sourceDirName": "human-resources-management",
-              "slug": "/human-resources-management/job-vacancy",
-              "permalink": "/human-resources-management/job-vacancy",
-              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/human-resources-management/job-vacancy.md",
-              "version": "current",
-              "frontMatter": {
-                "title": "Job Vacancy",
-                "sidebar_label": "Job Vacancy"
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Candidate",
-                "permalink": "/human-resources-management/candidate"
-              },
-              "next": {
-                "title": "Warehouse List",
-                "permalink": "/warehouse/warehouse-lists"
-              }
-            },
-            {
-              "unversionedId": "intro",
-              "id": "intro",
-              "isDocsHomePage": false,
-              "title": "Boxity Docs",
-              "description": "Boxity",
-              "source": "@site/docs/index.md",
-              "sourceDirName": ".",
-              "slug": "/",
-              "permalink": "/",
-              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/index.md",
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "id": "intro",
-                "slug": "/",
-                "sidebar_position": 1,
-                "hide_title": true,
-                "sidebar_label": "Overview"
-              },
-              "sidebar": "tutorialSidebar",
-              "next": {
-                "title": "Overview",
-                "permalink": "/general-applications/overview"
-              }
-            },
-            {
-              "unversionedId": "inventory-control/inventory-item",
-              "id": "inventory-control/inventory-item",
-              "isDocsHomePage": false,
-              "title": "Inventory Item",
-              "description": "This feature allows users to report their issues to developers or their task to each employee that registered in this app. Also, allow users to interact with the reporter and assignee on the column form that has already provide in issue details.",
-              "source": "@site/docs/inventory-control/inventory-item.md",
-              "sourceDirName": "inventory-control",
-              "slug": "/inventory-control/inventory-item",
-              "permalink": "/inventory-control/inventory-item",
-              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/inventory-control/inventory-item.md",
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "title": "Inventory Item",
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Warehouse List",
-                "permalink": "/warehouse/warehouse-lists"
-              },
-              "next": {
-                "title": "Item Group",
-                "permalink": "/inventory-control/item-group"
-              }
-            },
-            {
-              "unversionedId": "inventory-control/item-group",
-              "id": "inventory-control/item-group",
-              "isDocsHomePage": false,
-              "title": "Item Group",
-              "description": "This feature allows users to report their issues to developers or their task to each employee that registered in this app. Also, allow users to interact with the reporter and assignee on the column form that has already provide in issue details.",
-              "source": "@site/docs/inventory-control/item-group.md",
-              "sourceDirName": "inventory-control",
-              "slug": "/inventory-control/item-group",
-              "permalink": "/inventory-control/item-group",
-              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/inventory-control/item-group.md",
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "title": "Item Group",
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Inventory Item",
-                "permalink": "/inventory-control/inventory-item"
-              },
-              "next": {
-                "title": "Stock Group",
-                "permalink": "/inventory-control/stock-group"
-              }
-            },
-            {
-              "unversionedId": "inventory-control/stock-group",
-              "id": "inventory-control/stock-group",
-              "isDocsHomePage": false,
-              "title": "Stock Group",
-              "description": "This feature allows users to report their issues to developers or their task to each employee that registered in this app. Also, allow users to interact with the reporter and assignee on the column form that has already provide in issue details.",
-              "source": "@site/docs/inventory-control/stock-group.md",
-              "sourceDirName": "inventory-control",
-              "slug": "/inventory-control/stock-group",
-              "permalink": "/inventory-control/stock-group",
-              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/inventory-control/stock-group.md",
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "title": "Stock Group",
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Item Group",
-                "permalink": "/inventory-control/item-group"
-              },
-              "next": {
-                "title": "Documents Receipt",
-                "permalink": "/receiving-putaway/documents-receipt"
-              }
-            },
-            {
-              "unversionedId": "main-web-config/blog",
-              "id": "main-web-config/blog",
-              "isDocsHomePage": false,
-              "title": "Blog",
-              "description": "This feature allows users to report their issues to developers or their task to each employee that registered in this app. Also, allow users to interact with the reporter and assignee on the column form that has already provide in issue details.",
-              "source": "@site/docs/main-web-config/blog.md",
-              "sourceDirName": "main-web-config",
-              "slug": "/main-web-config/blog",
-              "permalink": "/main-web-config/blog",
-              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/main-web-config/blog.md",
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "title": "Blog",
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Sales Return",
-                "permalink": "/dispatching/sales-return"
-              },
-              "next": {
-                "title": "Gallery",
-                "permalink": "/main-web-config/gallery"
-              }
-            },
-            {
-              "unversionedId": "main-web-config/gallery",
-              "id": "main-web-config/gallery",
-              "isDocsHomePage": false,
-              "title": "Gallery",
-              "description": "This feature allows users to report their issues to developers or their task to each employee that registered in this app. Also, allow users to interact with the reporter and assignee on the column form that has already provide in issue details.",
-              "source": "@site/docs/main-web-config/gallery.md",
-              "sourceDirName": "main-web-config",
-              "slug": "/main-web-config/gallery",
-              "permalink": "/main-web-config/gallery",
-              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/main-web-config/gallery.md",
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "title": "Gallery",
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Blog",
-                "permalink": "/main-web-config/blog"
-              },
-              "next": {
-                "title": "Popup Window",
-                "permalink": "/main-web-config/popup-window"
-              }
-            },
-            {
-              "unversionedId": "main-web-config/popup-window",
-              "id": "main-web-config/popup-window",
-              "isDocsHomePage": false,
-              "title": "Popup Window",
-              "description": "This feature allows users to report their issues to developers or their task to each employee that registered in this app. Also, allow users to interact with the reporter and assignee on the column form that has already provide in issue details.",
-              "source": "@site/docs/main-web-config/popup-window.md",
-              "sourceDirName": "main-web-config",
-              "slug": "/main-web-config/popup-window",
-              "permalink": "/main-web-config/popup-window",
-              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/main-web-config/popup-window.md",
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "title": "Popup Window",
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Gallery",
-                "permalink": "/main-web-config/gallery"
-              },
-              "next": {
-                "title": "Activity Log",
-                "permalink": "/privacy-others/activity-log"
-              }
-            },
-            {
-              "unversionedId": "notifier/telegram-notificaion",
-              "id": "notifier/telegram-notificaion",
-              "isDocsHomePage": false,
-              "title": "Telegram Notification",
-              "description": "Telegram notifier is the tool for that user registered his ID's telegram to received the information needed. So we can give you the simpler information, with the simpler way and with the simpler responsive.",
-              "source": "@site/docs/notifier/telegram-notificaion.md",
-              "sourceDirName": "notifier",
-              "slug": "/notifier/telegram-notificaion",
-              "permalink": "/notifier/telegram-notificaion",
-              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/notifier/telegram-notificaion.md",
-              "version": "current",
-              "frontMatter": {
-                "title": "Telegram Notification"
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Boxity Internet of Things",
-                "permalink": "/technology/iot"
-              }
-            },
-            {
-              "unversionedId": "platform/contributing",
-              "id": "platform/contributing",
-              "isDocsHomePage": false,
-              "title": "Contributing",
-              "description": "We're always looking to improve this project, open-source contribution is encouraged so long as they adhere to these",
-              "source": "@site/docs/platform/contributing.md",
-              "sourceDirName": "platform",
-              "slug": "/platform/contributing",
-              "permalink": "/platform/contributing",
-              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/platform/contributing.md",
-              "version": "current",
-              "frontMatter": {
-                "title": "Contributing"
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Activity Log",
-                "permalink": "/privacy-others/activity-log"
-              },
-              "next": {
-                "title": "Releases",
-                "permalink": "/platform/releases"
-              }
-            },
-            {
-              "unversionedId": "platform/releases",
-              "id": "platform/releases",
-              "isDocsHomePage": false,
-              "title": "Releases",
-              "description": "v1.0.8",
-              "source": "@site/docs/platform/releases.md",
-              "sourceDirName": "platform",
-              "slug": "/platform/releases",
-              "permalink": "/platform/releases",
-              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/platform/releases.md",
-              "version": "current",
-              "frontMatter": {
-                "title": "Releases"
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Contributing",
-                "permalink": "/platform/contributing"
-              },
-              "next": {
-                "title": "Boxity Analytics",
-                "permalink": "/technology/analytics"
-              }
-            },
-            {
-              "unversionedId": "privacy-others/activity-log",
-              "id": "privacy-others/activity-log",
-              "isDocsHomePage": false,
-              "title": "Activity Log",
-              "description": "This feature allows users to report their issues to developers or their task to each employee that registered in this app. Also, allow users to interact with the reporter and assignee on the column form that has already provide in issue details.",
-              "source": "@site/docs/privacy-others/activity-log.md",
-              "sourceDirName": "privacy-others",
-              "slug": "/privacy-others/activity-log",
-              "permalink": "/privacy-others/activity-log",
-              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/privacy-others/activity-log.md",
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "title": "Activity Log",
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Popup Window",
-                "permalink": "/main-web-config/popup-window"
-              },
-              "next": {
-                "title": "Contributing",
-                "permalink": "/platform/contributing"
-              }
-            },
-            {
-              "unversionedId": "receiving-putaway/documents-receipt",
-              "id": "receiving-putaway/documents-receipt",
-              "isDocsHomePage": false,
-              "title": "Documents Receipt",
-              "description": "This feature allows users to report their issues to developers or their task to each employee that registered in this app. Also, allow users to interact with the reporter and assignee on the column form that has already provide in issue details.",
-              "source": "@site/docs/receiving-putaway/documents-receipt.md",
-              "sourceDirName": "receiving-putaway",
-              "slug": "/receiving-putaway/documents-receipt",
-              "permalink": "/receiving-putaway/documents-receipt",
-              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/receiving-putaway/documents-receipt.md",
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "title": "Documents Receipt",
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Stock Group",
-                "permalink": "/inventory-control/stock-group"
-              },
-              "next": {
-                "title": "Purchase Invoice",
-                "permalink": "/receiving-putaway/purchase-invoice"
-              }
-            },
-            {
-              "unversionedId": "receiving-putaway/purchase-invoice",
-              "id": "receiving-putaway/purchase-invoice",
-              "isDocsHomePage": false,
-              "title": "Purchase Invoice",
-              "description": "This feature allows users to report their issues to developers or their task to each employee that registered in this app. Also, allow users to interact with the reporter and assignee on the column form that has already provide in issue details.",
-              "source": "@site/docs/receiving-putaway/purchase-invoice.md",
-              "sourceDirName": "receiving-putaway",
-              "slug": "/receiving-putaway/purchase-invoice",
-              "permalink": "/receiving-putaway/purchase-invoice",
-              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/receiving-putaway/purchase-invoice.md",
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "title": "Purchase Invoice",
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Documents Receipt",
-                "permalink": "/receiving-putaway/documents-receipt"
-              },
-              "next": {
-                "title": "Purchase Order",
-                "permalink": "/receiving-putaway/purchase-order"
-              }
-            },
-            {
-              "unversionedId": "receiving-putaway/purchase-order",
-              "id": "receiving-putaway/purchase-order",
-              "isDocsHomePage": false,
-              "title": "Purchase Order",
-              "description": "This feature allows users to report their issues to developers or their task to each employee that registered in this app. Also, allow users to interact with the reporter and assignee on the column form that has already provide in issue details.",
-              "source": "@site/docs/receiving-putaway/purchase-order.md",
-              "sourceDirName": "receiving-putaway",
-              "slug": "/receiving-putaway/purchase-order",
-              "permalink": "/receiving-putaway/purchase-order",
-              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/receiving-putaway/purchase-order.md",
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "title": "Purchase Order",
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Purchase Invoice",
-                "permalink": "/receiving-putaway/purchase-invoice"
-              },
-              "next": {
-                "title": "Purchase Request",
-                "permalink": "/receiving-putaway/purchase-request"
-              }
-            },
-            {
-              "unversionedId": "receiving-putaway/purchase-request",
-              "id": "receiving-putaway/purchase-request",
-              "isDocsHomePage": false,
-              "title": "Purchase Request",
-              "description": "This feature allows users to report their issues to developers or their task to each employee that registered in this app. Also, allow users to interact with the reporter and assignee on the column form that has already provide in issue details.",
-              "source": "@site/docs/receiving-putaway/purchase-request.md",
-              "sourceDirName": "receiving-putaway",
-              "slug": "/receiving-putaway/purchase-request",
-              "permalink": "/receiving-putaway/purchase-request",
-              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/receiving-putaway/purchase-request.md",
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "title": "Purchase Request",
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Purchase Order",
-                "permalink": "/receiving-putaway/purchase-order"
-              },
-              "next": {
-                "title": "Purchase Return",
-                "permalink": "/receiving-putaway/purchase-return"
-              }
-            },
-            {
-              "unversionedId": "receiving-putaway/purchase-return",
-              "id": "receiving-putaway/purchase-return",
-              "isDocsHomePage": false,
-              "title": "Purchase Return",
-              "description": "This feature allows users to report their issues to developers or their task to each employee that registered in this app. Also, allow users to interact with the reporter and assignee on the column form that has already provide in issue details.",
-              "source": "@site/docs/receiving-putaway/purchase-return.md",
-              "sourceDirName": "receiving-putaway",
-              "slug": "/receiving-putaway/purchase-return",
-              "permalink": "/receiving-putaway/purchase-return",
-              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/receiving-putaway/purchase-return.md",
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "title": "Purchase Return",
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Purchase Request",
-                "permalink": "/receiving-putaway/purchase-request"
-              },
-              "next": {
-                "title": "Delivery Receipt",
-                "permalink": "/dispatching/delivery-receipt"
-              }
-            },
-            {
-              "unversionedId": "technology/analytics",
-              "id": "technology/analytics",
-              "isDocsHomePage": false,
-              "title": "Boxity Analytics",
-              "description": "This page is under write.",
-              "source": "@site/docs/technology/analytics.md",
-              "sourceDirName": "technology",
-              "slug": "/technology/analytics",
-              "permalink": "/technology/analytics",
-              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/technology/analytics.md",
-              "version": "current",
-              "frontMatter": {
-                "title": "Boxity Analytics"
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Releases",
-                "permalink": "/platform/releases"
-              },
-              "next": {
-                "title": "Boxity Cloud",
-                "permalink": "/technology/cloud"
-              }
-            },
-            {
-              "unversionedId": "technology/cloud",
-              "id": "technology/cloud",
-              "isDocsHomePage": false,
-              "title": "Boxity Cloud",
-              "description": "This page is under write.",
-              "source": "@site/docs/technology/cloud.md",
-              "sourceDirName": "technology",
-              "slug": "/technology/cloud",
-              "permalink": "/technology/cloud",
-              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/technology/cloud.md",
-              "version": "current",
-              "frontMatter": {
-                "title": "Boxity Cloud"
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Boxity Analytics",
-                "permalink": "/technology/analytics"
-              },
-              "next": {
-                "title": "Boxity Internet of Things",
-                "permalink": "/technology/iot"
-              }
-            },
-            {
-              "unversionedId": "technology/iot",
-              "id": "technology/iot",
-              "isDocsHomePage": false,
-              "title": "Boxity Internet of Things",
-              "description": "This page is under write.",
-              "source": "@site/docs/technology/iot.md",
-              "sourceDirName": "technology",
-              "slug": "/technology/iot",
-              "permalink": "/technology/iot",
-              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/technology/iot.md",
-              "version": "current",
-              "frontMatter": {
-                "title": "Boxity Internet of Things"
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Boxity Cloud",
-                "permalink": "/technology/cloud"
-              },
-              "next": {
-                "title": "Telegram Notification",
-                "permalink": "/notifier/telegram-notificaion"
-              }
-            },
-            {
-              "unversionedId": "warehouse/warehouse-lists",
-              "id": "warehouse/warehouse-lists",
-              "isDocsHomePage": false,
-              "title": "Warehouse List",
-              "description": "This feature allows users to report their issues to developers or their task to each employee that registered in this app. Also, allow users to interact with the reporter and assignee on the column form that has already provide in issue details.",
-              "source": "@site/docs/warehouse/warehouse-lists.md",
-              "sourceDirName": "warehouse",
-              "slug": "/warehouse/warehouse-lists",
-              "permalink": "/warehouse/warehouse-lists",
-              "editUrl": "https://github.com/bintangjtobing/boxity-docs/docs/warehouse/warehouse-lists.md",
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "title": "Warehouse List",
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Job Vacancy",
-                "permalink": "/human-resources-management/job-vacancy"
-              },
-              "next": {
-                "title": "Inventory Item",
-                "permalink": "/inventory-control/inventory-item"
-              }
-            }
-          ]
+          "mainDocId": "intro",
+          "categoryGeneratedIndices": []
         }
       ]
     }
   },
   "docusaurus-plugin-content-blog": {
     "default": {
+      "blogSidebarTitle": "Recent posts",
       "blogPosts": [],
       "blogListPaginated": [],
       "blogTags": {},
